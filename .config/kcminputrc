@@ -1,0 +1,4 @@
+[Mouse]
+X11LibInputXAccelProfileFlat=false
+XLbInptAccelProfileFlat=true
+XLbInptPointerAcceleration=0.4

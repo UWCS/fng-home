@@ -1,0 +1,42 @@
+"Registry"
+{
+	"HKLM"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"SteamPID"		"0"
+					"TempAppCmdLine"		""
+					"ReLaunchCmdLine"		""
+					"ClientLauncherType"		"0"
+				}
+			}
+		}
+	}
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"StartupModeTmpIsValid"		"0"
+					"steamglobal"
+					{
+						"language"		"english"
+					}
+					"language"		"english"
+					"SourceModInstallPath"		"/home/fng/.local/share/Steam/steamapps\\sourcemods"
+					"AutoLoginUser"		"alexwoodend"
+					"Rate"		"30000"
+					"AlreadyRetriedOfflineMode"		"0"
+					"StartupModeTmp"		"7"
+				}
+			}
+		}
+	}
+}

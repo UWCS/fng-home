@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/lib/
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    145044 2024-04-09 15:42 ./usr/lib/i386-linux-gnu/libSDL2_image-2.0.so.0.800.2
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/share/
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-04-09 15:42 ./usr/share/doc/libsdl2-image-2.0-0/
+-rw-r--r-- root/root      3246 2023-11-29 15:43 ./usr/share/doc/libsdl2-image-2.0-0/changelog.gz
+-rw-r--r-- root/root     10084 2024-04-09 15:39 ./usr/share/doc/libsdl2-image-2.0-0/changelog.Debian.i386.gz
+-rw-r--r-- root/root      6230 2024-01-09 16:40 ./usr/share/doc/libsdl2-image-2.0-0/copyright
+-rw-r--r-- root/root      2041 2023-11-29 15:43 ./usr/share/doc/libsdl2-image-2.0-0/README.txt
+lrwxrwxrwx root/root         0 2024-04-09 15:42 ./usr/lib/i386-linux-gnu/libSDL2_image-2.0.so.0 -> libSDL2_image-2.0.so.0.800.2

@@ -1,0 +1,7 @@
+drwxr-xr-x root/root         0 2024-03-21 18:40 ./
+drwxr-xr-x root/root         0 2024-03-21 18:40 ./usr/
+drwxr-xr-x root/root         0 2024-03-21 18:40 ./usr/share/
+drwxr-xr-x root/root         0 2024-03-21 18:40 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-03-21 18:40 ./usr/share/doc/steamrt-legacy/
+-rw-r--r-- root/root     13003 2024-03-21 18:40 ./usr/share/doc/steamrt-legacy/changelog.amd64.gz
+-rw-r--r-- root/root      2820 2024-03-21 18:37 ./usr/share/doc/steamrt-legacy/copyright

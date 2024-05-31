@@ -1,0 +1,266 @@
+     0.000 D | Testing "/home/fng/.local/share/PrismLauncher/qtlogging.ini" ...
+     0.000 D | Testing "/usr/share/PrismLauncher/qtlogging.ini" ...
+     0.000 D | Loading logging rules from: "/usr/share/PrismLauncher/qtlogging.ini"
+     0.000 D | Setting log rules:
+     0.000 D |      "*.debug=true"
+     0.000 D |      "katabasis.*.debug=false"
+     0.000 D |      "launcher.auth.credentials.debug=false"
+     0.000 D |      "launcher.task=false"
+     0.000 D |      "launcher.task.net=true"
+     0.000 D |      "launcher.task.net.download.debug=false"
+     0.000 D |      "launcher.task.net.metacache=false"
+     0.000 D |      "launcher.task.net.metacache.http=true"
+     0.000 D |      "launcher.task.net.upload=true"
+     0.000 D |      "qt.*.debug=false"
+     0.000 D | <> Log initialized.
+     0.000 D | <> No migration needed from "PolyMC"
+     0.000 D | <> No migration needed from "MultiMC"
+     0.000 D | Prism Launcher, © 2022-2024 Prism Launcher Contributors, © 2021-2022 PolyMC Contributors, © 2012-2021 MultiMC Contributors
+     0.000 D | Version                    :  "8.3"
+     0.000 D | Platform                   :  "official"
+     0.000 D | Git commit                 :  ""
+     0.000 D | Git refspec                :  "refs/heads/stable"
+     0.000 D | Compiled for               :  "Linux 5.15.0-1060-azure x86_64"
+     0.000 D | Compiled by                :  "GNU - 9.4.0"
+     0.000 D | Build Artifact             :  "Linux-Qt5"
+     0.000 D | Updates Enabled           :  No
+     0.000 D | Work dir before adjustment :  "/home/fng"
+     0.000 D | Work dir after adjustment  :  "/home/fng/.local/share/PrismLauncher"
+     0.000 D | Adjusted by                :  "Persistent data path"
+     0.000 D | Binary path                :  "/usr/bin"
+     0.000 D | Application root path      :  "/usr"
+     0.000 D | <> Paths set.
+     0.012 D | Detected default console font: "Noto Sans Mono" , substitutions: ""
+     0.047 D | <> Settings loaded.
+     0.049 D | Detecting proxy settings...
+     0.049 D | Using no proxy is an option!
+     0.049 D | <> Network done.
+     0.049 C | Exception: "Unable to open /home/fng/.local/share/PrismLauncher/translations/index_v2.json for reading: No such file or directory"
+     0.049 C | Translations Download Failed: index file not readable
+     0.049 W | Selected invalid language "" , defaulting to "en_US"
+     0.049 D | Your language is ""
+     0.049 D | <> Translations loaded.
+     0.050 D | Started watching  "/home/fng/.local/share/PrismLauncher/icons"
+     0.050 D | Sorting icon list...
+     0.050 D | <> Instance icons intialized.
+     0.050 D | [Theme] <> Initializing Icon Themes
+     0.050 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.050 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.050 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.050 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.050 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.051 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.051 D | [Theme] Icon Theme Folder Path:  "/home/fng/.local/share/PrismLauncher/iconthemes"
+     0.051 D | [Theme] <> Icon themes initialized.
+     0.051 D | [Theme] <> Initializing Widget Themes
+     0.051 D | [Theme] Determining System Theme...
+     0.051 D | [Theme] System theme seems to be: "fusion"
+     0.051 D | [Theme] Considering theme from theme factory: "windows"
+     0.051 D | [Theme] Considering theme from theme factory: "fusion"
+     0.051 D | [Theme] System theme has been determined to be: "Fusion"
+     0.051 D | [Theme] Loading Built-in Theme: "system"
+     0.051 D | [Theme] Loading Built-in Theme: "dark"
+     0.051 D | [Theme] Loading Built-in Theme: "bright"
+     0.051 D | [Theme] Theme Folder Path:  "/home/fng/.local/share/PrismLauncher/themes"
+     0.051 D | [Theme] <> Widget themes initialized.
+     0.051 D | [Theme] CatPacks Folder Path: "/home/fng/.local/share/PrismLauncher/catpacks"
+     0.054 D | Instance path              :  "instances"
+     0.054 D | Loading Instances...
+     0.054 D | Discovering instances in "/home/fng/.local/share/PrismLauncher/instances"
+     0.054 D | <> Instances loaded.
+     0.054 D | Loading accounts...
+     0.054 C | "Failed to read the account list file (accounts.json)."
+     0.054 D | <> Accounts loaded.
+     0.054 D | <> Cache initialized.
+     0.054 D | Downloading Translations Index...
+     0.055 C | dlopen() failed: t file: cannot open shared object file: No such file or directory
+     0.055 C | dlopen() failed: libopenal.so: cannot open shared object file: No such file or directory
+     0.055 D | Detected native libraries: "" ""
+     0.087 D | [Theme] <> Icon theme set.
+     0.087 D | [Theme] applying theme "System"
+     0.087 D | [Theme] <> Application theme set.
+     0.110 D | Setting Icons
+     0.110 D | Setting Cat
+     0.110 D | [Theme] applying catpack "kitteh"
+     0.138 D | Dir changed: "/home/fng/.local/share/PrismLauncher/translations"
+     0.173 D | Got translations index!
+     0.174 W | QAbstractItemModel::endInsertRows:  Invalid index ( 78 , 0 ) in model TranslationsModel(0x55ffff7637a0)
+     0.174 W | QAbstractItemModel::endInsertRows:  Invalid index ( 78 , 1 ) in model TranslationsModel(0x55ffff7637a0)
+     0.174 W | Selected invalid language "C" , defaulting to "en_US"
+     0.213 W | Cannot update builtin language "en_US"
+     0.213 D | Dir changed: "/home/fng/.local/share/PrismLauncher/translations"
+     2.348 D | Loading Qt Language File for en_GB ...
+     2.348 C | Loading Qt Language File failed.
+     2.354 D | Dir changed: "/home/fng/.local/share/PrismLauncher/translations"
+     2.367 D | Loading Qt Language File for en_GB ...
+     2.367 C | Loading Qt Language File failed.
+     2.503 D | Got translation: "en_GB"
+     2.503 D | Loading Qt Language File for en_GB ...
+     2.503 C | Loading Qt Language File failed.
+     2.503 D | Dir changed: "/home/fng/.local/share/PrismLauncher/translations"
+     2.515 D | Loading Qt Language File for en_GB ...
+     2.515 C | Loading Qt Language File failed.
+     2.515 D | Loading Application Language File for en_GB ...
+     4.387 D | Probing the following Java paths: 
+     4.387 D |   "java"
+     4.387 D |   "/usr/lib/jvm/java-17-openjdk/jre/bin/java"
+     4.387 D |   "/usr/lib/jvm/java-17-openjdk/bin/java"
+     4.387 D |   ""
+     4.387 D | "Java detection"  started.
+     4.387 D | Running java checker: "java" "-jar /usr/share/PrismLauncher/JavaCheck.jar"
+     4.388 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/jre/bin/java" "-jar /usr/share/PrismLauncher/JavaCheck.jar"
+     4.388 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-jar /usr/share/PrismLauncher/JavaCheck.jar"
+     4.389 D | Running java checker: "" "-jar /usr/share/PrismLauncher/JavaCheck.jar"
+     4.389 D | Java checker has failed to start.
+     4.389 D | Process environment:
+     4.389 D | ("COLORFGBG=15;0", "COLORTERM=truecolor", "CONTAINER_ID=arch", "DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-kzRSGUA8Q4,guid=51f668b9031786940d4c43f76659b3ad", "DISPLAY=:1", "GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/fng/.gtkrc-2.0:/home/fng/.config/gtkrc-2.0", "GTK_RC_FILES=/etc/gtk/gtkrc:/home/fng/.gtkrc:/home/fng/.config/gtkrc", "HOME=/home/fng", "HOSTNAME=viglab-25", "KDE_APPLICATIONS_AS_SCOPE=1", "KDE_FULL_SESSION=true", "KDE_SESSION_UID=39578", "KDE_SESSION_VERSION=6", "KONSOLE_DBUS_SERVICE=:1.50", "KONSOLE_DBUS_SESSION=/Sessions/2", "KONSOLE_DBUS_WINDOW=/Windows/1", "KONSOLE_VERSION=240500", "LANG=C.UTF-8", "LANGUAGE=", "LD_LIBRARY_PATH=", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PROFILEHOME=", "PWD=/home/fng", "QT_AUTO_SCREEN_SCALE_FACTOR=0", "QT_WAYLAND_RECONNECT=1", "SESSION_MANAGER=local/viglab-25:@/tmp/.ICE-unix/241,unix/viglab-25:/tmp/.ICE-unix/241", "SHELL=/usr/sbin/bash", "SHELL_SESSION_ID=88e988a6e6264c05aa8f1790bf59d87e", "SHLVL=1", "TERM=xterm-256color", "TERMINFO_DIRS=/usr/share/terminfo:/run/host/usr/share/terminfo", "USER=u2236511", "WINDOWID=50331667", "XDG_CONFIG_DIRS=/home/fng/.config/kdedefaults:/etc/xdg", "XDG_CURRENT_DESKTOP=KDE", "XDG_MENU_PREFIX=plasma-", "XDG_RUNTIME_DIR=/run/user/39578", "_=/usr/sbin/prismlauncher", "container=podman")
+     4.389 D | Native environment:
+     4.389 D | ("COLORFGBG=15;0", "COLORTERM=truecolor", "CONTAINER_ID=arch", "DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-kzRSGUA8Q4,guid=51f668b9031786940d4c43f76659b3ad", "DISPLAY=:1", "GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/fng/.gtkrc-2.0:/home/fng/.config/gtkrc-2.0", "GTK_RC_FILES=/etc/gtk/gtkrc:/home/fng/.gtkrc:/home/fng/.config/gtkrc", "HOME=/home/fng", "HOSTNAME=viglab-25", "KDE_APPLICATIONS_AS_SCOPE=1", "KDE_FULL_SESSION=true", "KDE_SESSION_UID=39578", "KDE_SESSION_VERSION=6", "KONSOLE_DBUS_SERVICE=:1.50", "KONSOLE_DBUS_SESSION=/Sessions/2", "KONSOLE_DBUS_WINDOW=/Windows/1", "KONSOLE_VERSION=240500", "LANG=C.UTF-8", "LANGUAGE=", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PROFILEHOME=", "PWD=/home/fng", "QT_AUTO_SCREEN_SCALE_FACTOR=0", "QT_WAYLAND_RECONNECT=1", "SESSION_MANAGER=local/viglab-25:@/tmp/.ICE-unix/241,unix/viglab-25:/tmp/.ICE-unix/241", "SHELL=/usr/sbin/bash", "SHELL_SESSION_ID=88e988a6e6264c05aa8f1790bf59d87e", "SHLVL=1", "TERM=xterm-256color", "TERMINFO_DIRS=/usr/share/terminfo:/run/host/usr/share/terminfo", "USER=u2236511", "WINDOWID=50331667", "XDG_CONFIG_DIRS=/home/fng/.config/kdedefaults:/etc/xdg", "XDG_CURRENT_DESKTOP=KDE", "XDG_MENU_PREFIX=plasma-", "XDG_RUNTIME_DIR=/run/user/39578", "_=/usr/sbin/prismlauncher", "container=podman")
+     4.389 D | "Java detection" progress: 1 / 4
+     4.396 D | Java checker has failed to start.
+     4.396 D | Process environment:
+     4.396 D | ("COLORFGBG=15;0", "COLORTERM=truecolor", "CONTAINER_ID=arch", "DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-kzRSGUA8Q4,guid=51f668b9031786940d4c43f76659b3ad", "DISPLAY=:1", "GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/fng/.gtkrc-2.0:/home/fng/.config/gtkrc-2.0", "GTK_RC_FILES=/etc/gtk/gtkrc:/home/fng/.gtkrc:/home/fng/.config/gtkrc", "HOME=/home/fng", "HOSTNAME=viglab-25", "KDE_APPLICATIONS_AS_SCOPE=1", "KDE_FULL_SESSION=true", "KDE_SESSION_UID=39578", "KDE_SESSION_VERSION=6", "KONSOLE_DBUS_SERVICE=:1.50", "KONSOLE_DBUS_SESSION=/Sessions/2", "KONSOLE_DBUS_WINDOW=/Windows/1", "KONSOLE_VERSION=240500", "LANG=C.UTF-8", "LANGUAGE=", "LD_LIBRARY_PATH=", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PROFILEHOME=", "PWD=/home/fng", "QT_AUTO_SCREEN_SCALE_FACTOR=0", "QT_WAYLAND_RECONNECT=1", "SESSION_MANAGER=local/viglab-25:@/tmp/.ICE-unix/241,unix/viglab-25:/tmp/.ICE-unix/241", "SHELL=/usr/sbin/bash", "SHELL_SESSION_ID=88e988a6e6264c05aa8f1790bf59d87e", "SHLVL=1", "TERM=xterm-256color", "TERMINFO_DIRS=/usr/share/terminfo:/run/host/usr/share/terminfo", "USER=u2236511", "WINDOWID=50331667", "XDG_CONFIG_DIRS=/home/fng/.config/kdedefaults:/etc/xdg", "XDG_CURRENT_DESKTOP=KDE", "XDG_MENU_PREFIX=plasma-", "XDG_RUNTIME_DIR=/run/user/39578", "_=/usr/sbin/prismlauncher", "container=podman")
+     4.396 D | Native environment:
+     4.396 D | ("COLORFGBG=15;0", "COLORTERM=truecolor", "CONTAINER_ID=arch", "DBUS_SESSION_BUS_ADDRESS=unix:path=/tmp/dbus-kzRSGUA8Q4,guid=51f668b9031786940d4c43f76659b3ad", "DISPLAY=:1", "GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/fng/.gtkrc-2.0:/home/fng/.config/gtkrc-2.0", "GTK_RC_FILES=/etc/gtk/gtkrc:/home/fng/.gtkrc:/home/fng/.config/gtkrc", "HOME=/home/fng", "HOSTNAME=viglab-25", "KDE_APPLICATIONS_AS_SCOPE=1", "KDE_FULL_SESSION=true", "KDE_SESSION_UID=39578", "KDE_SESSION_VERSION=6", "KONSOLE_DBUS_SERVICE=:1.50", "KONSOLE_DBUS_SESSION=/Sessions/2", "KONSOLE_DBUS_WINDOW=/Windows/1", "KONSOLE_VERSION=240500", "LANG=C.UTF-8", "LANGUAGE=", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PROFILEHOME=", "PWD=/home/fng", "QT_AUTO_SCREEN_SCALE_FACTOR=0", "QT_WAYLAND_RECONNECT=1", "SESSION_MANAGER=local/viglab-25:@/tmp/.ICE-unix/241,unix/viglab-25:/tmp/.ICE-unix/241", "SHELL=/usr/sbin/bash", "SHELL_SESSION_ID=88e988a6e6264c05aa8f1790bf59d87e", "SHLVL=1", "TERM=xterm-256color", "TERMINFO_DIRS=/usr/share/terminfo:/run/host/usr/share/terminfo", "USER=u2236511", "WINDOWID=50331667", "XDG_CONFIG_DIRS=/home/fng/.config/kdedefaults:/etc/xdg", "XDG_CURRENT_DESKTOP=KDE", "XDG_MENU_PREFIX=plasma-", "XDG_RUNTIME_DIR=/run/user/39578", "_=/usr/sbin/prismlauncher", "container=podman")
+     4.396 D | "Java detection" progress: 2 / 4
+     4.407 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     4.407 W | STDERR ""
+     4.407 D | Java checker finished with status QProcess::NormalExit exit code 0
+     4.407 D | Java checker succeeded.
+     4.407 D | "Java detection" progress: 3 / 4
+     4.408 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     4.408 W | STDERR ""
+     4.408 D | Java checker finished with status QProcess::NormalExit exit code 0
+     4.408 D | Java checker succeeded.
+     4.408 D | "Java detection" progress: 4 / 4
+     4.408 D | Found the following valid Java installations:
+     4.408 D |   "17.0.11" "amd64" "java"
+     4.408 D |   "17.0.11" "amd64" "/usr/lib/jvm/java-17-openjdk/bin/java"
+     4.409 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-Xms512m -Xmx4096m -jar /usr/share/PrismLauncher/JavaCheck.jar"
+     4.429 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     4.429 W | STDERR ""
+     4.429 D | Java checker finished with status QProcess::NormalExit exit code 0
+     4.429 D | Java checker succeeded.
+     7.045 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-Xms8m -Xmx512m -jar /usr/share/PrismLauncher/JavaCheck.jar"
+     7.063 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     7.063 W | STDERR ""
+     7.063 D | Java checker finished with status QProcess::NormalExit exit code 0
+     7.063 D | Java checker succeeded.
+     7.100 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-Xms81m -Xmx512m -jar /usr/share/PrismLauncher/JavaCheck.jar"
+     7.119 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     7.119 W | STDERR ""
+     7.119 D | Java checker finished with status QProcess::NormalExit exit code 0
+     7.119 D | Java checker succeeded.
+     7.266 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-Xms512m -Xmx819m -jar /usr/share/PrismLauncher/JavaCheck.jar"
+     7.287 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     7.287 W | STDERR ""
+     7.287 D | Java checker finished with status QProcess::NormalExit exit code 0
+     7.287 D | Java checker succeeded.
+     7.338 D | Running java checker: "/usr/lib/jvm/java-17-openjdk/bin/java" "-Xms512m -Xmx8192m -jar /usr/share/PrismLauncher/JavaCheck.jar"
+     7.357 D | STDOUT "os.arch=amd64\njava.version=17.0.11\njava.vendor=N/A\n"
+     7.357 W | STDERR ""
+     7.357 D | Java checker finished with status QProcess::NormalExit exit code 0
+     7.357 D | Java checker succeeded.
+    12.047 D | Setting Cat
+    12.047 D | [Theme] applying catpack "rory"
+    12.980 D | [Theme] <> Icon theme set.
+    12.980 D | [Theme] applying theme "System"
+    12.982 D | [Theme] <> Application theme set.
+    12.982 D | Setting Icons
+    13.147 D | [Theme] <> Icon theme set.
+    13.147 D | [Theme] applying theme "System"
+    13.149 D | [Theme] <> Application theme set.
+    13.149 D | Setting Icons
+    14.355 D | [Theme] <> Icon theme set.
+    14.355 D | [Theme] applying theme "System"
+    14.356 D | [Theme] <> Application theme set.
+    14.356 D | Setting Icons
+    14.408 D | [Theme] <> Icon theme set.
+    14.408 D | [Theme] applying theme "System"
+    14.410 D | [Theme] <> Application theme set.
+    14.410 D | Setting Icons
+    14.514 D | [Theme] <> Icon theme set.
+    14.514 D | [Theme] applying theme "System"
+    14.515 D | [Theme] <> Application theme set.
+    14.515 D | Setting Icons
+    14.646 D | [Theme] <> Icon theme set.
+    14.646 D | [Theme] applying theme "System"
+    14.647 D | [Theme] <> Application theme set.
+    14.647 D | Setting Icons
+    15.171 D | [Theme] <> Icon theme set.
+    15.171 D | [Theme] applying theme "System"
+    15.172 D | [Theme] <> Application theme set.
+    15.172 D | Setting Icons
+    15.254 D | [Theme] <> Icon theme set.
+    15.254 D | [Theme] applying theme "System"
+    15.256 D | [Theme] <> Application theme set.
+    15.256 D | Setting Icons
+    15.331 D | [Theme] <> Icon theme set.
+    15.331 D | [Theme] applying theme "System"
+    15.333 D | [Theme] <> Application theme set.
+    15.333 D | Setting Icons
+    15.618 D | [Theme] <> Icon theme set.
+    15.618 D | [Theme] applying theme "System"
+    15.620 D | [Theme] <> Application theme set.
+    15.620 D | Setting Icons
+    16.179 D | [Theme] <> Icon theme set.
+    16.179 D | [Theme] applying theme "System"
+    16.180 D | [Theme] <> Application theme set.
+    16.180 D | Setting Icons
+    16.222 D | [Theme] <> Icon theme set.
+    16.222 D | [Theme] applying theme "System"
+    16.223 D | [Theme] <> Application theme set.
+    16.223 D | Setting Icons
+    17.082 D | [Theme] <> Icon theme set.
+    17.082 D | [Theme] applying theme "System"
+    17.083 D | [Theme] <> Application theme set.
+    17.083 D | Setting Icons
+    17.435 D | [Theme] <> Icon theme set.
+    17.435 D | [Theme] applying theme "System"
+    17.436 D | [Theme] <> Application theme set.
+    17.436 D | Setting Icons
+    17.827 D | [Theme] <> Icon theme set.
+    17.827 D | [Theme] applying theme "System"
+    17.829 D | [Theme] <> Application theme set.
+    17.829 D | Setting Icons
+    18.787 D | Wizard result = 1
+    18.813 D | Reloading news.
+    18.817 D | <> Main window shown.
+    19.002 D | Finished loading RSS feed.
+    19.004 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+    19.004 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+    19.005 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+    19.005 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+    19.005 D | Loaded news entry "FTB Modpack Downloading Removal."
+    19.005 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+    19.005 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+    19.005 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    19.005 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+    19.005 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+    19.005 D | Loaded news entry "Moving on"
+    19.005 D | Loaded news entry "Modrinth support and Mod downloading"
+    19.005 D | Loaded news entry "New maintainers and step down."
+    19.005 D | News loading succeeded.

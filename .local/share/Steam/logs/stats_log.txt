@@ -1,0 +1,104 @@
+
+
+[2024-05-31 11:43:52] Client version: 1716584667
+[2024-05-31 11:43:52] [AppID 220] Schema not found on disk
+[2024-05-31 11:43:52] [AppID 220] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 11:43:53] [AppID 2012840] Schema not found on disk
+[2024-05-31 11:43:53] [AppID 2012840] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 11:43:53] [AppID 2012840] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:43:54] [AppID 714010] Schema not found on disk
+[2024-05-31 11:43:55] [AppID 714010] CAPIJobRequestUserStats - updated schema from server
+
+
+[2024-05-31 11:46:24] Client version: 1716584667
+[2024-05-31 11:46:24] [AppID 220] Loaded schema from disk.
+[2024-05-31 11:46:24] [AppID 220] Loading stats from disk...
+[2024-05-31 11:46:24] [AppID 220] Loading stats from disk...success
+[2024-05-31 11:46:25] [AppID 220] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:46:25] [AppID 2012840] Loaded schema from disk.
+[2024-05-31 11:46:25] [AppID 2012840] Loading stats from disk...
+[2024-05-31 11:46:25] [AppID 2012840] Loading stats from disk...success
+[2024-05-31 11:46:25] [AppID 2012840] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:46:26] [AppID 462930] Schema not found on disk
+[2024-05-31 11:46:26] [AppID 462930] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:46:30] [AppID 70] Schema not found on disk
+[2024-05-31 11:46:30] [AppID 70] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:48:34] [AppID 220] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:49:04] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:49:52] [AppID 1628350] Schema not found on disk
+[2024-05-31 11:49:53] [AppID 1628350] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:49:54] [AppID 1493710] Schema not found on disk
+[2024-05-31 11:49:54] [AppID 1493710] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:50:19] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:51:07] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:52:12] [AppID 2805730] Schema not found on disk
+[2024-05-31 11:52:12] [AppID 2805730] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:52:36] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:53:10] [AppID 290930] Schema not found on disk
+[2024-05-31 11:53:10] [AppID 290930] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 11:53:11] [AppID 220] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:53:28] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:53:56] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:54:45] [AppID 1391110] Schema not found on disk
+[2024-05-31 11:54:45] [AppID 1391110] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:54:50] [AppID 1420170] Schema not found on disk
+[2024-05-31 11:54:50] [AppID 1420170] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:55:05] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:55:20] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:55:22] [AppID 320] Schema not found on disk
+[2024-05-31 11:55:22] [AppID 320] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:55:41] [AppID 1113280] Schema not found on disk
+[2024-05-31 11:55:42] [AppID 1113280] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 11:56:24] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:57:58] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:58:02] [AppID 290930] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:58:03] [AppID 220] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 11:58:32] [AppID 220] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 11:59:35] [AppID 477160] Schema not found on disk
+[2024-05-31 11:59:35] [AppID 477160] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 11:59:42] [AppID 620] Schema not found on disk
+[2024-05-31 11:59:42] [AppID 620] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 11:59:52] [AppID 1237970] Schema not found on disk
+[2024-05-31 11:59:52] [AppID 1237970] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 12:00:06] [AppID 224600] Schema not found on disk
+[2024-05-31 12:00:07] [AppID 224600] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 12:00:07] [AppID 363970] Schema not found on disk
+[2024-05-31 12:00:07] [AppID 363970] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 12:00:07] [AppID 1431240] Schema not found on disk
+[2024-05-31 12:00:07] [AppID 1431240] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 12:00:07] [AppID 1431240] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:00:07] [AppID 10] Schema not found on disk
+[2024-05-31 12:00:08] [AppID 10] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 12:00:09] [AppID 730] Schema not found on disk
+[2024-05-31 12:00:10] [AppID 730] CAPIJobRequestUserStats - updated schema from server
+[2024-05-31 12:00:10] [AppID 624820] Schema not found on disk
+[2024-05-31 12:00:10] [AppID 624820] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 12:09:32] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:10:35] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:11:04] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:11:20] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:11:39] [AppID 228980] Schema not found on disk
+[2024-05-31 12:11:39] [AppID 228980] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2024-05-31 12:12:52] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:18:16] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:18:20] [AppID 10] Schema not found on disk
+[2024-05-31 12:18:22] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:18:58] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:19:04] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:19:10] [AppID 10] Schema not found on disk
+[2024-05-31 12:19:16] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:20:15] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:20:20] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:21:13] [AppID 730] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2024-05-31 12:21:59] [AppID 730] CAPIJobStoreUserStats::BInit() - no upload needed
+[2024-05-31 12:26:42] [AppID 1493710] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 2805730] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 1113280] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 1420170] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 1628350] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 1391110] Schema not found on disk
+[2024-05-31 12:26:42] [AppID 228980] Schema not found on disk
+[2024-05-31 12:26:56] [AppID 228980] Schema not found on disk
+[2024-05-31 12:26:57] [AppID 228980] Schema not found on disk
+[2024-05-31 12:26:57] [AppID 228980] Schema not found on disk
+[2024-05-31 12:26:58] [AppID 228980] Schema not found on disk

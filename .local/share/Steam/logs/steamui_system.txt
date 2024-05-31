@@ -1,0 +1,60 @@
+
+
+[2024-05-31 11:40:58] Client version: 1716584667
+[2024-05-31 11:40:58] Initialized CSystemDockManagerController: 0
+[2024-05-31 11:40:58] Initialized CSystemAudioDeviceController: 0
+[2024-05-31 11:40:58] Initialized CSystemDisplayController: 0
+[2024-05-31 11:40:58] Allow drive unmount: 0
+[2024-05-31 11:40:58] Allow drive adopt: 0
+[2024-05-31 11:40:58] Trim supported: 0 - 
+[2024-05-31 11:40:58] RescheduleTrimAll: ignoring request because trim is unsupported
+[2024-05-31 11:40:58] Initialized CSystemPerfController: 0
+[2024-05-31 11:40:58] Initialized CSteamUINetworkController: 1
+[2024-05-31 11:40:58] Initialized CSystemReportController
+[2024-05-31 11:40:58] CGamescopeController: initalized implementation: linux
+[2024-05-31 11:41:50] CGamescopeController: set unified framerate UI enabled: 1
+[2024-05-31 11:41:50] CGamescopeController: set include steamui in screenshots: 1
+
+
+[2024-05-31 11:44:09] Client version: 1716584667
+[2024-05-31 11:44:09] Initialized CSystemDockManagerController: 0
+[2024-05-31 11:44:09] Initialized CSystemAudioDeviceController: 0
+[2024-05-31 11:44:09] Initialized CSystemDisplayController: 0
+[2024-05-31 11:44:09] Allow drive unmount: 0
+[2024-05-31 11:44:09] Allow drive adopt: 0
+[2024-05-31 11:44:09] Trim supported: 0 - 
+[2024-05-31 11:44:09] RescheduleTrimAll: ignoring request because trim is unsupported
+[2024-05-31 11:44:09] Initialized CSystemPerfController: 0
+[2024-05-31 11:44:09] Initialized CSteamUINetworkController: 1
+[2024-05-31 11:44:09] Initialized CSystemReportController
+[2024-05-31 11:44:09] CGamescopeController: initalized implementation: linux
+[2024-05-31 11:44:09] CGamescopeController: set unified framerate UI enabled: 1
+[2024-05-31 11:44:09] CGamescopeController: set include steamui in screenshots: 1
+
+
+[2024-05-31 12:27:14] Client version: 1716584667
+[2024-05-31 12:27:14] Initialized CSystemDockManagerController: 0
+[2024-05-31 12:27:14] Initialized CSystemAudioDeviceController: 0
+[2024-05-31 12:27:14] Initialized CSystemDisplayController: 0
+[2024-05-31 12:27:14] Allow drive unmount: 0
+[2024-05-31 12:27:14] Allow drive adopt: 0
+[2024-05-31 12:27:14] Trim supported: 0 - 
+[2024-05-31 12:27:14] RescheduleTrimAll: ignoring request because trim is unsupported
+[2024-05-31 12:27:14] Initialized CSystemPerfController: 0
+[2024-05-31 12:27:14] Initialized CSteamUINetworkController: 1
+[2024-05-31 12:27:14] Initialized CSystemReportController
+[2024-05-31 12:27:14] CGamescopeController: initalized implementation: linux
+
+
+[2024-05-31 12:28:23] Client version: 1716584667
+[2024-05-31 12:28:23] Initialized CSystemDockManagerController: 0
+[2024-05-31 12:28:23] Initialized CSystemAudioDeviceController: 0
+[2024-05-31 12:28:23] Initialized CSystemDisplayController: 0
+[2024-05-31 12:28:23] Allow drive unmount: 0
+[2024-05-31 12:28:23] Allow drive adopt: 0
+[2024-05-31 12:28:23] Trim supported: 0 - 
+[2024-05-31 12:28:23] RescheduleTrimAll: ignoring request because trim is unsupported
+[2024-05-31 12:28:23] Initialized CSystemPerfController: 0
+[2024-05-31 12:28:23] Initialized CSteamUINetworkController: 1
+[2024-05-31 12:28:23] Initialized CSystemReportController
+[2024-05-31 12:28:23] CGamescopeController: initalized implementation: linux

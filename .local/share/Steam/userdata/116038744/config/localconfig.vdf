@@ -1,0 +1,2155 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09589cea060000000010011a0f426c6f636b20616c6c2067616d65732a0508d30110002a0508dc0110002a0508c00210002a0508d40210002a0508e80210002a0508fc0210002a0508900310002a0508b80310002a0508f40310002a0508880410002a0508a60410002a0508b30410002a0508b40410002a0508ba0410002a0508ec0410002a0508f60410002a0508b00e10002a0508a01f10002a0608f0880110002a0608ac890110002a0608c28a0110002a06088aa50110002a0608aeaf0210002a0608d8b00210002a0608bc8c0610002a0608fcb10610002a0608d8d60610002a0608a0d80610002a0608f8f50610002a0608cab80c10002a060884c70c10002a0608d2ee0c10002a0608acf40c10002a0608e6f80c10002a0608948b0d10002a0608f6a80d10002a0608b0e40d10002a060890e80d10002a0608f4f20d10002a0608e4f40d10002a06088a880e10002a0608f28f0e10002a0608f8a10e10002a0608e6b60e10002a0608f0ca0e10002a0608f4cc0e10002a0608a6f00e10002a0608b4a40f10002a060896b80f10002a0608e2bb0f10002a06088ebe0f10002a06088a821010002a06089a941010002a06089e9b1010002a0608ca9d1010002a0608bac71010002a0608e6c91010012a0608decf1010002a0608d6d51010002a0608dcec1010002a0608befb1010002a060880bb1110002a0608dcc11110002a0608f2e01110002a060898e51110002a0608b0991210002a0608e0a21210002a0608c4a31210012a0608d0b31210002a06089ec21210002a06089ec71210002a0608b2c71210002a0608a2ce1210002a0608ecf81210002a0608b0af1310002a0608d8af1310002a0608deb21310002a060888981410002a0608eab01410002a0608a2b41410002a0608ccba1410002a060888bb1410002a06089ed01410002a06089a8f1510002a060894961510002a0608c29b1610002a0608e6a81610002a0608a8b11610002a0608aacb1610002a06088ecc1610002a0608e28f1710002a06089a931710002a0608dea11710002a0608a0aa1710012a0608b8ca1710002a0608f4ca1710002a0608c2e31710002a0608b2e51710002a0608ac9e1810002a0608deb41910002a0608a48c1b10012a0608e0911b10002a060890b91b10002a0608debf1c10002a0608e4ce1d100130063a08fc484039fda3b8024220c208838736515911eb59ad3714d10a7e1e3b6f64f802eb08fb9bb5fc1d50f6a248005080205a18616c65787772696768743133323440676d61696c2e636f6d680070007a008201009801079801c4a70f9801c292149801eef01598019aaf169801a8b134980194db3a9801eeb0409801e0ab419801c0f9439801f0fe4b980186f45498018ad7569801ce955b9801e2b8609801beb1639801e89b739801848885019801aeac8f019801e29fab01"
+		"Signature"		"63edb0a0db80579491f2420aeca837ff64b19b1ebd1945a407fcba18fa5de6e12a6208e70544d28256cf289cdcf59b63a41ccd123f9591ffbcb601d8cc20c8ced4152a945458f90a4872595933371b0ab82f8c3a818867eccceb203e165e44627d1332b49c67dd04da5a1f6083b0be88d2a182febfff6a0c2d063c7fad0ec769ccd5ea63906ca57b015efbfd25005a457cf5bb8b8e9cd06dee5528dc0cb3dca61a3267b9262728f14385102e7b555c6b9525ab86aba04d5c62a4018bbd3779d023562db1500bc98963694babcf7c937b46722b4acf25711047299494206bd6cebdcd1b80eedb62cac9161ebc8e2083e64a3a84f86e7f990425ece6e68c404a64"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+	}
+	"friends"
+	{
+		"116038744"
+		{
+			"NameHistory"
+			{
+				"0"		"baezinga"
+			}
+			"avatar"		"0a027c8a56edd5c47a8fc499165a63fa575c3b72"
+			"name"		"baezinga"
+		}
+		"PersonaName"		"baezinga"
+		"communitypreferences"		"1883cff7fb052000280330013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+		"156241946"
+		{
+			"name"		"Danisaurio01"
+			"NameHistory"
+			{
+				"0"		"Danisaurio01"
+			}
+			"avatar"		"42ddf54ec3d34420eacd947f5cbe39b615d9ec0d"
+		}
+		"141119057"
+		{
+			"name"		"Dovahkiin570"
+			"NameHistory"
+			{
+				"0"		"Dovahkiin570"
+			}
+			"avatar"		"97e463a36f2693f6158631fb69c4074694019c20"
+		}
+		"842872184"
+		{
+			"name"		"samitgoddamnit"
+			"NameHistory"
+			{
+				"0"		"samitgoddamnit"
+			}
+			"avatar"		"7a8fe61317e1eb30943588e8900808d2b7465ad5"
+		}
+		"142709042"
+		{
+			"name"		" akira mamoru "
+			"NameHistory"
+			{
+				"0"		" akira mamoru "
+			}
+			"avatar"		"c253a1876b3639d65e8f76b96e24fb1194880c98"
+		}
+		"179745844"
+		{
+			"name"		"vampde"
+			"NameHistory"
+			{
+				"0"		"vampde"
+			}
+			"avatar"		"45b96a5fb72dafbb380292c0677e94a166f3ad6b"
+		}
+		"393011982"
+		{
+			"name"		"ChadThunderCock"
+			"NameHistory"
+			{
+				"0"		"ChadThunderCock"
+			}
+			"avatar"		"cdec4c9c18fddbb3062cd078e13c0f6b0fa2227c"
+		}
+		"1621406397"
+		{
+			"name"		"hannahlaura9"
+			"NameHistory"
+			{
+				"0"		"hannahlaura9"
+			}
+		}
+		"415846380"
+		{
+			"name"		"hangingsack1964"
+			"NameHistory"
+			{
+				"0"		"hangingsack1964"
+			}
+			"avatar"		"b06db26b73c9c9a540c025a1289e3190b4118fba"
+		}
+		"923653335"
+		{
+			"name"		"infinatebliz"
+			"NameHistory"
+			{
+				"0"		"infinatebliz"
+			}
+			"avatar"		"6fe8401f7106c307453b652034c0469167791cb6"
+		}
+		"435967303"
+		{
+			"name"		"Spagoot©"
+			"NameHistory"
+			{
+				"0"		"Spagoot©"
+			}
+			"avatar"		"90a87ab26f0119805ec6df2e3445807286a1137b"
+		}
+		"150264250"
+		{
+			"name"		"Derper24"
+			"NameHistory"
+			{
+				"0"		"Derper24"
+			}
+			"avatar"		"12fc5703b64ed92c07d015745ac95ab0214ad1c0"
+		}
+		"293603728"
+		{
+			"name"		"Alan Johnson"
+			"NameHistory"
+			{
+				"0"		"Alan Johnson"
+			}
+			"avatar"		"d6f5ac7982ed07c6650b2c44d068b323059af089"
+		}
+		"311767792"
+		{
+			"name"		"FunkyBen2004"
+			"NameHistory"
+			{
+				"0"		"FunkyBen2004"
+			}
+			"avatar"		"dcda61ff7756d33e21dc978e457c46a61a562b91"
+		}
+		"839392389"
+		{
+			"name"		"RacK"
+			"NameHistory"
+			{
+				"0"		"RacK"
+			}
+			"avatar"		"18a0d4486b67086268db5b0486a9dd12e966804d"
+		}
+		"9991198"
+		{
+			"name"		"pistolshihtzu"
+			"NameHistory"
+			{
+				"0"		"pistolshihtzu"
+			}
+			"avatar"		"c3f94f0796a2518f260ee3f0d0bea51753ad6648"
+		}
+		"97703693"
+		{
+			"name"		"leg"
+			"NameHistory"
+			{
+				"0"		"leg"
+			}
+			"avatar"		"6a03391014974bea7714ac4deac1883c4c1d3302"
+		}
+		"204066390"
+		{
+			"name"		"☆TheScouT366☆"
+			"NameHistory"
+			{
+				"0"		"☆TheScouT366☆"
+			}
+			"avatar"		"04e22540158028b6e44b374854994e2dc668a6c0"
+		}
+		"173010915"
+		{
+			"name"		"bigmazi"
+			"NameHistory"
+			{
+				"0"		"bigmazi"
+			}
+			"avatar"		"79f68d5f1d437703da24a1e0fcd32a5c7dea75c1"
+		}
+		"101248495"
+		{
+			"name"		"[THE]-MAN-IN-[BLACK]    [CH]"
+			"NameHistory"
+			{
+				"0"		"[THE]-MAN-IN-[BLACK]    [CH]"
+			}
+		}
+		"127967563"
+		{
+			"name"		"FcFritz"
+			"NameHistory"
+			{
+				"0"		"FcFritz"
+			}
+			"avatar"		"12590d3efc9f4d4cc009699896e0b7e95e712cfd"
+		}
+		"272891296"
+		{
+			"name"		"crookes.callum"
+			"NameHistory"
+			{
+				"0"		"crookes.callum"
+			}
+		}
+		"201591909"
+		{
+			"name"		"Conjam82"
+			"NameHistory"
+			{
+				"0"		"Conjam82"
+			}
+			"avatar"		"252fcf8dd9dde9cd5f766382312216512a7c724b"
+		}
+		"215989075"
+		{
+			"name"		"nip un gato XD"
+			"NameHistory"
+			{
+				"0"		"nip un gato XD"
+			}
+			"avatar"		"ff4a3dc2af10843038bd9364287089ed071f04aa"
+		}
+		"132979132"
+		{
+			"name"		"L u c a R e n o"
+			"NameHistory"
+			{
+				"0"		"L u c a R e n o"
+			}
+			"avatar"		"16473af6db4e66afdd06a864e6295b2dc95095f2"
+		}
+		"1099969008"
+		{
+			"name"		"Henley"
+			"NameHistory"
+			{
+				"0"		"Henley"
+			}
+			"avatar"		"6d6fb219fd16e444a534b7ed9d4f9b22453d4e5a"
+		}
+		"242186360"
+		{
+			"name"		"Eban"
+			"NameHistory"
+			{
+				"0"		"Eban"
+			}
+			"avatar"		"b21439167094de9c29c47ba4f854a8ecffeab523"
+		}
+		"108273279"
+		{
+			"name"		"Vendetta"
+			"NameHistory"
+			{
+				"0"		"Vendetta"
+			}
+			"avatar"		"e24df47465ff5af9478bbd49e4201d0b5ec69fa3"
+		}
+		"201919125"
+		{
+			"name"		"Haka"
+			"NameHistory"
+			{
+				"0"		"Haka"
+			}
+			"avatar"		"cc54a0b78cd2ed4696c6b160a98a7e87cf9942e2"
+		}
+		"219901598"
+		{
+			"name"		"❅Гастарбайтер❅"
+			"NameHistory"
+			{
+				"0"		"❅Гастарбайтер❅"
+			}
+			"avatar"		"2fda19e5fdddd5d35ecc8ce04f36ed4d3be6afbf"
+		}
+		"204594646"
+		{
+			"name"		"Serenity Twinkle"
+			"NameHistory"
+			{
+				"0"		"Serenity Twinkle"
+			}
+			"avatar"		"a41301d4b9e1d39dda8f88f1c057b74f846482c7"
+		}
+		"218931855"
+		{
+			"name"		"ghost_of fear"
+			"NameHistory"
+			{
+				"0"		"ghost_of fear"
+			}
+			"avatar"		"d2b71dc14e814cecc1c246f512b630fea8af0c54"
+		}
+		"878800466"
+		{
+			"name"		"RuShVader"
+			"NameHistory"
+			{
+				"0"		"RuShVader"
+			}
+			"avatar"		"3a99a6aa6cbcaf02102a746dcb2dd38219835e4a"
+		}
+		"151458158"
+		{
+			"name"		"xXHSVHASSERXx"
+			"NameHistory"
+			{
+				"0"		"xXHSVHASSERXx"
+			}
+			"avatar"		"a74a852448163406f83ce04fb6f286f7f2950db1"
+		}
+		"1039875144"
+		{
+			"name"		"IronScorpion"
+			"NameHistory"
+			{
+				"0"		"IronScorpion"
+			}
+			"avatar"		"bc0d67964b1628085a80602ccd5c5d3c6f2d3827"
+		}
+		"73001881"
+		{
+			"name"		"VAMP"
+			"NameHistory"
+			{
+				"0"		"VAMP"
+			}
+			"avatar"		"8d70b97b96afb6396caaa41b648415003841a762"
+		}
+		"290398330"
+		{
+			"name"		"sbtai"
+			"NameHistory"
+			{
+				"0"		"sbtai"
+			}
+			"avatar"		"49aa1d60e71cc295779b25436a752709db11f78b"
+		}
+		"370038941"
+		{
+			"name"		"Gamerjosh123"
+			"NameHistory"
+			{
+				"0"		"Gamerjosh123"
+			}
+			"avatar"		"6ba1eb3aff7176583889ec2acb10b5e3632f8f66"
+		}
+		"148361552"
+		{
+			"name"		"OverloadGB"
+			"NameHistory"
+			{
+				"0"		"OverloadGB"
+			}
+			"avatar"		"fec350d1a3b68f6eb230e6b281573ebba3ccd52e"
+		}
+		"136677325"
+		{
+			"name"		"LittleManYeaEU"
+			"NameHistory"
+			{
+				"0"		"LittleManYeaEU"
+			}
+			"avatar"		"c568d3e3bd4a09c38a6c2dae7c606972307b3adb"
+		}
+		"384176214"
+		{
+			"name"		"JackWarden456"
+			"NameHistory"
+			{
+				"0"		"JackWarden456"
+			}
+			"avatar"		"98fe700b48de9d74a599584ea51f6b55e50a72ad"
+		}
+		"200533091"
+		{
+			"name"		"Josh"
+			"NameHistory"
+			{
+				"0"		"Josh"
+			}
+			"avatar"		"dad73fbc668a09f9e87d852464dc25268774d40a"
+		}
+		"390638140"
+		{
+			"name"		"FarmerOfFarming19"
+			"NameHistory"
+			{
+				"0"		"FarmerOfFarming19"
+			}
+			"avatar"		"61bfa96ac84a325450ac94fa2ee043f2e1a9449c"
+		}
+		"158620999"
+		{
+			"name"		"Casca"
+			"NameHistory"
+			{
+				"0"		"Casca"
+			}
+			"avatar"		"908a2617c5cccb478c9cde7eab62041928ea5a86"
+		}
+		"178375022"
+		{
+			"name"		"WaterierGiant30"
+			"NameHistory"
+			{
+				"0"		"WaterierGiant30"
+			}
+			"avatar"		"a705f2527edd5d806e7c07a0b9fb8398dce1e5f5"
+		}
+		"181801184"
+		{
+			"name"		"finn"
+			"NameHistory"
+			{
+				"0"		"finn"
+			}
+			"avatar"		"c01d7ac027dd56f47a32499313f87a6c452082c8"
+		}
+		"168805629"
+		{
+			"name"		"Madausth"
+			"NameHistory"
+			{
+				"0"		"Madausth"
+			}
+		}
+		"1194305253"
+		{
+			"name"		"Finnie666"
+			"NameHistory"
+			{
+				"0"		"Finnie666"
+			}
+		}
+		"129840649"
+		{
+			"name"		"Electric Sponge"
+			"NameHistory"
+			{
+				"0"		"Electric Sponge"
+			}
+			"avatar"		"ff04f49796fdba0a7cf964ef7dd59fb700c8982b"
+		}
+		"241547681"
+		{
+			"name"		"nytelife26"
+			"NameHistory"
+			{
+				"0"		"nytelife26"
+			}
+			"avatar"		"deeea61095322b753f2b20f88377b2c30fb7877f"
+		}
+		"1127186386"
+		{
+			"name"		"Raeven1327"
+			"NameHistory"
+			{
+				"0"		"Raeven1327"
+			}
+			"avatar"		"cc65b2e51c12c364fdb62d61b2232e804b4c789a"
+		}
+		"197828860"
+		{
+			"name"		"lololololololololololololololol"
+			"NameHistory"
+			{
+				"0"		"lololololololololololololololol"
+			}
+			"avatar"		"3415bc5d9960462f49387e10689b822e3edd9d55"
+		}
+		"210020614"
+		{
+			"name"		"Nikky Cage"
+			"NameHistory"
+			{
+				"0"		"Nikky Cage"
+			}
+			"avatar"		"310fc7a5d9480f62d8f403acc2b4fa280c31a8c6"
+		}
+		"364433325"
+		{
+			"name"		"Duct Tape"
+			"NameHistory"
+			{
+				"0"		"Duct Tape"
+			}
+			"avatar"		"423e1d460801957bb2e09a945b5d8a63d716b2bb"
+		}
+		"1076819020"
+		{
+			"name"		"76561199037084748"
+			"NameHistory"
+			{
+				"0"		"76561199037084748"
+			}
+			"avatar"		"c43d44bb623dd0059da733dbd41de69334e3b73a"
+		}
+		"167313758"
+		{
+			"name"		"Bigger Than Prince"
+			"NameHistory"
+			{
+				"0"		"Bigger Than Prince"
+			}
+			"avatar"		"dd70425b5ed2c04413d32102a3c85f7a5e5338ee"
+		}
+		"237222686"
+		{
+			"name"		"Magie|Metal|Pefeci"
+			"NameHistory"
+			{
+				"0"		"Magie|Metal|Pefeci"
+			}
+			"avatar"		"c5dc9982c99ce10d24eb96d9682d72f7d839285e"
+		}
+		"1053117763"
+		{
+			"name"		"Yano"
+			"NameHistory"
+			{
+				"0"		"Yano"
+			}
+			"avatar"		"aa032bf73d9a2ceaea83cd15a67017974a7cff2e"
+		}
+		"198879070"
+		{
+			"name"		"Xen"
+			"NameHistory"
+			{
+				"0"		"Xen"
+			}
+			"avatar"		"643fdce29efb745b7d42a4a8423822e88426291a"
+		}
+		"154541377"
+		{
+			"name"		"JovisBonHovis"
+			"NameHistory"
+			{
+				"0"		"JovisBonHovis"
+			}
+			"avatar"		"0caf4d7e39c418397978e109e5f07b1c6bfa4fb1"
+		}
+		"112432024"
+		{
+			"name"		"Mattie~"
+			"NameHistory"
+			{
+				"0"		"Mattie~"
+			}
+			"avatar"		"95fa44fd9ca5d17c11be5b7101ff339b00909d84"
+		}
+		"165071631"
+		{
+			"name"		"ϟ Satan Panda ▲"
+			"NameHistory"
+			{
+				"0"		"ϟ Satan Panda ▲"
+			}
+			"avatar"		"00a34d494f5502c3c9d9dec7739595469b64ae34"
+		}
+		"1091719260"
+		{
+			"name"		"Fishy"
+			"NameHistory"
+			{
+				"0"		"Fishy"
+			}
+			"avatar"		"3f9c1af199b5edfe20a226708ec2be4a9efd68bb"
+		}
+		"239504959"
+		{
+			"name"		"burton.p.2"
+			"NameHistory"
+			{
+				"0"		"burton.p.2"
+			}
+		}
+		"361548965"
+		{
+			"name"		"Koledex"
+			"NameHistory"
+			{
+				"0"		"Koledex"
+			}
+			"avatar"		"c45605355c1d9296788d02b2fe6fc519a7269c69"
+		}
+		"485675338"
+		{
+			"name"		"Warden"
+			"NameHistory"
+			{
+				"0"		"Warden"
+			}
+			"avatar"		"0a7bb62ef7e3517ba5b4d29056e0047b6cc21537"
+		}
+		"119001618"
+		{
+			"name"		"JohnnyR95"
+			"NameHistory"
+			{
+				"0"		"JohnnyR95"
+			}
+			"avatar"		"e46b8e452a28a8bf849a87f3a0194f7abc38360b"
+		}
+		"293931100"
+		{
+			"name"		"LeMotiff"
+			"NameHistory"
+			{
+				"0"		"LeMotiff"
+			}
+			"avatar"		"3d333bac75c9eb2047c897aee8d786e4d456a3c1"
+		}
+		"204676312"
+		{
+			"name"		"PumpkinPieCrust"
+			"NameHistory"
+			{
+				"0"		"PumpkinPieCrust"
+			}
+			"avatar"		"741501bf0afcbe3b5e9db7b7bbc5461938b447f4"
+		}
+		"183238780"
+		{
+			"name"		"Urban Turban Burban"
+			"NameHistory"
+			{
+				"0"		"Urban Turban Burban"
+			}
+			"avatar"		"4b2279b2269753de3c8a86e3d6d00382fb97606e"
+		}
+		"251583360"
+		{
+			"name"		"Will"
+			"NameHistory"
+			{
+				"0"		"Will"
+			}
+			"avatar"		"0b018a69927f982ded9605602e390291a54e07fa"
+		}
+		"165068216"
+		{
+			"name"		"Waitedboat4"
+			"NameHistory"
+			{
+				"0"		"Waitedboat4"
+			}
+			"avatar"		"04c61314b8de4700634dd4e488c564bab03adaf6"
+		}
+		"250645521"
+		{
+			"name"		"TheseVGF"
+			"NameHistory"
+			{
+				"0"		"TheseVGF"
+			}
+			"avatar"		"56205fb47eff75b7b06e935eb5eba42ef63b81ea"
+		}
+		"462608577"
+		{
+			"name"		"Pig"
+			"NameHistory"
+			{
+				"0"		"Pig"
+			}
+			"avatar"		"ec793b588a3a90d7979f3e4e7bf739e705e4e76a"
+		}
+		"1163456809"
+		{
+			"name"		"Coley"
+			"NameHistory"
+			{
+				"0"		"Coley"
+			}
+		}
+		"1135264266"
+		{
+			"name"		"hadescrusade"
+			"NameHistory"
+			{
+				"0"		"hadescrusade"
+			}
+			"avatar"		"e0972a4bb38ce41fa59ee4f4ddedbad5dc9ef6a1"
+		}
+		"311550168"
+		{
+			"name"		"Bob Turnip"
+			"NameHistory"
+			{
+				"0"		"Bob Turnip"
+			}
+			"avatar"		"a8091fa7e1c73cf1289ef49f74e105e0c0f5562f"
+		}
+		"920138460"
+		{
+			"name"		"ChewyBathWater"
+			"NameHistory"
+			{
+				"0"		"ChewyBathWater"
+			}
+		}
+		"103582791462190276"
+		{
+			"name"		"GreggsUK"
+			"tag"		"GreggsUK"
+			"avatar"		"b393b258617bbfdf71380b3cbdfe5c76842082b8"
+		}
+		"103582791464665339"
+		{
+			"name"		"Steam Labs"
+			"tag"		"SteamLabs"
+			"avatar"		"b8a89f00e21a66e926a670ae671284d722136e53"
+		}
+	}
+	"SharedAuth"
+	{
+		"id"		"92945428"
+		"AuthData"		"a51da1869fb3be4503b974dc2a76ccea6e662cb38aeec4c4de701ace98110f79"
+	}
+	"Offline"
+	{
+		"Ticket"		"08d8b8aa371521b85966"
+		"Signature"		"8930ff1fda651f636583e3f59d209be6983bcf5e95bd458f6516237993b8a4e99849c9bd57a13b34ae0de37d5f01daf51783f83a9bccac1df414ffca75a9823d6be270505f38b4fcf1875d7c62579929acbfa1e6cc5248391fcbb09e1f7f14d217ab2ca28a8cf00d4132276401180356a33235468c8459301f491ef4e3177d31aa155e14a1cd888efdeb9ac9731d6aaeadacb651d13ed634662e4f7b11453c81771d9e8541784f774dbacfabf272bd2d1322520150561853b3614f289abb82b04ff18e3f50b7032a82f3f9d5e845f6c6e4efbe917f20f45711cde096c55eec7165ac9d682c645bbdd30ebe175db790b7f7f5830971187d41395fa0710a037c20"
+		"EncryptedTicket"		"0a2060a5f84623c4165dd035c990ef6d153b5c43d1cbc58a01c43a6a38452a3f12171280028930ff1fda651f636583e3f59d209be6983bcf5e95bd458f6516237993b8a4e99849c9bd57a13b34ae0de37d5f01daf51783f83a9bccac1df414ffca75a9823d6be270505f38b4fcf1875d7c62579929acbfa1e6cc5248391fcbb09e1f7f14d217ab2ca28a8cf00d4132276401180356a33235468c8459301f491ef4e3177d31aa155e14a1cd888efdeb9ac9731d6aaeadacb651d13ed634662e4f7b11453c81771d9e8541784f774dbacfabf272bd2d1322520150561853b3614f289abb82b04ff18e3f50b7032a82f3f9d5e845f6c6e4efbe917f20f45711cde096c55eec7165ac9d682c645bbdd30ebe175db790b7f7f5830971187d41395fa0710a037c20180622082976e992a2f4894a28043208b4b6c531facc65d3"
+		"EncryptedSignature"		"8930ff1fda651f636583e3f59d209be6983bcf5e95bd458f6516237993b8a4e99849c9bd57a13b34ae0de37d5f01daf51783f83a9bccac1df414ffca75a9823d6be270505f38b4fcf1875d7c62579929acbfa1e6cc5248391fcbb09e1f7f14d217ab2ca28a8cf00d4132276401180356a33235468c8459301f491ef4e3177d31aa155e14a1cd888efdeb9ac9731d6aaeadacb651d13ed634662e4f7b11453c81771d9e8541784f774dbacfabf272bd2d1322520150561853b3614f289abb82b04ff18e3f50b7032a82f3f9d5e845f6c6e4efbe917f20f45711cde096c55eec7165ac9d682c645bbdd30ebe175db790b7f7f5830971187d41395fa0710a037c20"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000589cea0601001001070000005ed5cd89e120830a0000000021b85966a1677566010000000000000000009f6e8cf9766c832f2183dd9fc6dca980323dbf4c2f35d415f7a5c124f530fb056623a318ed45e89de33d1770abefc9cb95a25099307cd16a16cb7b032a75c116b4b68051a2d3f8b1ae0b4fa4bf89b403e0b65c3c7be4688c44e192ca5157701a01f2758c32eb66c9cffcbbde312c0a3df8175ba874bdfd5d583d936265749229"
+		"220"		"4a00000004000000589cea0601001001dc0000005ed5cd89e120830a0000000099b85966196875660100240000000400db000000000012b803000000e80d0a00000056e50a00000000008f70e1f4508aa1d13acf1f3cab4128fc6b51ac6957969ebfc3ec630adf509f76e148f2b0c2e1fa47057b80d47c6dd70d3ba7a0aaaac522e717271e5d1bd7896a3b9075eb005144ad7b8f49ba7f81977585e0ad5150f3c1a0438437a2fee948841cdd344c74bd83f7d9dee7805ee761c4da808cb3e57d0c583bfda3ea1f490365"
+		"1628350"		"3200000004000000589cea0601001001bed818005ed5cd89e120830a0000000031b95966b1687566010000000000000000003fafdbee7874a4171fa386c00ccdb2aadc0983d8c6c7b77c6cbf5b58517e1398780fb539f801fb105e507bd34067175cdadf25fb03139e8c940abdd6644bfa999318fd34bd54a96885907f2dfcb814fcf670c2b85619d16a713664a47dd45b05bb81857bc3c153b9ec9bf71dc0b59f43a3c58449c2b67936ac643a5413fd28b4"
+		"1493710"		"3200000004000000589cea0601001001ceca16005ed5cd89e120830a0000000031b95966b168756601000000000000000000b5d904bb53c4e81a74c8c268be23789de87683cb889b672e34d0ec50165b001cd6085c0341d95c813fd6a7a3c9e47043ae3a0b73fe019912f8ff2dce49d6636ca1fd391f2d1304192d02ff8629845b078813e12440d1ec6cca472ec9895a29afb5ec7fa054da2157001ab1957856b10475db0f8737fad3f9cdd4de30db7fa01f"
+		"2805730"		"3200000004000000589cea0601001001e2cf2a005ed5cd89e120830a00000000d4b9596654697566010000000000000000007e44426c5e415baa69d2017eba639bf1cad7c6430d698b9991af6dd7e4d4d8cf22d7399f17497b27deb7322624a889bc402febaf825c8bf082cd8e16a3304002b79e5fc692d1f8b3b631a4e0050ff24dd1fc49bb36b8cf0fe8d25e227f4f68517a79e8d6b5bfa3e6062f79874664a5e67e317e674878a6b998bcc29f3b9ec68b"
+		"1420170"		"3200000004000000589cea06010010018aab15005ed5cd89e120830a000000007fba5966ff69756601000000000000000000d389c30453b4f57d8c9be187fb4195da97cc78f5056615a70117467f91514bfd942c2c035f86904a85119953c2a05e50d7d0a81fbb184d0ed35cc4559b27ce59a9166ed927d1253143208cbb62e551fb643c715fbe5773289690bfd29276c8e1b973b2dcc590d86e4f90542f336b353ca17ed8e67684768f8ce0d393a75d9f46"
+		"1391110"		"3200000004000000589cea0601001001063a15005ed5cd89e120830a000000007fba5966ff697566010000000000000000002081bb8c0a3eb53ccb1f0f26d790a55d2499d9c85e956ec3a7c5c88d52abeae694e4426fab3155fd2ba515fa13a7690810dba065128322633442d7233f1c233335541bdb2f08b99fe9ff8c468bbf9a6c063d4442350352b7d06f59e6f5041ad459460da0b4d00d96bfbf042e48cf6207232884f977a07e05600307dbdefedeec"
+		"1113280"		"3200000004000000589cea0601001001c0fc10005ed5cd89e120830a00000000b8ba5966386a7566010000000000000000009d3704369e061294e1346f966e3c4c7bdb9cac774709dc6b07f31f9220dcdd73d50ea2f2e9968011fca023891225b0b50b1b8e2d9eb8aafd668e9bffbd382e187b1e62caf46c8c10f3e3142ae63347bf1b0d67c1a105aee4efae62ba06919f15e4f647bb688885fe9d4df9835309a3cd9fcab7fdf4bf3ec69198efa7f565ad47"
+		"730"		"4400000004000000589cea0601001001da0200005ed5cd89e120830a00000000ccbb59664c6b756601000dd300000300b4880900000028c92200000029c922000000000005a7403bcfa85f99c25d6774ada75c1b426ba81f11ed107f58167b46096f53ec99376079e0c74e54cab5815e185abe8389af61bd811560fb1e8ca94561e10653b1e46e87ee81865099877d8784165a80423c68867aeddf5de8d0c3bcd95d87b43c365b0eb0cf1455689349587890183e8fe948263ebd44984b5d00e7e37a1736"
+	}
+	"AppInfoChangeNumber"		"23773590"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"10"
+					{
+						"LastPlayed"		"1676989589"
+						"Playtime"		"28"
+					}
+					"20"
+					{
+						"LastPlayed"		"1562183468"
+						"Playtime"		"29"
+					}
+					"30"
+					{
+						"LastPlayed"		"1516126460"
+						"Playtime"		"3"
+					}
+					"40"
+					{
+						"LastPlayed"		"1563292923"
+						"Playtime"		"29"
+					}
+					"60"
+					{
+						"LastPlayed"		"1527425472"
+						"Playtime"		"4"
+					}
+					"70"
+					{
+						"LastPlayed"		"1698845541"
+						"Playtime"		"294"
+					}
+					"92"
+					{
+						"LastPlayed"		"1516125071"
+						"Playtime"		"16"
+					}
+					"211"
+					{
+						"LastPlayed"		"1461177271"
+						"Playtime"		"53"
+					}
+					"218"
+					{
+						"LastPlayed"		"1577820065"
+						"Playtime"		"8"
+					}
+					"220"
+					{
+						"LastPlayed"		"1717156713"
+						"Playtime2wks"		"5"
+						"Playtime"		"3767"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"LaunchOptions"		"PROTON_NO_ESYNC=1 %command%"
+						"autocloud"
+						{
+							"lastlaunch"		"1717156696"
+							"lastexit"		"1717156712"
+						}
+						"BadgeData"		"020000000821"
+					}
+					"240"
+					{
+						"LastPlayed"		"1676990269"
+						"Playtime"		"14"
+					}
+					"280"
+					{
+						"LastPlayed"		"1517430210"
+						"Playtime"		"22"
+					}
+					"300"
+					{
+						"LastPlayed"		"1514833132"
+						"Playtime"		"1"
+					}
+					"320"
+					{
+						"LastPlayed"		"1581623282"
+						"Playtime"		"120"
+					}
+					"340"
+					{
+						"LastPlayed"		"1451831567"
+						"Playtime"		"70"
+					}
+					"360"
+					{
+						"LastPlayed"		"1515695097"
+						"Playtime"		"116"
+					}
+					"380"
+					{
+						"LastPlayed"		"1563978469"
+						"Playtime"		"558"
+					}
+					"400"
+					{
+						"LastPlayed"		"1672922657"
+						"Playtime"		"943"
+					}
+					"420"
+					{
+						"LastPlayed"		"1597517246"
+						"Playtime"		"406"
+					}
+					"440"
+					{
+						"LastPlayed"		"1668727825"
+						"Playtime"		"45339"
+					}
+					"480"
+					{
+						"LastPlayed"		"1715969467"
+						"Playtime2wks"		"138"
+						"Playtime"		"16635"
+						"PlaytimeDisconnected"		"4"
+					}
+					"500"
+					{
+						"LastPlayed"		"1541857481"
+						"Playtime"		"322"
+					}
+					"550"
+					{
+						"LastPlayed"		"1692211936"
+						"Playtime"		"3619"
+					}
+					"563"
+					{
+						"LastPlayed"		"1415221722"
+						"Playtime"		"22"
+					}
+					"570"
+					{
+						"LastPlayed"		"1398439538"
+						"Playtime"		"37"
+					}
+					"620"
+					{
+						"LastPlayed"		"1711229112"
+						"Playtime"		"19477"
+					}
+					"629"
+					{
+						"LastPlayed"		"1587916336"
+						"Playtime"		"353"
+					}
+					"630"
+					{
+						"LastPlayed"		"1445782751"
+						"Playtime"		"23"
+					}
+					"644"
+					{
+						"LastPlayed"		"1587916871"
+						"Playtime"		"11"
+					}
+					"730"
+					{
+						"LastPlayed"		"1717158120"
+						"Playtime"		"1174"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1717158053"
+							"lastexit"		"1717158119"
+						}
+						"BadgeData"		"020000000821"
+						"DisableUpdatesUntil"		"0"
+						"Playtime2wks"		"8"
+						"LaunchOptions"		"mangohud %command% -window -noborder"
+					}
+					"1840"
+					{
+						"LastPlayed"		"1465926946"
+						"Playtime"		"57"
+					}
+					"4000"
+					{
+						"LastPlayed"		"1705530037"
+						"Playtime"		"39810"
+					}
+					"8190"
+					{
+						"LastPlayed"		"1502641865"
+						"Playtime"		"466"
+					}
+					"17520"
+					{
+						"LastPlayed"		"1692112000"
+						"Playtime"		"1152"
+					}
+					"17580"
+					{
+						"LastPlayed"		"1507835006"
+						"Playtime"		"68"
+					}
+					"17730"
+					{
+						"LastPlayed"		"1486578326"
+						"Playtime"		"22"
+					}
+					"21130"
+					{
+						"LastPlayed"		"1558713564"
+						"Playtime"		"1952"
+					}
+					"32440"
+					{
+						"LastPlayed"		"1577217986"
+						"Playtime"		"24"
+					}
+					"39000"
+					{
+						"LastPlayed"		"1531670034"
+						"Playtime"		"299"
+					}
+					"48000"
+					{
+						"LastPlayed"		"1609180501"
+						"Playtime"		"603"
+					}
+					"49520"
+					{
+						"LastPlayed"		"1555697585"
+						"Playtime"		"490"
+					}
+					"72850"
+					{
+						"LastPlayed"		"1484488085"
+						"Playtime"		"52"
+					}
+					"99900"
+					{
+						"LastPlayed"		"1460999628"
+						"Playtime"		"52"
+					}
+					"104700"
+					{
+						"LastPlayed"		"1485799438"
+						"Playtime"		"406"
+					}
+					"105600"
+					{
+						"LastPlayed"		"1707428536"
+						"Playtime"		"3935"
+					}
+					"109400"
+					{
+						"LastPlayed"		"1381502245"
+						"Playtime"		"1"
+					}
+					"109600"
+					{
+						"LastPlayed"		"1428948362"
+						"Playtime"		"6"
+					}
+					"113400"
+					{
+						"LastPlayed"		"1571337173"
+						"Playtime"		"120"
+					}
+					"203160"
+					{
+						"LastPlayed"		"1592514151"
+						"Playtime"		"691"
+					}
+					"203850"
+					{
+						"LastPlayed"		"1375523042"
+						"Playtime"		"2"
+					}
+					"204120"
+					{
+						"LastPlayed"		"1602358482"
+						"Playtime"		"1"
+					}
+					"205700"
+					{
+						"LastPlayed"		"1377801206"
+						"Playtime"		"49"
+					}
+					"206420"
+					{
+						"LastPlayed"		"1672869933"
+						"Playtime"		"1063"
+					}
+					"210770"
+					{
+						"LastPlayed"		"1614883824"
+						"Playtime"		"1753"
+					}
+					"211500"
+					{
+						"LastPlayed"		"1375524438"
+						"Playtime"		"13"
+					}
+					"212070"
+					{
+						"LastPlayed"		"1465581039"
+						"Playtime"		"199"
+					}
+					"214420"
+					{
+						"LastPlayed"		"1501695216"
+						"Playtime"		"55"
+					}
+					"218230"
+					{
+						"LastPlayed"		"1519241203"
+						"Playtime"		"72"
+					}
+					"218620"
+					{
+						"LastPlayed"		"1616603047"
+						"Playtime"		"3147"
+					}
+					"223470"
+					{
+						"LastPlayed"		"1635356037"
+						"Playtime"		"289"
+					}
+					"224600"
+					{
+						"LastPlayed"		"1508088768"
+						"Playtime"		"102"
+					}
+					"225540"
+					{
+						"LastPlayed"		"1584206162"
+						"Playtime"		"3059"
+					}
+					"225840"
+					{
+						"LastPlayed"		"1587308388"
+						"Playtime"		"464"
+					}
+					"226320"
+					{
+						"LastPlayed"		"1461948881"
+						"Playtime"		"36"
+					}
+					"227300"
+					{
+						"LastPlayed"		"1698249632"
+						"Playtime"		"7494"
+					}
+					"227700"
+					{
+						"LastPlayed"		"1464962167"
+						"Playtime"		"41"
+					}
+					"227940"
+					{
+						"LastPlayed"		"1604781035"
+						"Playtime"		"1058"
+					}
+					"230410"
+					{
+						"LastPlayed"		"1713289496"
+						"Playtime"		"66"
+					}
+					"231410"
+					{
+						"LastPlayed"		"1519903506"
+						"Playtime"		"27"
+					}
+					"233720"
+					{
+						"LastPlayed"		"1620327732"
+						"Playtime"		"990"
+					}
+					"236390"
+					{
+						"LastPlayed"		"1645820349"
+						"Playtime"		"2491"
+					}
+					"238960"
+					{
+						"LastPlayed"		"1453227230"
+						"Playtime"		"22"
+					}
+					"239220"
+					{
+						"LastPlayed"		"1426959154"
+						"Playtime"		"198"
+					}
+					"243730"
+					{
+						"LastPlayed"		"1659714707"
+						"Playtime"		"1"
+					}
+					"243750"
+					{
+						"LastPlayed"		"1471877258"
+						"Playtime"		"11"
+					}
+					"250420"
+					{
+						"LastPlayed"		"1397236281"
+						"Playtime"		"44"
+					}
+					"250820"
+					{
+						"LastPlayed"		"1716126486"
+						"Playtime2wks"		"1"
+						"Playtime"		"20955"
+					}
+					"252870"
+					{
+						"LastPlayed"		"1687040627"
+						"Playtime"		"806"
+					}
+					"252950"
+					{
+						"LastPlayed"		"1604683102"
+						"Playtime"		"2124"
+					}
+					"253410"
+					{
+						"LastPlayed"		"1507912537"
+						"Playtime"		"38"
+					}
+					"253710"
+					{
+						"LastPlayed"		"1558283072"
+						"Playtime"		"211"
+					}
+					"258760"
+					{
+						"LastPlayed"		"1508439544"
+						"Playtime"		"2"
+					}
+					"259080"
+					{
+						"LastPlayed"		"1558879006"
+						"Playtime"		"3666"
+					}
+					"261140"
+					{
+						"LastPlayed"		"1496682628"
+						"Playtime"		"6"
+					}
+					"261640"
+					{
+						"LastPlayed"		"1554576712"
+						"Playtime"		"1371"
+					}
+					"262410"
+					{
+						"LastPlayed"		"1542917499"
+						"Playtime"		"299"
+					}
+					"264730"
+					{
+						"LastPlayed"		"1556305628"
+						"Playtime"		"1"
+					}
+					"265630"
+					{
+						"LastPlayed"		"1466617844"
+						"Playtime"		"74"
+					}
+					"265930"
+					{
+						"LastPlayed"		"1545585495"
+						"Playtime"		"779"
+					}
+					"266430"
+					{
+						"LastPlayed"		"1532461601"
+						"Playtime"		"270"
+					}
+					"270370"
+					{
+						"LastPlayed"		"1513629182"
+						"Playtime"		"41"
+					}
+					"271290"
+					{
+						"LastPlayed"		"1549385266"
+						"Playtime"		"356"
+					}
+					"271590"
+					{
+						"LastPlayed"		"1697487959"
+						"Playtime"		"9841"
+					}
+					"272350"
+					{
+						"LastPlayed"		"1485089454"
+						"Playtime"		"1696"
+					}
+					"273110"
+					{
+						"LastPlayed"		"1522432452"
+						"Playtime"		"724"
+					}
+					"275850"
+					{
+						"LastPlayed"		"1614963926"
+						"Playtime"		"2830"
+					}
+					"276060"
+					{
+						"LastPlayed"		"1464377480"
+						"Playtime"		"6"
+					}
+					"277950"
+					{
+						"LastPlayed"		"1458237169"
+						"Playtime"		"6"
+					}
+					"280740"
+					{
+						"LastPlayed"		"1565360877"
+						"Playtime"		"339"
+					}
+					"286080"
+					{
+						"LastPlayed"		"1462820755"
+						"Playtime"		"101"
+					}
+					"286160"
+					{
+						"LastPlayed"		"1613505604"
+						"Playtime"		"194"
+					}
+					"286940"
+					{
+						"LastPlayed"		"1453488742"
+						"Playtime"		"26"
+					}
+					"290930"
+					{
+						"LastPlayed"		"1465582887"
+						"Playtime"		"30"
+					}
+					"291480"
+					{
+						"LastPlayed"		"1511557399"
+						"Playtime"		"869"
+					}
+					"298160"
+					{
+						"LastPlayed"		"1611686687"
+						"Playtime"		"2282"
+					}
+					"299360"
+					{
+						"LastPlayed"		"1487442560"
+						"Playtime"		"107"
+					}
+					"299460"
+					{
+						"LastPlayed"		"1542645668"
+						"Playtime"		"114"
+					}
+					"301520"
+					{
+						"LastPlayed"		"1596460154"
+						"Playtime"		"3881"
+					}
+					"302060"
+					{
+						"LastPlayed"		"1548502553"
+						"Playtime"		"17"
+					}
+					"302080"
+					{
+						"LastPlayed"		"1552247048"
+						"Playtime"		"57"
+					}
+					"302590"
+					{
+						"LastPlayed"		"1549394441"
+						"Playtime"		"2"
+					}
+					"303390"
+					{
+						"LastPlayed"		"1455716286"
+						"Playtime"		"7"
+					}
+					"304030"
+					{
+						"LastPlayed"		"1462739124"
+						"Playtime"		"74"
+					}
+					"304050"
+					{
+						"LastPlayed"		"1491322643"
+						"Playtime"		"5746"
+					}
+					"304930"
+					{
+						"LastPlayed"		"1488129936"
+						"Playtime"		"577"
+					}
+					"310380"
+					{
+						"LastPlayed"		"1464287632"
+						"Playtime"		"65"
+					}
+					"310560"
+					{
+						"LastPlayed"		"1586377054"
+						"Playtime"		"89"
+					}
+					"313240"
+					{
+						"LastPlayed"		"1507139724"
+						"Playtime"		"80"
+					}
+					"317360"
+					{
+						"LastPlayed"		"1508171693"
+						"Playtime"		"206"
+					}
+					"317400"
+					{
+						"LastPlayed"		"1560017749"
+						"Playtime"		"310"
+					}
+					"317790"
+					{
+						"LastPlayed"		"1563984032"
+						"Playtime"		"78"
+					}
+					"319630"
+					{
+						"LastPlayed"		"1471871849"
+						"Playtime"		"118"
+					}
+					"321400"
+					{
+						"LastPlayed"		"1468425642"
+						"Playtime"		"4"
+					}
+					"323910"
+					{
+						"LastPlayed"		"1605887966"
+						"Playtime"		"30"
+					}
+					"330760"
+					{
+						"LastPlayed"		"1507058048"
+						"Playtime"		"7"
+					}
+					"333930"
+					{
+						"LastPlayed"		"1555101847"
+						"Playtime"		"529"
+					}
+					"334370"
+					{
+						"LastPlayed"		"1463765440"
+						"Playtime"		"27"
+					}
+					"335180"
+					{
+						"LastPlayed"		"1423331068"
+						"Playtime"		"10"
+					}
+					"335240"
+					{
+						"LastPlayed"		"1527425564"
+						"Playtime"		"72"
+					}
+					"337950"
+					{
+						"LastPlayed"		"1461775834"
+						"Playtime"		"31"
+					}
+					"343100"
+					{
+						"LastPlayed"		"1515694191"
+						"Playtime"		"8"
+					}
+					"346010"
+					{
+						"LastPlayed"		"1549571045"
+						"Playtime"		"722"
+					}
+					"346900"
+					{
+						"LastPlayed"		"1685113103"
+						"Playtime"		"144"
+					}
+					"349620"
+					{
+						"LastPlayed"		"1622819654"
+						"Playtime"		"51"
+					}
+					"353220"
+					{
+						"LastPlayed"		"1507313943"
+						"Playtime"		"15"
+					}
+					"359320"
+					{
+						"LastPlayed"		"1654623153"
+						"Playtime"		"34782"
+					}
+					"359550"
+					{
+						"LastPlayed"		"1716134930"
+						"Playtime2wks"		"151"
+						"Playtime"		"12160"
+					}
+					"362890"
+					{
+						"LastPlayed"		"1634845455"
+						"Playtime"		"538"
+					}
+					"362930"
+					{
+						"LastPlayed"		"1620039629"
+						"Playtime"		"38"
+					}
+					"363970"
+					{
+						"LastPlayed"		"1558712812"
+						"Playtime"		"78"
+					}
+					"365170"
+					{
+						"LastPlayed"		"1504091384"
+						"Playtime"		"1"
+					}
+					"365670"
+					{
+						"LastPlayed"		"1635341551"
+						"Playtime"		"423"
+					}
+					"366760"
+					{
+						"LastPlayed"		"1504100164"
+						"Playtime"		"15"
+					}
+					"370090"
+					{
+						"LastPlayed"		"1455542951"
+						"Playtime"		"6"
+					}
+					"370190"
+					{
+						"LastPlayed"		"1461003445"
+						"Playtime"		"7"
+					}
+					"378850"
+					{
+						"LastPlayed"		"1459251151"
+						"Playtime"		"48"
+					}
+					"379290"
+					{
+						"LastPlayed"		"1460996511"
+						"Playtime"		"10"
+					}
+					"379720"
+					{
+						"LastPlayed"		"1583694545"
+						"Playtime"		"1081"
+					}
+					"380600"
+					{
+						"LastPlayed"		"1591552127"
+						"Playtime"		"56"
+					}
+					"382240"
+					{
+						"LastPlayed"		"1463765681"
+						"Playtime"		"11"
+					}
+					"383080"
+					{
+						"LastPlayed"		"1545504801"
+						"Playtime"		"16"
+					}
+					"385770"
+					{
+						"LastPlayed"		"1508003784"
+						"Playtime"		"15"
+					}
+					"386180"
+					{
+						"LastPlayed"		"1563976076"
+						"Playtime"		"1009"
+					}
+					"386360"
+					{
+						"LastPlayed"		"1442594609"
+						"Playtime"		"550"
+					}
+					"386420"
+					{
+						"LastPlayed"		"1535815065"
+						"Playtime"		"24"
+					}
+					"387990"
+					{
+						"LastPlayed"		"1665174538"
+						"Playtime"		"14196"
+					}
+					"389570"
+					{
+						"LastPlayed"		"1664397966"
+						"Playtime"		"576"
+					}
+					"389810"
+					{
+						"LastPlayed"		"1448644933"
+						"Playtime"		"9"
+					}
+					"391220"
+					{
+						"LastPlayed"		"1606237566"
+						"Playtime"		"36"
+					}
+					"397100"
+					{
+						"LastPlayed"		"1508260057"
+						"Playtime"		"23"
+					}
+					"397900"
+					{
+						"LastPlayed"		"1507836215"
+						"Playtime"		"2"
+					}
+					"400250"
+					{
+						"LastPlayed"		"1504104608"
+						"Playtime"		"6"
+					}
+					"404790"
+					{
+						"LastPlayed"		"1637933227"
+						"Playtime"		"1578"
+					}
+					"416350"
+					{
+						"LastPlayed"		"1485970648"
+						"Playtime"		"26"
+					}
+					"436520"
+					{
+						"LastPlayed"		"1487438980"
+						"Playtime"		"17"
+					}
+					"438100"
+					{
+						"LastPlayed"		"1534182082"
+						"Playtime"		"211"
+					}
+					"440120"
+					{
+						"LastPlayed"		"1558123982"
+						"Playtime"		"19"
+					}
+					"441380"
+					{
+						"LastPlayed"		"1594389701"
+						"Playtime"		"5"
+					}
+					"444640"
+					{
+						"LastPlayed"		"1462816748"
+						"Playtime"		"16"
+					}
+					"447040"
+					{
+						"LastPlayed"		"1593694473"
+						"Playtime"		"180"
+					}
+					"449220"
+					{
+						"LastPlayed"		"1501693818"
+						"Playtime"		"2"
+					}
+					"449680"
+					{
+						"LastPlayed"		"1549385863"
+						"Playtime"		"17"
+					}
+					"450390"
+					{
+						"LastPlayed"		"1697717800"
+						"Playtime"		"362"
+					}
+					"461040"
+					{
+						"LastPlayed"		"1660058591"
+						"Playtime"		"4"
+					}
+					"462930"
+					{
+						"LastPlayed"		"1687179843"
+						"Playtime"		"9"
+					}
+					"466910"
+					{
+						"LastPlayed"		"1696424583"
+						"Playtime"		"63"
+					}
+					"468700"
+					{
+						"LastPlayed"		"1606921060"
+						"Playtime"		"23"
+					}
+					"471710"
+					{
+						"LastPlayed"		"1643151284"
+						"Playtime"		"399"
+					}
+					"477160"
+					{
+						"LastPlayed"		"1702931557"
+						"Playtime"		"4764"
+					}
+					"478960"
+					{
+						"LastPlayed"		"1466101692"
+						"Playtime"		"2"
+					}
+					"485220"
+					{
+						"LastPlayed"		"1465414028"
+						"Playtime"		"2"
+					}
+					"485610"
+					{
+						"LastPlayed"		"1581528521"
+						"Playtime"		"8"
+					}
+					"493340"
+					{
+						"LastPlayed"		"1517247115"
+						"Playtime"		"13"
+					}
+					"502550"
+					{
+						"LastPlayed"		"1664398733"
+						"Playtime"		"24"
+					}
+					"505700"
+					{
+						"LastPlayed"		"1557166035"
+						"Playtime"		"31"
+					}
+					"513650"
+					{
+						"LastPlayed"		"1519319935"
+						"Playtime"		"503"
+					}
+					"517630"
+					{
+						"LastPlayed"		"1585406249"
+						"Playtime"		"72"
+					}
+					"517690"
+					{
+						"LastPlayed"		"1519919239"
+						"Playtime"		"22"
+					}
+					"517710"
+					{
+						"LastPlayed"		"1542569441"
+						"Playtime"		"196"
+					}
+					"526870"
+					{
+						"LastPlayed"		"1685576989"
+						"Playtime"		"641"
+					}
+					"530630"
+					{
+						"LastPlayed"		"1550672639"
+						"Playtime"		"58"
+					}
+					"544920"
+					{
+						"LastPlayed"		"1579292602"
+						"Playtime"		"13"
+					}
+					"548430"
+					{
+						"LastPlayed"		"1667604341"
+						"Playtime"		"46"
+					}
+					"550650"
+					{
+						"LastPlayed"		"1519490010"
+						"Playtime"		"6"
+					}
+					"552100"
+					{
+						"LastPlayed"		"1680655953"
+						"Playtime"		"466"
+					}
+					"555570"
+					{
+						"LastPlayed"		"1505498130"
+						"Playtime"		"10"
+					}
+					"582010"
+					{
+						"LastPlayed"		"1602011357"
+						"Playtime"		"104"
+					}
+					"585420"
+					{
+						"LastPlayed"		"1579194959"
+						"Playtime"		"56"
+					}
+					"587650"
+					{
+						"LastPlayed"		"1506531761"
+						"Playtime"		"34"
+					}
+					"587860"
+					{
+						"LastPlayed"		"1557163787"
+						"Playtime"		"75"
+					}
+					"588430"
+					{
+						"LastPlayed"		"1579030929"
+						"Playtime"		"66"
+					}
+					"588440"
+					{
+						"LastPlayed"		"1689094008"
+						"Playtime"		"77"
+					}
+					"588870"
+					{
+						"LastPlayed"		"1528567447"
+						"Playtime"		"60"
+					}
+					"596440"
+					{
+						"LastPlayed"		"1506695394"
+						"Playtime"		"3"
+					}
+					"611500"
+					{
+						"LastPlayed"		"1549390395"
+						"Playtime"		"120"
+					}
+					"619910"
+					{
+						"LastPlayed"		"1558879322"
+						"Playtime"		"178"
+					}
+					"625430"
+					{
+						"LastPlayed"		"1562096951"
+						"Playtime"		"56"
+					}
+					"652980"
+					{
+						"LastPlayed"		"1563710818"
+						"Playtime"		"20"
+					}
+					"657200"
+					{
+						"LastPlayed"		"1674232472"
+						"Playtime"		"569"
+					}
+					"658920"
+					{
+						"LastPlayed"		"1663695446"
+						"Playtime"		"176"
+					}
+					"667530"
+					{
+						"LastPlayed"		"1590256901"
+						"Playtime"		"63"
+					}
+					"667720"
+					{
+						"LastPlayed"		"1630866650"
+						"Playtime"		"90"
+					}
+					"714010"
+					{
+						"LastPlayed"		"1613820486"
+						"Playtime"		"152"
+					}
+					"714070"
+					{
+						"LastPlayed"		"1549393712"
+						"Playtime"		"194"
+					}
+					"733580"
+					{
+						"LastPlayed"		"1606490279"
+						"Playtime"		"1"
+					}
+					"739630"
+					{
+						"LastPlayed"		"1698787669"
+						"Playtime"		"200"
+					}
+					"747250"
+					{
+						"LastPlayed"		"1560019581"
+						"Playtime"		"30"
+					}
+					"774791"
+					{
+						"LastPlayed"		"1575567916"
+						"Playtime"		"77"
+					}
+					"858860"
+					{
+						"LastPlayed"		"1558122044"
+						"Playtime"		"20"
+					}
+					"868020"
+					{
+						"LastPlayed"		"1607971580"
+						"Playtime"		"8"
+					}
+					"892970"
+					{
+						"LastPlayed"		"1696799091"
+						"Playtime"		"3766"
+					}
+					"945360"
+					{
+						"LastPlayed"		"1673435644"
+						"Playtime"		"764"
+					}
+					"955910"
+					{
+						"LastPlayed"		"1589574618"
+						"Playtime"		"20"
+					}
+					"967490"
+					{
+						"LastPlayed"		"1606235894"
+						"Playtime"		"2"
+					}
+					"992490"
+					{
+						"LastPlayed"		"1585147883"
+						"Playtime"		"3"
+					}
+					"997070"
+					{
+						"LastPlayed"		"1633550873"
+						"Playtime"		"4782"
+					}
+					"1009850"
+					{
+						"LastPlayed"		"1610376930"
+						"Playtime"		"555"
+					}
+					"1067310"
+					{
+						"LastPlayed"		"1581251534"
+						"Playtime"		"42"
+					}
+					"1089130"
+					{
+						"LastPlayed"		"1669935566"
+						"Playtime"		"9"
+					}
+					"1097150"
+					{
+						"LastPlayed"		"1698949139"
+						"Playtime"		"1168"
+					}
+					"1106850"
+					{
+						"LastPlayed"		"1579886597"
+						"Playtime"		"40"
+					}
+					"1109410"
+					{
+						"LastPlayed"		"1587301266"
+						"Playtime"		"51"
+					}
+					"1128810"
+					{
+						"LastPlayed"		"1654188182"
+						"Playtime"		"82"
+					}
+					"1172470"
+					{
+						"LastPlayed"		"1609786722"
+						"Playtime"		"38"
+					}
+					"1172620"
+					{
+						"LastPlayed"		"1670685759"
+						"Playtime"		"10999"
+					}
+					"1214280"
+					{
+						"LastPlayed"		"1674233414"
+						"Playtime"		"165"
+					}
+					"1237970"
+					{
+						"LastPlayed"		"1716258296"
+						"Playtime2wks"		"108"
+						"Playtime"		"1965"
+					}
+					"1255980"
+					{
+						"LastPlayed"		"1620067116"
+						"Playtime"		"213"
+					}
+					"1272890"
+					{
+						"LastPlayed"		"1589482227"
+						"Playtime"		"10"
+					}
+					"1281930"
+					{
+						"LastPlayed"		"1707428537"
+						"Playtime"		"184"
+					}
+					"1312800"
+					{
+						"LastPlayed"		"1592843556"
+						"Playtime"		"10"
+					}
+					"1358820"
+					{
+						"LastPlayed"		"1598119002"
+						"Playtime"		"91"
+					}
+					"1404210"
+					{
+						"LastPlayed"		"1686678478"
+						"Playtime"		"3054"
+					}
+					"1431240"
+					{
+						"LastPlayed"		"1609197048"
+						"Playtime"		"1"
+					}
+					"1465860"
+					{
+						"LastPlayed"		"1635171522"
+						"Playtime"		"99"
+					}
+					"1568590"
+					{
+						"LastPlayed"		"1661033575"
+						"Playtime"		"43"
+					}
+					"1766430"
+					{
+						"LastPlayed"		"1633192284"
+						"Playtime"		"57"
+					}
+					"1812820"
+					{
+						"LastPlayed"		"1697644849"
+						"Playtime"		"18"
+					}
+					"1902490"
+					{
+						"LastPlayed"		"1646336525"
+						"Playtime"		"61"
+					}
+					"1966720"
+					{
+						"LastPlayed"		"1705770763"
+						"Playtime"		"37"
+					}
+					"2021910"
+					{
+						"LastPlayed"		"1692877334"
+						"Playtime"		"51"
+					}
+					"2881650"
+					{
+						"LastPlayed"		"1716149320"
+						"Playtime2wks"		"87"
+						"Playtime"		"87"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"1618561"
+							"used_files"		"11"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"1493710"
+					{
+						"LastPlayed"		"1717156144"
+					}
+					"1628350"
+					{
+						"LastPlayed"		"1717156144"
+					}
+					"2805730"
+					{
+						"LastPlayed"		"1717156307"
+					}
+					"1420170"
+					{
+						"LastPlayed"		"1717156477"
+					}
+					"1391110"
+					{
+						"LastPlayed"		"1717156477"
+					}
+					"1113280"
+					{
+						"LastPlayed"		"1717156535"
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1717154401"
+				"PlayerLevel"		"33"
+				"ShaderCacheManager"
+				{
+					"LastSeenBackendHitCacheGeneration"		"4"
+				}
+			}
+		}
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		""
+	}
+	"WebStorage"
+	{
+		"SteamVoiceSettings_116038744"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":0}"
+		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
+		"keyboard_haptic_preset"		"2"
+		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
+		"keyboard_trackpad_typing_scale"		"1"
+		"keyboard_trackpding_typing_trigger_as_click"		"true"
+		"keyboard_layout"		"{\"currentLayout\":0,\"selectedLayouts\":[0]}"
+		"keyboard_initial_location_desktop"		"\"center-bottom\""
+		"keyboard_initial_location_overlay"		"\"center-bottom\""
+		"CTextFilterStore_strBannedPattern"		"KDEp"
+		"CTextFilterStore_strCleanPattern"		"KDEpXihcYihmYWsoZWR8ZXJzP3xpbmcpfGtvbXBldGVuenRlYW185rS+6YCB5ZGYfHBpbmVncm92ZXxuXC5lXC5pZ1wuZVwufGZ1a3VzaGltYXxzbmlnZ2VyfG5pZSBnZWV8ZnVrdW9rYXxmdWNoc2lhfGZ1Y2hpYW58Y29ja1wubGl8ZnV4aXVzfGZ1Y3Vyb3xuaWVnb3xuaWVib3xuZWlnZXxuZWdneXxuZWJieXxmdXhpc3xjd2ZhZ3xwdWJnfG5pYnl8bmVidXxuZWJvfGZ1a3V8ZnVraXxmYWt0fGcyNHxmY3J8XHcqZnZjaHZvXHcqKVxiKSQ="
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"KDEpeyJ0ZXh0X2ZpbHRlcl9jdXN0b21fYmFubmVkX3dvcmRzIjpbXSwidGV4dF9maWx0ZXJfY3VzdG9tX2NsZWFuX3dvcmRzIjpbXX0="
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1904540,\"rgAccountIDs\":[293603728],\"totalFriends\":1},{\"appid\":438100,\"rgAccountIDs\":[156241946,136677325],\"totalFriends\":2},{\"appid\":629520,\"rgAccountIDs\":[97703693,156241946],\"totalFriends\":2},{\"appid\":1086940,\"rgAccountIDs\":[1127186386,136677325],\"totalFriends\":2},{\"appid\":787860,\"rgAccountIDs\":[390638140],\"totalFriends\":1},{\"appid\":1818750,\"rgAccountIDs\":[112432024,485675338,158620999],\"totalFriends\":3},{\"appid\":570,\"rgAccountIDs\":[173010915],\"totalFriends\":1},{\"appid\":2707900,\"rgAccountIDs\":[242186360],\"totalFriends\":1},{\"appid\":440,\"rgAccountIDs\":[127967563,435967303,129840649],\"totalFriends\":3},{\"appid\":105600,\"rgAccountIDs\":[141119057,1091719260,142709042,239504959],\"totalFriends\":4},{\"appid\":42960,\"rgAccountIDs\":[435967303],\"totalFriends\":1},{\"appid\":282140,\"rgAccountIDs\":[204676312],\"totalFriends\":1},{\"appid\":282800,\"rgAccountIDs\":[97703693],\"totalFriends\":1},{\"appid\":794260,\"rgAccountIDs\":[141119057],\"totalFriends\":1},{\"appid\":275850,\"rgAccountIDs\":[1127186386],\"totalFriends\":1},{\"appid\":960090,\"rgAccountIDs\":[435967303],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[165068216,141119057,136677325],\"totalFriends\":3},{\"appid\":787480,\"rgAccountIDs\":[842872184],\"totalFriends\":1},{\"appid\":632360,\"rgAccountIDs\":[136677325],\"totalFriends\":1},{\"appid\":287700,\"rgAccountIDs\":[878800466],\"totalFriends\":1},{\"appid\":675010,\"rgAccountIDs\":[165068216],\"totalFriends\":1},{\"appid\":270880,\"rgAccountIDs\":[364433325],\"totalFriends\":1},{\"appid\":427520,\"rgAccountIDs\":[239504959],\"totalFriends\":1},{\"appid\":2637990,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":1184770,\"rgAccountIDs\":[364433325],\"totalFriends\":1},{\"appid\":1063420,\"rgAccountIDs\":[141119057],\"totalFriends\":1},{\"appid\":1256670,\"rgAccountIDs\":[142709042,97703693],\"totalFriends\":2},{\"appid\":1966720,\"rgAccountIDs\":[1091719260,141119057],\"totalFriends\":2},{\"appid\":1384160,\"rgAccountIDs\":[112432024,842872184],\"totalFriends\":2},{\"appid\":239140,\"rgAccountIDs\":[136677325,156241946],\"totalFriends\":2},{\"appid\":550,\"rgAccountIDs\":[142709042],\"totalFriends\":1},{\"appid\":1174380,\"rgAccountIDs\":[97703693],\"totalFriends\":1},{\"appid\":1556790,\"rgAccountIDs\":[435967303],\"totalFriends\":1},{\"appid\":1426210,\"rgAccountIDs\":[136677325],\"totalFriends\":1},{\"appid\":892970,\"rgAccountIDs\":[141119057],\"totalFriends\":1},{\"appid\":269330,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":2357570,\"rgAccountIDs\":[154541377],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[204066390],\"totalFriends\":1},{\"appid\":1009850,\"rgAccountIDs\":[136677325],\"totalFriends\":1},{\"appid\":1494460,\"rgAccountIDs\":[136677325],\"totalFriends\":1},{\"appid\":908520,\"rgAccountIDs\":[136677325],\"totalFriends\":1},{\"appid\":969990,\"rgAccountIDs\":[435967303],\"totalFriends\":1},{\"appid\":518920,\"rgAccountIDs\":[156241946],\"totalFriends\":1},{\"appid\":2132850,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":1435790,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":2433730,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":6800,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":2212330,\"rgAccountIDs\":[112432024],\"totalFriends\":1},{\"appid\":1235140,\"rgAccountIDs\":[842872184],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[127967563,1099969008,241547681,842872184,242186360],\"totalFriends\":5}],\"lastFetchTimeMS\":1717155726456}"
+		"ChatStorePopupState_116038744"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1717155985,\"appids\":[2012840,348250,457550,300,232010,302590,397900,20500,34270,461040,1063770,231430,321400]},\"rgIgnoredApps\":[]}"
+		"GetEquippedProfileItemsForUser76561198076304472"		"{\"profile_background\":{\"communityitemid\":\"14911661836\",\"image_large\":\"items/1263950/da538bac62ee5e233cd82bb75b0d3c47ba0cdc03.jpg\",\"name\":\"Black Hole\",\"item_title\":\"Black Hole\",\"item_description\":\"\",\"appid\":1263950,\"item_type\":28,\"item_class\":3,\"movie_webm\":\"items/1263950/4d466f77edf3265a253fba79d47bc91a37e34920.webm\",\"movie_mp4\":\"items/1263950/248954cba9bc08b6e16c676f5c1814ff823af907.mp4\",\"movie_webm_small\":\"items/1263950/44c0a4d68afe786d207a373af4f647c51516e400.webm\",\"movie_mp4_small\":\"items/1263950/9f3c2641857b3429bd7b8e8f5115f1d316cdd0d8.mp4\",\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"14375107802\",\"image_large\":\"items/1263950/2edbbe9ea5f125d55ff3849af51ed66b63be5752.jpg\",\"name\":\"Black Hole\",\"item_title\":\"Black Hole Mini-Profile\",\"item_description\":\"\",\"appid\":1263950,\"item_type\":23,\"item_class\":13,\"movie_webm\":\"items/1263950/d617ee5082bd8ae94169308f72bc21ada421f050.webm\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"13921774944\",\"image_small\":\"items/1263950/ebe6b674deca163b28423e3b925bd36b0f0f357b.png\",\"image_large\":\"items/1263950/a6e73033e3d9c1848d7effd5946242832b404e45.png\",\"name\":\"Portal Blue\",\"item_title\":\"Portal Blue\",\"item_description\":\"\",\"appid\":1263950,\"item_type\":6,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
+		"deck_compatibility_feedback_ask"		"[]"
+		"deck_compatibility_feedback_eligible_apps"		"{}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"CloudKey"		"010000002b381c28a29b0782b4206298935a2f7d4606825d01a2ec4a22f8095abf7c1f5a2243641b"
+	"CloudKeyCRC"		"-181415653"
+	"UserAppConfig"
+	{
+		"220"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"730"		"00696e7465726e616c00016c616e677561676500656e676c697368000144697361626c6564444c430032323739373231000808"
+	}
+	"RecentLocalPlayedGameIDs"		"da02000000000000e7c05966dc0000000000000068bb5966c0fc100000000000b6ba59668aab1500000000007cba5966063a1500000000007cba5966e2cf2a0000000000d2b95966ceca16000000000031b95966bed818000000000031b95966"
+	"nettickets"
+	{
+		"730"		"0100000019742a158bc785d889b705cef8e77e5b4cc074aab609c1852abc4bf53067367a38d1f3f87cfc5d472f607856f55f3561d2b9713ab81ee71792a467df4eb28e43a3bb8e6fa13510a2269951b78517963974f68f9cb8a831cf7df18b0689e9a2006db6670bbee49450f77994987301a9a32c29423e8d16400ed2bc1cc10bf0425dc89b3116c4db2da537705a20b1cc4f0451cdfd373d3a70b3878e667a387968adba31f40ddee6d271d2e5bbdcb87479bc0ccd68ce9a2f6994a9d2bc705db661c1e17fd86d46f3f6f5d71ea1e038595e95e42989cd4af84630d8fed2bace1cee843012c3ca2ada7c151ff4f54ce382d88defcc0d59f1a9f9"
+	}
+}

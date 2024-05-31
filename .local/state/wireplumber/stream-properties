@@ -1,0 +1,10 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Input/Audio:application.name:cs2.exe={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Input/Audio:application.name:hl2.exe={"volume":1.000000, "mute":false, "channelVolumes":[], "channelMap":[]}
+Input/Audio:media.role:Game={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Chromium={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:application.name:cs2.exe={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:application.name:hl2.exe={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Game={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}

@@ -1,0 +1,162 @@
+
+
+[2024-05-31 11:40:58] Client version: 1716584667
+[2024-05-31 11:40:58] Initialized CSystemAudioController: 1
+[2024-05-31 11:40:58] CSystemAudioController handle volume keys: 0
+[2024-05-31 11:40:58] CSystemAudioController handle echo cancel load: 0
+[2024-05-31 11:41:06] AudioSinkAvailabilityChanged: 1
+[2024-05-31 11:41:06] SinkAdded: 48
+[2024-05-31 11:41:06] SinkAdded: 49
+[2024-05-31 11:41:06] SinkAdded: 48
+[2024-05-31 11:41:06] SinkAdded: 49
+[2024-05-31 11:41:06] SinkAdded: 48
+[2024-05-31 11:41:06] SinkVolumeChanged: 48,1 -> 0.399994
+[2024-05-31 11:41:06] SinkVolumeChanged: 49,0 -> 1.000000
+[2024-05-31 11:43:56] SinkAdded: 48
+[2024-05-31 11:43:56] SinkAdded: 48
+[2024-05-31 11:43:56] SinkAdded: 48
+[2024-05-31 11:43:56] SinkAdded: 48
+
+
+[2024-05-31 11:44:09] Client version: 1716584667
+[2024-05-31 11:44:09] Initialized CSystemAudioController: 1
+[2024-05-31 11:44:09] CSystemAudioController handle volume keys: 0
+[2024-05-31 11:44:09] CSystemAudioController handle echo cancel load: 0
+[2024-05-31 11:44:22] AudioSinkAvailabilityChanged: 1
+[2024-05-31 11:44:22] SinkAdded: 48
+[2024-05-31 11:44:22] SinkAdded: 49
+[2024-05-31 11:44:22] SinkAdded: 48
+[2024-05-31 11:44:22] SinkAdded: 49
+[2024-05-31 11:44:22] SinkAdded: 48
+[2024-05-31 11:44:22] SinkAdded: 48
+[2024-05-31 11:44:22] SinkAdded: 48
+[2024-05-31 11:44:22] SinkVolumeChanged: 48,1 -> 0.399994
+[2024-05-31 11:44:22] SinkVolumeChanged: 49,0 -> 1.000000
+[2024-05-31 11:47:30] SinkAdded: 48
+[2024-05-31 11:47:30] SinkAdded: 48
+[2024-05-31 11:47:30] SinkAdded: 48
+[2024-05-31 11:47:41] SinkAdded: 48
+[2024-05-31 11:47:46] SinkAdded: 48
+[2024-05-31 11:48:15] SinkAdded: 48
+[2024-05-31 11:48:25] SinkAdded: 48
+[2024-05-31 11:48:28] SinkAdded: 48
+[2024-05-31 11:49:04] SinkAdded: 48
+[2024-05-31 11:49:05] SinkAdded: 48
+[2024-05-31 11:49:15] SinkAdded: 48
+[2024-05-31 11:49:31] SinkAdded: 48
+[2024-05-31 11:49:52] SinkAdded: 48
+[2024-05-31 11:50:05] SinkAdded: 48
+[2024-05-31 11:50:10] SinkAdded: 48
+[2024-05-31 11:51:44] SinkAdded: 48
+[2024-05-31 11:52:07] SinkAdded: 48
+[2024-05-31 11:52:07] SinkAdded: 48
+[2024-05-31 11:52:12] SinkAdded: 48
+[2024-05-31 11:52:23] SinkAdded: 48
+[2024-05-31 11:52:28] SinkAdded: 48
+[2024-05-31 11:53:13] SinkAdded: 48
+[2024-05-31 11:53:23] SinkAdded: 48
+[2024-05-31 11:53:28] SinkAdded: 48
+[2024-05-31 11:53:44] SinkAdded: 48
+[2024-05-31 11:53:57] SinkAdded: 48
+[2024-05-31 11:54:02] SinkAdded: 48
+[2024-05-31 11:54:32] SinkAdded: 48
+[2024-05-31 11:54:42] SinkAdded: 48
+[2024-05-31 11:54:45] SinkAdded: 48
+[2024-05-31 11:54:45] SinkAdded: 48
+[2024-05-31 11:54:45] SinkAdded: 48
+[2024-05-31 11:55:01] SinkAdded: 48
+[2024-05-31 11:55:06] SinkAdded: 48
+[2024-05-31 11:55:29] SinkAdded: 48
+[2024-05-31 11:55:39] SinkAdded: 48
+[2024-05-31 11:55:41] SinkAdded: 48
+[2024-05-31 11:55:41] SinkAdded: 48
+[2024-05-31 11:55:41] SinkAdded: 48
+[2024-05-31 11:55:49] SinkAdded: 49
+[2024-05-31 11:55:53] SinkAdded: 48
+[2024-05-31 11:55:54] SinkAdded: 48
+[2024-05-31 11:56:21] SinkAdded: 48
+[2024-05-31 11:56:26] SinkAdded: 48
+[2024-05-31 11:57:17] SinkAdded: 48
+[2024-05-31 11:57:27] SinkAdded: 48
+[2024-05-31 11:57:32] SinkAdded: 48
+[2024-05-31 11:57:35] SinkAdded: 48
+[2024-05-31 11:57:51] SinkAdded: 48
+[2024-05-31 11:57:56] SinkAdded: 48
+[2024-05-31 11:58:04] SinkAdded: 48
+[2024-05-31 11:58:14] SinkAdded: 48
+[2024-05-31 11:58:19] SinkAdded: 48
+[2024-05-31 11:58:50] SinkAdded: 48
+[2024-05-31 11:59:00] SinkAdded: 48
+[2024-05-31 11:59:05] SinkAdded: 48
+[2024-05-31 12:09:18] SinkAdded: 48
+[2024-05-31 12:09:28] SinkAdded: 48
+[2024-05-31 12:09:31] SinkAdded: 48
+[2024-05-31 12:10:06] SinkAdded: 49
+[2024-05-31 12:10:06] SinkAdded: 49
+[2024-05-31 12:10:11] SinkAdded: 49
+[2024-05-31 12:10:35] SinkAdded: 48
+[2024-05-31 12:10:40] SinkAdded: 48
+[2024-05-31 12:10:50] SinkAdded: 48
+[2024-05-31 12:11:00] SinkAdded: 48
+[2024-05-31 12:11:04] SinkAdded: 48
+[2024-05-31 12:11:20] SinkAdded: 48
+[2024-05-31 12:11:24] SinkAdded: 48
+[2024-05-31 12:11:50] SinkAdded: 48
+[2024-05-31 12:11:55] SinkAdded: 48
+[2024-05-31 12:12:46] SinkAdded: 48
+[2024-05-31 12:18:16] SinkAdded: 48
+[2024-05-31 12:18:21] SinkAdded: 48
+[2024-05-31 12:18:23] SinkAdded: 48
+[2024-05-31 12:18:33] SinkAdded: 48
+[2024-05-31 12:18:38] SinkAdded: 48
+[2024-05-31 12:18:58] SinkAdded: 48
+[2024-05-31 12:19:03] SinkAdded: 48
+[2024-05-31 12:19:08] SinkAdded: 48
+[2024-05-31 12:19:18] SinkAdded: 48
+[2024-05-31 12:19:28] SinkAdded: 48
+[2024-05-31 12:19:33] SinkAdded: 48
+[2024-05-31 12:20:15] SinkAdded: 48
+[2024-05-31 12:20:20] SinkAdded: 48
+[2024-05-31 12:20:25] SinkAdded: 48
+[2024-05-31 12:20:35] SinkAdded: 48
+[2024-05-31 12:20:53] SinkAdded: 48
+[2024-05-31 12:20:58] SinkAdded: 48
+[2024-05-31 12:21:13] SinkAdded: 48
+[2024-05-31 12:21:59] SinkAdded: 48
+[2024-05-31 12:22:04] SinkAdded: 48
+[2024-05-31 12:26:40] SinkAdded: 48
+[2024-05-31 12:26:40] SinkAdded: 48
+[2024-05-31 12:26:40] SinkAdded: 48
+[2024-05-31 12:26:52] SinkAdded: 48
+[2024-05-31 12:26:57] SinkAdded: 48
+[2024-05-31 12:27:01] SinkAdded: 48
+
+
+[2024-05-31 12:27:14] Client version: 1716584667
+[2024-05-31 12:27:14] Initialized CSystemAudioController: 1
+[2024-05-31 12:27:14] CSystemAudioController handle volume keys: 0
+[2024-05-31 12:27:14] CSystemAudioController handle echo cancel load: 0
+[2024-05-31 12:27:16] AudioSinkAvailabilityChanged: 1
+[2024-05-31 12:27:16] SinkAdded: 48
+[2024-05-31 12:27:16] SinkAdded: 49
+[2024-05-31 12:27:16] SinkAdded: 48
+[2024-05-31 12:27:16] SinkAdded: 49
+[2024-05-31 12:27:16] SinkAdded: 48
+[2024-05-31 12:27:16] SinkAdded: 48
+[2024-05-31 12:27:16] SinkAdded: 48
+[2024-05-31 12:27:16] SinkVolumeChanged: 48,1 -> 0.399994
+[2024-05-31 12:27:16] SinkVolumeChanged: 49,0 -> 1.000000
+
+
+[2024-05-31 12:28:23] Client version: 1716584667
+[2024-05-31 12:28:23] Initialized CSystemAudioController: 1
+[2024-05-31 12:28:23] CSystemAudioController handle volume keys: 0
+[2024-05-31 12:28:23] CSystemAudioController handle echo cancel load: 0
+[2024-05-31 12:28:26] AudioSinkAvailabilityChanged: 1
+[2024-05-31 12:28:26] SinkAdded: 48
+[2024-05-31 12:28:26] SinkAdded: 49
+[2024-05-31 12:28:26] SinkAdded: 48
+[2024-05-31 12:28:26] SinkAdded: 49
+[2024-05-31 12:28:26] SinkAdded: 48
+[2024-05-31 12:28:26] SinkVolumeChanged: 48,1 -> 0.399994
+[2024-05-31 12:28:26] SinkVolumeChanged: 49,0 -> 1.000000

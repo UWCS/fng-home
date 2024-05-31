@@ -1,0 +1,525 @@
+
+
+[2024-05-31 11:42:04] Client version: 1716584667
+[2024-05-31 11:42:04] Requesting mapping AppID 440 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:42:04] Recording non-user mapping for 440 at priority 101 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Mapping AppID 440 to tool "SteamLinuxRuntime_sniper" with priority 101
+[2024-05-31 11:42:04] Requesting mapping AppID 570 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:42:04] Recording non-user mapping for 570 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:42:04] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:42:04] Recording non-user mapping for 730 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:42:04] Requesting mapping AppID 250820 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:42:04] Recording non-user mapping for 250820 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Mapping AppID 250820 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:42:04] Processing tool list from AppID 891390
+[2024-05-31 11:42:04] Registering tool proton_experimental, AppID 1493710
+[2024-05-31 11:42:04] Registering tool proton_9, AppID 2805730
+[2024-05-31 11:42:04] Registering tool proton_8, AppID 2348590
+[2024-05-31 11:42:04] Registering tool proton_7, AppID 1887720
+[2024-05-31 11:42:04] Registering tool proton_63, AppID 1580130
+[2024-05-31 11:42:04] Registering tool proton_513, AppID 1420170
+[2024-05-31 11:42:04] Registering tool proton_5, AppID 1245040
+[2024-05-31 11:42:04] Registering tool proton_411, AppID 1113280
+[2024-05-31 11:42:04] Registering tool proton_42, AppID 1054830
+[2024-05-31 11:42:04] Registering tool proton_316, AppID 961940
+[2024-05-31 11:42:04] Registering tool proton_37, AppID 858280
+[2024-05-31 11:42:04] Registering tool proton_hotfix, AppID 2180100
+[2024-05-31 11:42:04] Registering tool steamlinuxruntime_sniper, AppID 1628350
+[2024-05-31 11:42:04] Registering tool steamlinuxruntime_soldier, AppID 1391110
+[2024-05-31 11:42:04] Registering tool steamlinuxruntime, AppID 1070560
+[2024-05-31 11:42:04] Recording non-user mapping for 570 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Unmapping AppID 570
+[2024-05-31 11:42:04] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 730 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Unmapping AppID 730
+[2024-05-31 11:42:04] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 257850 at priority 100 to tool proton-stable
+[2024-05-31 11:42:04] Mapping AppID 257850 to tool "proton-stable" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 346110 at priority 100 to tool proton-stable
+[2024-05-31 11:42:04] Mapping AppID 346110 to tool "proton-stable" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 377160 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 377160 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 418370 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 418370 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 553850 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 553850 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 599390 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:42:04] Mapping AppID 599390 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 627270 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 627270 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 883710 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 883710 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 934700 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 934700 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 952060 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 952060 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 990080 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 990080 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1086940 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1086940 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1091500 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1091500 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1172470 at priority 100 to tool proton-hotfix
+[2024-05-31 11:42:04] Mapping AppID 1172470 to tool "proton-hotfix" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1196590 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1196590 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1328670 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1328670 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1446780 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1446780 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1501750 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1501750 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1551360 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1551360 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 1778820 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 1778820 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2050650 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2050650 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2073850 at priority 100 to tool proton-hotfix
+[2024-05-31 11:42:04] Mapping AppID 2073850 to tool "proton-hotfix" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2131640 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2131640 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2131650 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2131650 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2161700 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2161700 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2215430 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2215430 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2389670 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2389670 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2395210 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2395210 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2420110 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2420110 to tool "proton-experimental" with priority 100
+[2024-05-31 11:42:04] Recording non-user mapping for 2563970 at priority 100 to tool proton-experimental
+[2024-05-31 11:42:04] Mapping AppID 2563970 to tool "proton-experimental" with priority 100
+[2024-05-31 11:43:59] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2024-05-31 11:44:07] Shutting down: forcing platform override cache flush to disk.
+
+
+[2024-05-31 11:44:10] Client version: 1716584667
+[2024-05-31 11:44:10] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2024-05-31 11:44:33] Requesting mapping AppID 440 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:44:33] Recording non-user mapping for 440 at priority 101 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Mapping AppID 440 to tool "SteamLinuxRuntime_sniper" with priority 101
+[2024-05-31 11:44:33] Requesting mapping AppID 570 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:44:33] Recording non-user mapping for 570 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:44:33] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:44:33] Recording non-user mapping for 730 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:44:33] Requesting mapping AppID 250820 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 11:44:33] Recording non-user mapping for 250820 at priority 85 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Mapping AppID 250820 to tool "SteamLinuxRuntime_sniper" with priority 85
+[2024-05-31 11:44:33] Processing tool list from AppID 891390
+[2024-05-31 11:44:33] Registering tool proton_experimental, AppID 1493710
+[2024-05-31 11:44:33] Registering tool proton_9, AppID 2805730
+[2024-05-31 11:44:33] Registering tool proton_8, AppID 2348590
+[2024-05-31 11:44:33] Registering tool proton_7, AppID 1887720
+[2024-05-31 11:44:33] Registering tool proton_63, AppID 1580130
+[2024-05-31 11:44:33] Registering tool proton_513, AppID 1420170
+[2024-05-31 11:44:33] Registering tool proton_5, AppID 1245040
+[2024-05-31 11:44:33] Registering tool proton_411, AppID 1113280
+[2024-05-31 11:44:33] Registering tool proton_42, AppID 1054830
+[2024-05-31 11:44:33] Registering tool proton_316, AppID 961940
+[2024-05-31 11:44:33] Registering tool proton_37, AppID 858280
+[2024-05-31 11:44:33] Registering tool proton_hotfix, AppID 2180100
+[2024-05-31 11:44:33] Registering tool steamlinuxruntime_sniper, AppID 1628350
+[2024-05-31 11:44:33] Registering tool steamlinuxruntime_soldier, AppID 1391110
+[2024-05-31 11:44:33] Registering tool steamlinuxruntime, AppID 1070560
+[2024-05-31 11:44:33] Recording non-user mapping for 570 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Unmapping AppID 570
+[2024-05-31 11:44:33] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 730 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Unmapping AppID 730
+[2024-05-31 11:44:33] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 257850 at priority 100 to tool proton-stable
+[2024-05-31 11:44:33] Mapping AppID 257850 to tool "proton-stable" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 346110 at priority 100 to tool proton-stable
+[2024-05-31 11:44:33] Mapping AppID 346110 to tool "proton-stable" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 377160 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 377160 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 418370 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 418370 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 553850 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 553850 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 599390 at priority 100 to tool SteamLinuxRuntime_sniper
+[2024-05-31 11:44:33] Mapping AppID 599390 to tool "SteamLinuxRuntime_sniper" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 627270 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 627270 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 883710 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 883710 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 934700 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 934700 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 952060 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 952060 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 990080 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 990080 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1086940 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1086940 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1091500 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1091500 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1172470 at priority 100 to tool proton-hotfix
+[2024-05-31 11:44:33] Mapping AppID 1172470 to tool "proton-hotfix" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1196590 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1196590 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1328670 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1328670 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1446780 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1446780 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1501750 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1501750 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1551360 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1551360 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 1778820 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 1778820 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2050650 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2050650 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2073850 at priority 100 to tool proton-hotfix
+[2024-05-31 11:44:33] Mapping AppID 2073850 to tool "proton-hotfix" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2131640 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2131640 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2131650 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2131650 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2161700 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2161700 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2215430 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2215430 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2389670 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2389670 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2395210 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2395210 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2420110 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2420110 to tool "proton-experimental" with priority 100
+[2024-05-31 11:44:33] Recording non-user mapping for 2563970 at priority 100 to tool proton-experimental
+[2024-05-31 11:44:33] Mapping AppID 2563970 to tool "proton-experimental" with priority 100
+[2024-05-31 11:48:19] StartSession: appID 220 session dc1a3f4e9e497727
+[2024-05-31 11:49:04] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:49:05] Mapping AppID 220 to tool "proton_experimental" with priority 250
+[2024-05-31 11:49:05] AppID 220 depends on AppID 1493710 - installing.
+[2024-05-31 11:49:05] AppID 220 depends on AppID 1628350 - installing.
+[2024-05-31 11:49:52] Loaded manifest for tool 1628350.
+[2024-05-31 11:49:54] Loaded manifest for tool 1493710.
+[2024-05-31 11:49:54] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:49:54] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:49:54] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:50:09] StartSession: appID 220 session 9438639eab614650
+[2024-05-31 11:50:15] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:50:15] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:50:15] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 11:50:15] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:50:15] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:50:15] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:50:16] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:50:16] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:50:16] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:50:19] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:50:19] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:50:19] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:50:19] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:51:00] StartSession: appID 220 session 9ccd5139b380fe06
+[2024-05-31 11:51:04] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:51:04] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:51:04] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 11:51:04] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:51:04] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:51:04] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:51:07] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:51:07] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:51:07] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:51:07] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:51:36] StartSession: appID 220 session ef6b4d4b3bf8d55e
+[2024-05-31 11:51:39] ReleaseSession: appID 220 session ef6b4d4b3bf8d55e released, 0 left
+[2024-05-31 11:51:46] Unmapping AppID 220
+[2024-05-31 11:51:46] Mapping AppID 220 to tool "proton_9" with priority 250
+[2024-05-31 11:51:46] AppID 220 depends on AppID 2805730 - installing.
+[2024-05-31 11:51:48] StartSession: appID 220 session 2f743b65b58cfed8
+[2024-05-31 11:52:11] Loaded manifest for tool 2805730.
+[2024-05-31 11:52:11] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:52:11] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:52:11] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:52:12] Loaded manifest for tool 2805730.
+[2024-05-31 11:52:12] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:52:12] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:52:12] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:52:30] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:52:30] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:52:30] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun ".
+[2024-05-31 11:52:30] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:52:30] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:52:30] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:52:35] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:52:35] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:52:35] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:52:36] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:53:24] StartSession: appID 220 session 1b7d29e2afd45516
+[2024-05-31 11:53:27] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:53:27] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:53:27] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun ".
+[2024-05-31 11:53:28] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:53:28] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:53:28] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:53:28] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:53:49] StartSession: appID 220 session 6a2b3468ec98f8d5
+[2024-05-31 11:53:52] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:53:52] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:53:52] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun ".
+[2024-05-31 11:53:53] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:53:53] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:53:53] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:53:56] Tool 2805730 "Proton 9.0-1" has a dependency on tool 1628350.
+[2024-05-31 11:53:56] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:53:56] Command prefix for tool 2805730 "Proton 9.0-1" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton run ".
+[2024-05-31 11:53:56] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:54:36] Unmapping AppID 220
+[2024-05-31 11:54:36] Mapping AppID 220 to tool "proton_513" with priority 250
+[2024-05-31 11:54:36] AppID 220 depends on AppID 1420170 - installing.
+[2024-05-31 11:54:36] AppID 220 depends on AppID 1391110 - installing.
+[2024-05-31 11:54:38] StartSession: appID 220 session 3e2438100f70b374
+[2024-05-31 11:54:45] Loaded manifest for tool 1391110.
+[2024-05-31 11:54:45] Loaded manifest for tool 1391110.
+[2024-05-31 11:54:50] Loaded manifest for tool 1420170.
+[2024-05-31 11:54:50] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:54:50] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:54:50] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:54:50] Loaded manifest for tool 1420170.
+[2024-05-31 11:54:50] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:54:50] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:54:50] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:00] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:00] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:55:00] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun ".
+[2024-05-31 11:55:00] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:00] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:55:00] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:01] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:01] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:55:01] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:04] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:04] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:55:04] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:05] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:55:11] StartSession: appID 220 session e026b8920391352e
+[2024-05-31 11:55:14] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:14] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:55:14] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun ".
+[2024-05-31 11:55:14] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:14] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:55:14] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:18] Tool 1420170 "Proton 5.13-6" has a dependency on tool 1391110.
+[2024-05-31 11:55:18] Command prefix for tool 1391110 "Steam Linux Runtime 2.0 (soldier)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:55:18] Command prefix for tool 1420170 "Proton 5.13-6" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton run ".
+[2024-05-31 11:55:20] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:55:34] Unmapping AppID 220
+[2024-05-31 11:55:34] Mapping AppID 220 to tool "proton_411" with priority 250
+[2024-05-31 11:55:34] AppID 220 depends on AppID 1113280 - installing.
+[2024-05-31 11:55:36] StartSession: appID 220 session 30701aec6a726c6d
+[2024-05-31 11:55:41] Loaded manifest for tool 1113280.
+[2024-05-31 11:55:41] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:41] Loaded manifest for tool 1113280.
+[2024-05-31 11:55:41] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:45] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun".
+[2024-05-31 11:55:45] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:49] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:49] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:54] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:55:54] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:56:01] Command prefix for tool 1113280 "Proton 4.11-13" set to: "'/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton run".
+[2024-05-31 11:56:24] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:57:24] StartSession: appID 220 session df65a143bd944089
+[2024-05-31 11:57:31] ReleaseSession: appID 220 session df65a143bd944089 released, 0 left
+[2024-05-31 11:57:37] Unmapping AppID 220
+[2024-05-31 11:57:37] Mapping AppID 220 to tool "proton_experimental" with priority 250
+[2024-05-31 11:57:48] StartSession: appID 220 session f48ccf1ab0d1c14d
+[2024-05-31 11:57:52] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:57:52] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:57:52] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 11:57:52] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:57:52] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:57:52] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:57:53] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:57:53] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:57:53] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:57:58] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:57:58] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:57:58] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:57:58] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:58:15] StartSession: appID 220 session 9725c60b7a7df460
+[2024-05-31 11:58:29] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:58:29] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 11:58:29] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 11:58:29] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:58:29] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:58:29] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:58:32] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 11:58:32] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 11:58:32] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 11:58:32] OnAppLifetimeNotification: release session(s) for appID 220
+[2024-05-31 11:58:57] AppID 220 uninstalled, deleting compatibility data library folder /home/fng/.local/share/Steam/steamapps/compatdata/220.
+[2024-05-31 12:00:12] Reporting tool 1628350 on behalf of app 730.
+[2024-05-31 12:00:12] Reporting tool 1628350...
+[2024-05-31 12:00:12] Reported tool 1628350 - successful.
+[2024-05-31 12:09:17] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 12:09:17] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 12:09:19] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 12:09:24] StartSession: appID 730 session 6699a14e503b5c93
+[2024-05-31 12:09:28] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:09:28] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:09:29] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:09:31] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:09:35] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:10:35] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:10:35] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:10:57] StartSession: appID 730 session a3e42522827d3fa3
+[2024-05-31 12:11:01] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:11:01] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:03] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:07] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:20] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:20] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:11:25] Unmapping AppID 730
+[2024-05-31 12:11:25] Mapping AppID 730 to tool "proton_experimental" with priority 250
+[2024-05-31 12:11:39] StartSession: appID 730 session f42f41ed718082a6
+[2024-05-31 12:11:39] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:11:39] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:39] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:11:39] ReleaseSession: appID 730 session f42f41ed718082a6 released, 0 left
+[2024-05-31 12:11:39] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:11:42] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 12:11:46] StartSession: appID 730 session c510927a88e5337b
+[2024-05-31 12:11:46] StartSession: appID 730 added secondary session 9d5b548d1ffc1233 to session c510927a88e5337b
+[2024-05-31 12:11:46] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:11:46] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:11:46] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:11:46] ReleaseSession: appID 730 session 9d5b548d1ffc1233 released, 1 left
+[2024-05-31 12:11:46] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:12:27] ReleaseSession: appID 730 session c510927a88e5337b released, 0 left
+[2024-05-31 12:12:31] StartSession: appID 730 session c36241313da08f34
+[2024-05-31 12:12:31] StartSession: appID 730 added secondary session 2077f4a8ca1114bd to session c36241313da08f34
+[2024-05-31 12:12:31] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:31] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:31] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:12:31] ReleaseSession: appID 730 session 2077f4a8ca1114bd released, 1 left
+[2024-05-31 12:12:31] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:12:41] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:41] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:12:41] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 12:12:41] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:41] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:41] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:12:42] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:42] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:42] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:12:44] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:44] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:44] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:12:45] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:45] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:45] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:12:58] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:12:58] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:12:58] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:18:16] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:16] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:18:16] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:18:16] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:18:29] StartSession: appID 730 session 92dae2c38ec44d0
+[2024-05-31 12:18:29] StartSession: appID 730 added secondary session ad525505fec77cf3 to session 92dae2c38ec44d0
+[2024-05-31 12:18:29] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:29] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:18:29] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:18:29] ReleaseSession: appID 730 session ad525505fec77cf3 released, 1 left
+[2024-05-31 12:18:29] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:18:37] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:37] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:18:37] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 12:18:37] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:37] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:18:37] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:18:40] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:40] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:18:40] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:18:41] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:18:41] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:18:41] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:02] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:02] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:02] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:03] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:03] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:03] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:04] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:19:48] StartSession: appID 730 session e1edc336e424e459
+[2024-05-31 12:19:48] StartSession: appID 730 added secondary session b2e91a19842c21f0 to session e1edc336e424e459
+[2024-05-31 12:19:48] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:48] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:48] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:48] ReleaseSession: appID 730 session b2e91a19842c21f0 released, 1 left
+[2024-05-31 12:19:48] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:19:54] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:54] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:19:54] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 12:19:54] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:54] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:54] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:57] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:57] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:57] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:19:58] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:19:58] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:19:58] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:20:19] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:20:19] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:20:19] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:20:20] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:20:20] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:20:20] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:20:20] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:20:49] StartSession: appID 730 session 3149daa30984dcd5
+[2024-05-31 12:20:50] StartSession: appID 730 added secondary session eac2ad8d13bdfc2d to session 3149daa30984dcd5
+[2024-05-31 12:20:50] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:20:50] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:20:50] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:20:50] ReleaseSession: appID 730 session eac2ad8d13bdfc2d released, 1 left
+[2024-05-31 12:20:50] Running install script evaluator for AppID 730, 3 steps
+[2024-05-31 12:20:59] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:20:59] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- ".
+[2024-05-31 12:20:59] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun ".
+[2024-05-31 12:20:59] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:20:59] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:20:59] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:21:02] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:21:02] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:21:02] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:21:03] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:21:03] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:21:03] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:21:30] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:21:30] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:21:30] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:21:59] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:21:59] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:21:59] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:21:59] OnAppLifetimeNotification: release session(s) for appID 730
+[2024-05-31 12:22:05] StartSession: appID 730 session 9b7b2ea50d9a2a37
+[2024-05-31 12:22:05] Tool 1493710 "Proton Experimental" has a dependency on tool 1628350.
+[2024-05-31 12:22:05] Command prefix for tool 1628350 "Steam Linux Runtime 3.0 (sniper)" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- ".
+[2024-05-31 12:22:05] Command prefix for tool 1493710 "Proton Experimental" set to: "'/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=run -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton run ".
+[2024-05-31 12:22:05] ReleaseSession: appID 730 session 9b7b2ea50d9a2a37 released, 0 left
+[2024-05-31 12:22:05] Running uninstall script evaluator for AppID 730, 3 steps
+[2024-05-31 12:22:09] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2024-05-31 12:22:09] AppID 730 uninstalled, deleting compatibility data library folder /home/fng/.local/share/Steam/steamapps/compatdata/730.
+
+
+[2024-05-31 12:27:14] Client version: 1716584667
+[2024-05-31 12:27:14] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2024-05-31 12:27:14] Mapping AppID 220 to tool "proton_experimental" with priority 250
+[2024-05-31 12:27:14] Mapping AppID 730 to tool "proton_experimental" with priority 250
+
+
+[2024-05-31 12:28:24] Client version: 1716584667
+[2024-05-31 12:28:24] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2024-05-31 12:28:24] Mapping AppID 220 to tool "proton_experimental" with priority 250
+[2024-05-31 12:28:24] Mapping AppID 730 to tool "proton_experimental" with priority 250

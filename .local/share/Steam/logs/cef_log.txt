@@ -1,0 +1,20 @@
+[0531/122825.717029:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/122825.717711:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122825.718160:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122825.851601:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122825.881440:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122825.881516:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122825.881544:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122825.881569:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122825.883593:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122825.900892:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122826.016414:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/122826.028053:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122826.045081:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/122826.050621:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122826.050706:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122826.050816:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122826.050887:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122826.053853:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122826.056175:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122826.062058:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 

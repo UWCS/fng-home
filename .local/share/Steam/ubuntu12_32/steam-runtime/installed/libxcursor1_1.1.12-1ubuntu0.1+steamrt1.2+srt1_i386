@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/share/
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/share/doc/
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/share/doc/libxcursor1/
+-rw-r--r-- root/root      2774 2023-03-23 18:25 ./usr/share/doc/libxcursor1/copyright
+-rw-r--r-- root/root      5111 2023-03-23 18:25 ./usr/share/doc/libxcursor1/changelog.Debian.i386.gz
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/lib/
+drwxr-xr-x root/root         0 2023-03-23 18:27 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root     38524 2023-03-23 18:27 ./usr/lib/i386-linux-gnu/libXcursor.so.1.0.2
+lrwxrwxrwx root/root         0 2023-03-23 18:27 ./usr/lib/i386-linux-gnu/libXcursor.so.1 -> libXcursor.so.1.0.2

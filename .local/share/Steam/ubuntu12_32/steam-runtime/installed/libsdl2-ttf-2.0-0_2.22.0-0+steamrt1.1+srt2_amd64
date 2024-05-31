@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/lib/
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root   1917328 2024-04-09 15:58 ./usr/lib/x86_64-linux-gnu/libSDL2_ttf-2.0.so.0.2200.0
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/share/
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/share/doc/
+drwxr-xr-x root/root         0 2024-04-09 15:58 ./usr/share/doc/libsdl2-ttf-2.0-0/
+-rw-r--r-- root/root      1582 2024-01-15 22:37 ./usr/share/doc/libsdl2-ttf-2.0-0/changelog.gz
+-rw-r--r-- root/root      3151 2024-01-29 20:08 ./usr/share/doc/libsdl2-ttf-2.0-0/copyright
+-rw-r--r-- root/root      5713 2024-04-09 15:44 ./usr/share/doc/libsdl2-ttf-2.0-0/changelog.Debian.amd64.gz
+-rw-r--r-- root/root      1032 2024-01-15 18:56 ./usr/share/doc/libsdl2-ttf-2.0-0/README.txt
+lrwxrwxrwx root/root         0 2024-04-09 15:58 ./usr/lib/x86_64-linux-gnu/libSDL2_ttf-2.0.so.0 -> libSDL2_ttf-2.0.so.0.2200.0

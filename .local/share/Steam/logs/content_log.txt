@@ -1,0 +1,1359 @@
+
+
+[2024-05-31 11:41:00] Client version: 1716584667
+[2024-05-31 11:41:00] Load failed: /home/fng/.local/share/Steam/steamapps/libraryfolders.vdf.
+[2024-05-31 11:41:00] Load failed: /home/fng/.local/share/Steam/config/libraryfolders.vdf.
+[2024-05-31 11:41:00] Steam library folders configuration will be reset.
+[2024-05-31 11:41:00] No install folder configuration files found.
+[2024-05-31 11:41:50] Loaded 0 apps from install folder "/home/fng/.local/share/Steam/steamapps\appmanifest_*.acf".
+[2024-05-31 11:41:50] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-05-31 11:41:50] GetCellList - failed to get AppData for WinUI
+[2024-05-31 11:41:50] GetCellList - failed to get AppData for WinUI
+[2024-05-31 11:42:01] SSGL: UI mode (0->7)
+[2024-05-31 11:42:01] GetCellList - no Config AppData section for WinUI
+[2024-05-31 11:42:01] GetCellList - no Config AppData section for WinUI
+[2024-05-31 11:42:01] GetCellList - no Config AppData section for WinUI
+
+
+[2024-05-31 11:44:10] Client version: 1716584667
+[2024-05-31 11:44:10] Loaded Steam library folders configuration: /home/fng/.local/share/Steam/steamapps/libraryfolders.vdf
+[2024-05-31 11:44:22] Loaded 0 apps from install folder "/home/fng/.local/share/Steam/steamapps\appmanifest_*.acf".
+[2024-05-31 11:44:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-05-31 11:44:32] SSGL: UI mode (0->7)
+[2024-05-31 11:46:33] AppID 220 state changed : Update Required,
+[2024-05-31 11:46:33] AppID 220 user config changed : added depots 233,234,221,224
+[2024-05-31 11:46:33] AppID 220 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:46:33] AppID 220 state changed : Update Required,Update Queued,
+[2024-05-31 11:46:33] AppID 220 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:46:33] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:33] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:46:34] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:46:34] Moving to source priority class '3'
+[2024-05-31 11:46:34] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 11:46:34] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 11:46:34] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 11:46:34] HTTP/2 available
+[2024-05-31 11:46:34] Created ipv4-only http client
+[2024-05-31 11:46:35] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:46:35] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/233/manifest/139290177754532669/5/14344686612940998620 - received 200 (OK) HTTP response
+[2024-05-31 11:46:35] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/234/manifest/488462887721122399/5/1386961148537666331 - received 200 (OK) HTTP response
+[2024-05-31 11:46:35] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:46:35] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/221/manifest/3666218991449795038/5/1339837804271102992 - received 200 (OK) HTTP response
+[2024-05-31 11:46:36] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/224/manifest/5699984820642974318/5/12443191457377242607 - received 200 (OK) HTTP response
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,Validating,
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,Preallocating,
+[2024-05-31 11:46:36] AppID 220 preallocated 0 files (0 MB) 
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:36] AppID 220 update started : download 0/2150114992, store 0/0, reuse 0/0, delta 0/0, stage 0/3819732285 
+[2024-05-31 11:46:36] AppID 220 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:46:36] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:46:36] Downloading 1 chunks from depot 234
+[2024-05-31 11:46:36] Downloading 4560 chunks from depot 221
+[2024-05-31 11:46:37] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:46:40] AppID 220 update canceled : Shader Priority (Suspended)
+[2024-05-31 11:46:40] AppID 220 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-05-31 11:46:40] AppID 220 update changed : Running Update,Stopping,
+[2024-05-31 11:46:40] AppID 220 update changed : None
+[2024-05-31 11:46:40] AppID 220 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2024-05-31 11:46:40] AppID 220 state changed : Update Required,Update Started,
+[2024-05-31 11:46:40] AppID 220 scheduler finished : removed from schedule (result Suspended, state 0x40a) 
+[2024-05-31 11:46:40] AppID 220 scheduler update : Priority Auto Update, not played for 8 seconds, update disabled for 0 seconds
+[2024-05-31 11:46:40] AppID 220 state changed : Update Required,Update Queued,Update Started,
+[2024-05-31 11:46:40] AppID 220 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:46:40] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:40] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:46:41] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/220/manifest/8430556367322657171/5/4392390244676465741 - received 200 (OK) HTTP response
+[2024-05-31 11:46:41] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:41] AppID 220 update changed : Running Update,Preallocating,
+[2024-05-31 11:46:41] AppID 220 preallocated 0 files (0 MB) 
+[2024-05-31 11:46:41] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:41] AppID 220 update started : download 0/101363328, store 0/0, reuse 0/0, delta 0/0, stage 0/112278431 
+[2024-05-31 11:46:41] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:46:41] Downloading 134 chunks from depot 220
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,Committing,
+[2024-05-31 11:46:44] AppID 220 starting commit from "/home/fng/.local/share/Steam/steamapps/shadercache/220/downloads/" to "/home/fng/.local/share/Steam/steamapps/shadercache/220/" : 2 updated, 0 moved, 0 deleted files
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:44] AppID 220 update changed : None
+[2024-05-31 11:46:44] AppID 220 state changed : Update Required,Update Queued,Update Started,
+[2024-05-31 11:46:44] AppID 220 scheduler finished : staying in schedule (result No Error, state 0x40a) 
+[2024-05-31 11:46:44] AppID 220 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,
+[2024-05-31 11:46:44] AppID 220 update started : download 72904464/2150114992, store 0/0, reuse 0/0, delta 0/0, stage 194018806/3819732285 
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,Staging,
+[2024-05-31 11:46:44] Downloading 4310 chunks from depot 221
+[2024-05-31 11:46:44] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:46:47] Increasing target number of download connections to 4 (rate was 0.000, now 211.716)
+[2024-05-31 11:46:47] Created download interface of type 'SteamCache' (7) to host cache13-lhr1.steamcontent.com (cache13-lhr1.steamcontent.com)
+[2024-05-31 11:46:47] HTTPS (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:46:51] Detected write gap 98 MB in file "hl2\hl2_sound_vo_english_002.vpk"
+[2024-05-31 11:46:55] Detected write gap 87 MB in file "hl2\hl2_textures_009.vpk"
+[2024-05-31 11:46:59] Increasing target number of download connections to 5 (rate was 211.716, now 544.172)
+[2024-05-31 11:46:59] Created download interface of type 'SteamCache' (7) to host cache7-lhr1.steamcontent.com (cache7-lhr1.steamcontent.com)
+[2024-05-31 11:46:59] HTTPS (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:47:24] Downloading 172 chunks from depot 224
+[2024-05-31 11:47:26] AppID 220 update changed : Running Update,
+[2024-05-31 11:47:26] AppID 220 update changed : Running Update,Verifying,
+[2024-05-31 11:47:30] Verified 3642 MB in '/home/fng/.local/share/Steam', clean bytes tally is now 3642 MB
+[2024-05-31 11:47:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-05-31 11:47:30] AppID 220 update changed : Running Update,
+[2024-05-31 11:47:30] AppID 220 update changed : Running Update,Committing,
+[2024-05-31 11:47:30] AppID 220 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/220" to "/home/fng/.local/share/Steam/steamapps/common/Half-Life 2" : 1207 updated, 0 moved, 0 deleted files
+[2024-05-31 11:47:30] AppID 220 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:47:30] AppID 220 finished update, 4 mounted depots (BuildID 12694556) : 233 (139290177754532669),234 (488462887721122399),221 (3666218991449795038),224 (5699984820642974318),
+[2024-05-31 11:47:30] AppID 220 update changed : Running Update,
+[2024-05-31 11:47:30] AppID 220 update changed : None
+[2024-05-31 11:47:30] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:47:30] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:47:30] AppID 220 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:47:47] Current download rate: 0.000 Mbps
+[2024-05-31 11:48:00] HTTP/2 (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:48:24] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:48:24] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:48:24] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:48:25] AppID 220 adding PID 29471 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.sh' -game hl2 -steam -windowed"
+[2024-05-31 11:48:25] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:48:25] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:48:25] AppID 220 adding PID 29472 as a tracked process
+[2024-05-31 11:48:25] AppID 220 adding PID 29474 as a tracked process
+[2024-05-31 11:48:25] AppID 220 adding PID 29475 as a tracked process
+[2024-05-31 11:48:25] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:48:26] SSGL: change [220] LCT 80347136->0
+[2024-05-31 11:48:26] HTTP/2 (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:49:02] AppID 220 state changed : Fully Installed,App Running,Terminating,
+[2024-05-31 11:49:04] AppID 220 no longer tracking PID 29475, exit code -1
+[2024-05-31 11:49:04] AppID 220 no longer tracking PID 29474, exit code -1
+[2024-05-31 11:49:04] AppID 220 no longer tracking PID 29472, exit code -1
+[2024-05-31 11:49:04] AppID 220 no longer tracking PID 29471, exit code 0
+[2024-05-31 11:49:04] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:49:04] Remove 220 from running list
+[2024-05-31 11:49:05] AppID 1493710 state changed : Update Required,
+[2024-05-31 11:49:05] AppID 1493710 user config changed : added depots 1493711
+[2024-05-31 11:49:05] AppID 1493710 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:49:05] AppID 1493710 state changed : Update Required,Update Queued,
+[2024-05-31 11:49:05] AppID 1628350 state changed : Update Required,
+[2024-05-31 11:49:05] AppID 1628350 user config changed : added depots 1628351
+[2024-05-31 11:49:05] AppID 1628350 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:49:05] AppID 1628350 state changed : Update Required,Update Queued,
+[2024-05-31 11:49:05] AppID 220 state changed : Update Required,Fully Installed,
+[2024-05-31 11:49:05] AppID 220 config changed : added depots 222
+[2024-05-31 11:49:05] AppID 220 config changed : removed depots 224
+[2024-05-31 11:49:05] AppID 220 scheduler update : Priority Auto Update, not played for 0 seconds, update disabled for 0 seconds
+[2024-05-31 11:49:05] AppID 220 state changed : Update Required,Fully Installed,Update Queued,
+[2024-05-31 11:49:05] AppID 1628350 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:49:05] AppID 220 state changed : Update Required,Fully Installed,Update Queued,Prefetching Info,
+[2024-05-31 11:49:05] AppID 1628350 update changed : Running Update,
+[2024-05-31 11:49:05] AppID 1628350 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:49:06] Moving to source priority class '3'
+[2024-05-31 11:49:06] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 11:49:06] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 11:49:06] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 11:49:06] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:49:06] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:49:06] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:49:06] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/222/manifest/474913530500547761/5/18172834284483358259 - received 200 (OK) HTTP response
+[2024-05-31 11:49:06] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/1628351/manifest/2664722266617758902/5/4899931252678328094 - received 200 (OK) HTTP response
+[2024-05-31 11:49:06] AppID 220 state changed : Update Required,Fully Installed,Update Queued,
+[2024-05-31 11:49:06] AppID 220 update prefetch finished : 51180336 bytes to download, 139147749 bytes to stage
+[2024-05-31 11:49:06] AppID 1628350 update changed : Running Update,
+[2024-05-31 11:49:06] AppID 1628350 update changed : Running Update,Validating,
+[2024-05-31 11:49:06] AppID 1628350 update changed : Running Update,
+[2024-05-31 11:49:06] AppID 1628350 update changed : Running Update,Preallocating,
+[2024-05-31 11:49:07] AppID 1628350 preallocated 0 files (0 MB) 
+[2024-05-31 11:49:07] AppID 1628350 update changed : Running Update,
+[2024-05-31 11:49:08] AppID 1628350 update started : download 0/188664912, store 0/0, reuse 0/0, delta 0/0, stage 0/705721365 
+[2024-05-31 11:49:08] AppID 1628350 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:49:08] AppID 1628350 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:49:08] Downloading 7196 chunks from depot 1628351
+[2024-05-31 11:49:08] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:49:11] AppID 220 scheduler update : Priority First, not played for 6 seconds, update disabled for 0 seconds
+[2024-05-31 11:49:11] AppID 1628350 update canceled : Priority (Suspended)
+[2024-05-31 11:49:11] AppID 1628350 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-05-31 11:49:11] AppID 1628350 update changed : Running Update,Stopping,
+[2024-05-31 11:49:11] AppID 1628350 update changed : None
+[2024-05-31 11:49:11] AppID 1628350 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2024-05-31 11:49:11] AppID 1628350 scheduler finished : staying in schedule (result Suspended, state 0x40a) 
+[2024-05-31 11:49:11] AppID 220 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:49:11] AppID 1493710 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:49:11] AppID 1628350 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:49:11] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:11] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:49:12] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/1493711/manifest/7743326805990044174/5/5285644394907474318 - received 200 (OK) HTTP response
+[2024-05-31 11:49:12] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:12] AppID 220 update changed : Running Update,Validating,
+[2024-05-31 11:49:12] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:12] AppID 220 update changed : Running Update,Preallocating,
+[2024-05-31 11:49:13] AppID 1493710 preallocated 0 files (0 MB) 
+[2024-05-31 11:49:13] AppID 220 preallocated 0 files (0 MB) 
+[2024-05-31 11:49:13] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:13] AppID 1628350 update started : download 106202224/188664912, store 0/0, reuse 0/0, delta 0/0, stage 400857804/705721365 
+[2024-05-31 11:49:13] AppID 1493710 update started : download 0/284378416, store 0/0, reuse 0/0, delta 0/0, stage 0/1210840424 
+[2024-05-31 11:49:13] AppID 1493710 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:49:13] AppID 220 update started : download 0/51180336, store 0/0, reuse 0/0, delta 0/0, stage 0/139147749 
+[2024-05-31 11:49:13] AppID 220 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-05-31 11:49:13] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:49:13] Downloading 4199 chunks from depot 1628351
+[2024-05-31 11:49:15] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:15] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:49:15] Downloading 4160 chunks from depot 1493711
+[2024-05-31 11:49:31] Increasing target number of download connections to 4 (rate was 0.000, now 136.956)
+[2024-05-31 11:49:31] Current download rate: 136.956 Mbps
+[2024-05-31 11:49:31] Created download interface of type 'SteamCache' (7) to host cache13-lhr1.steamcontent.com (cache13-lhr1.steamcontent.com)
+[2024-05-31 11:49:46] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:49:49] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:49] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:49:49] Downloading 249 chunks from depot 222
+[2024-05-31 11:49:51] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:51] AppID 220 update changed : Running Update,Committing,
+[2024-05-31 11:49:51] AppID 1628350 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/1628350" to "/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper" : 8553 updated, 0 moved, 0 deleted files
+[2024-05-31 11:49:52] AppID 1628350 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:49:52] AppID 1628350 finished update, 1 mounted depots (BuildID 14072117) : 1628351 (2664722266617758902),
+[2024-05-31 11:49:52] AppID 1493710 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/1493710" to "/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental" : 7437 updated, 0 moved, 0 deleted files
+[2024-05-31 11:49:54] AppID 1493710 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:49:54] AppID 1493710 finished update, 1 mounted depots (BuildID 14456479) : 1493711 (7743326805990044174),
+[2024-05-31 11:49:54] AppID 220 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/220" to "/home/fng/.local/share/Steam/steamapps/common/Half-Life 2" : 159 updated, 0 moved, 54 deleted files
+[2024-05-31 11:49:54] AppID 220 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:49:54] AppID 220 finished update, 4 mounted depots (BuildID 12694556) : 233 (139290177754532669),234 (488462887721122399),221 (3666218991449795038),222 (474913530500547761),
+[2024-05-31 11:49:54] AppID 220 update changed : Running Update,
+[2024-05-31 11:49:54] AppID 220 update changed : None
+[2024-05-31 11:49:54] AppID 1628350 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:49:54] AppID 1493710 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:49:54] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:49:54] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:49:54] AppID 220 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:49:54] AppID 1628350 state changed : Fully Installed,
+[2024-05-31 11:49:54] AppID 1628350 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 11:49:54] AppID 1493710 state changed : Fully Installed,
+[2024-05-31 11:49:54] AppID 1493710 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 11:50:02] AppID 220 scheduler update : Priority Auto Update, not played for 57 seconds, update disabled for 0 seconds
+[2024-05-31 11:50:02] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:50:02] AppID 220 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:50:02] AppID 220 update changed : Running Update,
+[2024-05-31 11:50:02] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:50:03] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/220/manifest/2114101184961060856/5/1377036895514577339 - received 200 (OK) HTTP response
+[2024-05-31 11:50:03] AppID 220 update changed : Running Update,
+[2024-05-31 11:50:03] AppID 220 update changed : Running Update,Preallocating,
+[2024-05-31 11:50:03] AppID 220 preallocated 0 files (0 MB) 
+[2024-05-31 11:50:03] AppID 220 update changed : Running Update,
+[2024-05-31 11:50:03] AppID 220 update started : download 0/89708416, store 0/0, reuse 0/0, delta 0/0, stage 0/96312771 
+[2024-05-31 11:50:03] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:50:03] Downloading 121 chunks from depot 220
+[2024-05-31 11:50:03] HTTPS (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:50:04] Increasing target number of download connections to 5 (rate was 136.956, now 220.673)
+[2024-05-31 11:50:04] Created download interface of type 'SteamCache' (7) to host cache7-lhr1.steamcontent.com (cache7-lhr1.steamcontent.com)
+[2024-05-31 11:50:06] AppID 220 update changed : Running Update,
+[2024-05-31 11:50:06] AppID 220 update changed : Running Update,Committing,
+[2024-05-31 11:50:06] AppID 220 starting commit from "/home/fng/.local/share/Steam/steamapps/shadercache/220/downloads/" to "/home/fng/.local/share/Steam/steamapps/shadercache/220/" : 4 updated, 0 moved, 0 deleted files
+[2024-05-31 11:50:06] AppID 220 update changed : Running Update,
+[2024-05-31 11:50:06] AppID 220 update changed : None
+[2024-05-31 11:50:06] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:50:06] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:50:06] AppID 220 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:50:15] AppID 220 adding PID 30511 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:50:15] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:50:15] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:50:15] AppID 220 adding PID 30513 as a tracked process
+[2024-05-31 11:50:15] AppID 220 adding PID 30514 as a tracked process
+[2024-05-31 11:50:16] SSGL: change [220] LCT 32->0
+[2024-05-31 11:50:17] AppID 220 adding PID 30596 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30597 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30598 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30599 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30602 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30604 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30607 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30616 as a tracked process
+[2024-05-31 11:50:18] AppID 220 no longer tracking PID 30599, exit code -1
+[2024-05-31 11:50:18] AppID 220 no longer tracking PID 30597, exit code -1
+[2024-05-31 11:50:18] AppID 220 no longer tracking PID 30514, exit code -1
+[2024-05-31 11:50:18] AppID 220 adding PID 30629 as a tracked process
+[2024-05-31 11:50:18] AppID 220 adding PID 30635 as a tracked process
+[2024-05-31 11:50:19] AppID 220 adding PID 30648 as a tracked process
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30602, exit code -1
+[2024-05-31 11:50:19] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:50:19] AppID 220 adding PID 30665 as a tracked process
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30665, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30648, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30635, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30629, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30616, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30607, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30604, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30596, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30513, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30598, exit code -1
+[2024-05-31 11:50:19] AppID 220 no longer tracking PID 30511, exit code 0
+[2024-05-31 11:50:19] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:50:19] Remove 220 from running list
+[2024-05-31 11:50:33] Current download rate: 0.000 Mbps
+[2024-05-31 11:51:04] AppID 220 adding PID 31038 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:51:04] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:51:04] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:51:04] AppID 220 adding PID 31039 as a tracked process
+[2024-05-31 11:51:04] AppID 220 adding PID 31040 as a tracked process
+[2024-05-31 11:51:05] HTTP (SteamCache,228) - cache7-lhr1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache7-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:51:05] HTTP/2 (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:51:05] AppID 220 adding PID 31122 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31123 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31124 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31125 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31128 as a tracked process
+[2024-05-31 11:51:06] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:51:06] AppID 220 adding PID 31131 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31134 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31144 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31157 as a tracked process
+[2024-05-31 11:51:06] AppID 220 adding PID 31163 as a tracked process
+[2024-05-31 11:51:06] AppID 220 no longer tracking PID 31125, exit code -1
+[2024-05-31 11:51:06] AppID 220 no longer tracking PID 31123, exit code -1
+[2024-05-31 11:51:06] AppID 220 no longer tracking PID 31040, exit code -1
+[2024-05-31 11:51:06] AppID 220 adding PID 31176 as a tracked process
+[2024-05-31 11:51:07] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:51:07] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:51:07] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:51:07] AppID 220 adding PID 31193 as a tracked process
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31128, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31193, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31176, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31163, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31157, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31144, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31134, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31131, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31122, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31039, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31124, exit code -1
+[2024-05-31 11:51:07] AppID 220 no longer tracking PID 31038, exit code 0
+[2024-05-31 11:51:07] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:51:07] Remove 220 from running list
+[2024-05-31 11:51:46] AppID 2805730 state changed : Update Required,
+[2024-05-31 11:51:46] AppID 2805730 user config changed : added depots 2805731
+[2024-05-31 11:51:46] AppID 2805730 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:51:46] AppID 2805730 state changed : Update Required,Update Queued,
+[2024-05-31 11:51:46] AppID 2805730 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:51:46] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:51:46] AppID 2805730 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:51:46] Moving to source priority class '3'
+[2024-05-31 11:51:46] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 11:51:46] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 11:51:46] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 11:51:46] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:51:47] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:51:47] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/2805731/manifest/6735716257422537108/5/8959943205235922249 - received 200 (OK) HTTP response
+[2024-05-31 11:51:47] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:51:47] AppID 2805730 update changed : Running Update,Validating,
+[2024-05-31 11:51:47] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:51:47] AppID 2805730 update changed : Running Update,Preallocating,
+[2024-05-31 11:51:48] AppID 2805730 preallocated 0 files (0 MB) 
+[2024-05-31 11:51:48] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:51:48] AppID 2805730 update started : download 0/279747264, store 0/0, reuse 0/0, delta 0/0, stage 0/1189395339 
+[2024-05-31 11:51:48] AppID 2805730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:51:48] AppID 2805730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:51:48] Downloading 4120 chunks from depot 2805731
+[2024-05-31 11:51:48] AppID 220 scheduler update : Priority First, not played for 41 seconds, update disabled for 0 seconds
+[2024-05-31 11:51:48] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:51:48] AppID 2805730 config changed : added depots 2805731
+[2024-05-31 11:51:48] AppID 2805730 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:51:48] AppID 2805730 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:51:48] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:51:48] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:52:07] Increasing target number of download connections to 4 (rate was 0.000, now 74.169)
+[2024-05-31 11:52:07] Current download rate: 74.169 Mbps
+[2024-05-31 11:52:07] Created download interface of type 'SteamCache' (7) to host cache13-lhr1.steamcontent.com (cache13-lhr1.steamcontent.com)
+[2024-05-31 11:52:07] stats: (SteamCache, 367) cache16-lhr1.steamcontent.com: 1215362939 Bytes, 89 sec (108.66 Mbps). 9606 Hits / 120 Misses (99 %, 95 % bytes)
+[2024-05-31 11:52:07] stats: (Invalid, 0) : 3224427753 Bytes, 109 sec (236.15 Mbps). 22103 Hits / 284 Misses (99 %, 95 % bytes)
+[2024-05-31 11:52:07] stats: (SteamCache, 366) cache15-lhr1.steamcontent.com: 745202129 Bytes, 97 sec (61.52 Mbps). 7303 Hits / 58 Misses (99 %, 95 % bytes)
+[2024-05-31 11:52:07] stats: (SteamCache, 144) cache2-lhr1.steamcontent.com: 812202061 Bytes, 72 sec (90.25 Mbps). 4299 Hits / 62 Misses (99 %, 95 % bytes)
+[2024-05-31 11:52:07] stats: (SteamCache, 364) cache13-lhr1.steamcontent.com: 449993056 Bytes, 38 sec (94.32 Mbps). 893 Hits / 44 Misses (95 %, 96 % bytes)
+[2024-05-31 11:52:10] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:52:10] AppID 2805730 update changed : Running Update,Committing,
+[2024-05-31 11:52:10] AppID 2805730 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/2805730" to "/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)" : 7408 updated, 0 moved, 0 deleted files
+[2024-05-31 11:52:11] AppID 2805730 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:52:11] AppID 2805730 finished update, 1 mounted depots (BuildID 14212803) : 2805731 (6735716257422537108),
+[2024-05-31 11:52:12] AppID 2805730 update changed : Running Update,
+[2024-05-31 11:52:12] AppID 2805730 update changed : None
+[2024-05-31 11:52:12] AppID 2805730 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:52:12] AppID 2805730 state changed : Fully Installed,
+[2024-05-31 11:52:12] AppID 2805730 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:52:12] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:52:12] AppID 220 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 11:52:30] AppID 220 adding PID 32064 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:52:30] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:52:30] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:52:30] AppID 220 adding PID 32065 as a tracked process
+[2024-05-31 11:52:30] AppID 220 adding PID 32066 as a tracked process
+[2024-05-31 11:52:32] AppID 220 adding PID 32185 as a tracked process
+[2024-05-31 11:52:32] AppID 220 adding PID 32217 as a tracked process
+[2024-05-31 11:52:32] AppID 220 adding PID 32219 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32220 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32223 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32225 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32228 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32238 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32278 as a tracked process
+[2024-05-31 11:52:33] AppID 220 no longer tracking PID 32220, exit code -1
+[2024-05-31 11:52:33] AppID 220 no longer tracking PID 32217, exit code -1
+[2024-05-31 11:52:33] AppID 220 no longer tracking PID 32066, exit code -1
+[2024-05-31 11:52:33] AppID 220 adding PID 32300 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32311 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32342 as a tracked process
+[2024-05-31 11:52:33] AppID 220 adding PID 32359 as a tracked process
+[2024-05-31 11:52:33] AppID 220 no longer tracking PID 32311, exit code -1
+[2024-05-31 11:52:34] AppID 220 adding PID 32401 as a tracked process
+[2024-05-31 11:52:34] AppID 220 adding PID 32404 as a tracked process
+[2024-05-31 11:52:34] AppID 220 no longer tracking PID 32401, exit code -1
+[2024-05-31 11:52:34] AppID 220 no longer tracking PID 32359, exit code -1
+[2024-05-31 11:52:35] AppID 220 adding PID 32407 as a tracked process
+[2024-05-31 11:52:35] AppID 220 no longer tracking PID 32407, exit code -1
+[2024-05-31 11:52:35] AppID 220 no longer tracking PID 32404, exit code -1
+[2024-05-31 11:52:35] AppID 220 no longer tracking PID 32223, exit code -1
+[2024-05-31 11:52:35] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:52:35] AppID 220 adding PID 32421 as a tracked process
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32421, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32342, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32300, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32278, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32238, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32228, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32225, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32185, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32065, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32219, exit code -1
+[2024-05-31 11:52:36] AppID 220 no longer tracking PID 32064, exit code 0
+[2024-05-31 11:52:36] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:52:36] Remove 220 from running list
+[2024-05-31 11:53:07] Current download rate: 0.000 Mbps
+[2024-05-31 11:53:08] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:53:08] HTTP (SteamCache,364) - cache13-lhr1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:53:08] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:53:09] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:53:27] AppID 220 adding PID 32862 as a tracked process "PROTON_LOG=1 -windowed /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam"
+[2024-05-31 11:53:27] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:53:27] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:53:28] AppID 220 no longer tracking PID 32862, exit code 127
+[2024-05-31 11:53:28] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:53:28] Remove 220 from running list
+[2024-05-31 11:53:52] AppID 220 adding PID 33084 as a tracked process "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:53:52] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:53:52] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:53:53] AppID 220 adding PID 33085 as a tracked process
+[2024-05-31 11:53:53] AppID 220 adding PID 33086 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33171 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33174 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33175 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33176 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33179 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33181 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33184 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33193 as a tracked process
+[2024-05-31 11:53:55] AppID 220 adding PID 33206 as a tracked process
+[2024-05-31 11:53:55] AppID 220 no longer tracking PID 33176, exit code -1
+[2024-05-31 11:53:55] AppID 220 no longer tracking PID 33174, exit code -1
+[2024-05-31 11:53:55] AppID 220 no longer tracking PID 33086, exit code -1
+[2024-05-31 11:53:55] AppID 220 adding PID 33212 as a tracked process
+[2024-05-31 11:53:56] AppID 220 adding PID 33233 as a tracked process
+[2024-05-31 11:53:56] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:53:56] AppID 220 adding PID 33250 as a tracked process
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33179, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33250, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33233, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33212, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33206, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33193, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33184, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33181, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33171, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33085, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33175, exit code -1
+[2024-05-31 11:53:56] AppID 220 no longer tracking PID 33084, exit code 0
+[2024-05-31 11:53:56] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:53:56] Remove 220 from running list
+[2024-05-31 11:54:36] AppID 1420170 state changed : Update Required,
+[2024-05-31 11:54:36] AppID 1420170 user config changed : added depots 1420171
+[2024-05-31 11:54:36] AppID 1420170 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:36] AppID 1420170 state changed : Update Required,Update Queued,
+[2024-05-31 11:54:36] AppID 1391110 state changed : Update Required,
+[2024-05-31 11:54:36] AppID 1391110 user config changed : added depots 1391111
+[2024-05-31 11:54:36] AppID 1391110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:36] AppID 1391110 state changed : Update Required,Update Queued,
+[2024-05-31 11:54:36] AppID 1391110 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:54:36] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:36] AppID 1391110 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:54:36] Moving to source priority class '3'
+[2024-05-31 11:54:36] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 11:54:36] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 11:54:36] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 11:54:36] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:54:37] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:54:37] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/1391111/manifest/7591968994566548355/5/3874365996646040315 - received 200 (OK) HTTP response
+[2024-05-31 11:54:37] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:37] AppID 1391110 update changed : Running Update,Validating,
+[2024-05-31 11:54:37] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:37] AppID 1391110 update changed : Running Update,Preallocating,
+[2024-05-31 11:54:38] AppID 1391110 preallocated 0 files (0 MB) 
+[2024-05-31 11:54:38] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:38] AppID 1391110 update started : download 0/178440928, store 0/0, reuse 0/0, delta 0/0, stage 0/645296846 
+[2024-05-31 11:54:38] AppID 1391110 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:54:38] AppID 1391110 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:54:38] Downloading 7824 chunks from depot 1391111
+[2024-05-31 11:54:38] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:54:38] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:54:38] AppID 220 scheduler update : Priority First, not played for 42 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:38] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:54:38] AppID 1420170 config changed : added depots 1420171
+[2024-05-31 11:54:38] AppID 1420170 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:38] AppID 1420170 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:38] AppID 1391110 config changed : added depots 1391111
+[2024-05-31 11:54:38] AppID 1391110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:38] AppID 1391110 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:54:43] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:43] AppID 1391110 update changed : Running Update,Committing,
+[2024-05-31 11:54:43] AppID 1391110 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/1391110" to "/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier" : 8951 updated, 0 moved, 0 deleted files
+[2024-05-31 11:54:45] AppID 1391110 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:54:45] AppID 1391110 finished update, 1 mounted depots (BuildID 14072103) : 1391111 (7591968994566548355),
+[2024-05-31 11:54:45] AppID 1391110 update changed : Running Update,
+[2024-05-31 11:54:45] AppID 1391110 update changed : None
+[2024-05-31 11:54:45] AppID 1391110 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:54:45] AppID 1391110 state changed : Fully Installed,
+[2024-05-31 11:54:45] AppID 1391110 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:54:45] AppID 1420170 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:54:45] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:45] AppID 1420170 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:54:46] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/1420171/manifest/2770076245550092850/5/6672350788463507742 - received 200 (OK) HTTP response
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,Validating,
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,Preallocating,
+[2024-05-31 11:54:46] AppID 1420170 preallocated 0 files (0 MB) 
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:46] AppID 1420170 update started : download 0/228749520, store 0/0, reuse 0/0, delta 0/0, stage 0/909574564 
+[2024-05-31 11:54:46] AppID 1420170 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:54:46] AppID 1420170 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:54:46] Downloading 846 chunks from depot 1420171
+[2024-05-31 11:54:46] Detected write gap 307 MB in file "proton_dist.tar"
+[2024-05-31 11:54:49] Increasing target number of download connections to 4 (rate was 0.000, now 217.681)
+[2024-05-31 11:54:49] Current download rate: 217.681 Mbps
+[2024-05-31 11:54:49] Created download interface of type 'SteamCache' (7) to host cache7-lhr1.steamcontent.com (cache7-lhr1.steamcontent.com)
+[2024-05-31 11:54:50] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:50] AppID 1420170 update changed : Running Update,Committing,
+[2024-05-31 11:54:50] AppID 1420170 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/1420170" to "/home/fng/.local/share/Steam/steamapps/common/Proton 5.13" : 9 updated, 0 moved, 0 deleted files
+[2024-05-31 11:54:50] AppID 1420170 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:54:50] AppID 1420170 finished update, 1 mounted depots (BuildID 8410451) : 1420171 (2770076245550092850),
+[2024-05-31 11:54:50] AppID 1420170 update changed : Running Update,
+[2024-05-31 11:54:50] AppID 1420170 update changed : None
+[2024-05-31 11:54:50] AppID 1420170 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:54:50] AppID 1420170 state changed : Fully Installed,
+[2024-05-31 11:54:50] AppID 1420170 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:54:50] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:54:50] AppID 220 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 11:55:00] AppID 220 adding PID 33779 as a tracked process "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:55:00] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:00] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:55:00] AppID 220 adding PID 33780 as a tracked process
+[2024-05-31 11:55:00] AppID 220 adding PID 33781 as a tracked process
+[2024-05-31 11:55:01] SSGL: change [220] LCT 2->0
+[2024-05-31 11:55:02] AppID 220 adding PID 33896 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33954 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33955 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33956 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33959 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33966 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33971 as a tracked process
+[2024-05-31 11:55:03] AppID 220 adding PID 33981 as a tracked process
+[2024-05-31 11:55:03] AppID 220 no longer tracking PID 33956, exit code -1
+[2024-05-31 11:55:03] AppID 220 no longer tracking PID 33954, exit code -1
+[2024-05-31 11:55:03] AppID 220 no longer tracking PID 33781, exit code -1
+[2024-05-31 11:55:03] AppID 220 adding PID 34019 as a tracked process
+[2024-05-31 11:55:03] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:04] AppID 220 adding PID 34043 as a tracked process
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 34043, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 34019, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33981, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33971, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33966, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33959, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33955, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33896, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33780, exit code -1
+[2024-05-31 11:55:05] AppID 220 no longer tracking PID 33779, exit code 0
+[2024-05-31 11:55:05] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:55:05] Remove 220 from running list
+[2024-05-31 11:55:06] AppID 220 scheduler update : Priority Auto Update, not played for 2 seconds, update disabled for 0 seconds
+[2024-05-31 11:55:06] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:55:06] AppID 220 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:55:06] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 11:55:06] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/220/manifest/908636170279469446/5/13522885563558215497 - received 200 (OK) HTTP response
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,Preallocating,
+[2024-05-31 11:55:06] AppID 220 preallocated 0 files (0 MB) 
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,
+[2024-05-31 11:55:06] AppID 220 update started : download 0/13109888, store 0/0, reuse 0/0, delta 0/0, stage 0/14906850 
+[2024-05-31 11:55:06] AppID 220 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:55:06] Downloading 16 chunks from depot 220
+[2024-05-31 11:55:07] HTTPS (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 11:55:09] AppID 220 update changed : Running Update,
+[2024-05-31 11:55:09] AppID 220 update changed : Running Update,Committing,
+[2024-05-31 11:55:09] AppID 220 starting commit from "/home/fng/.local/share/Steam/steamapps/shadercache/220/downloads/" to "/home/fng/.local/share/Steam/steamapps/shadercache/220/" : 4 updated, 0 moved, 0 deleted files
+[2024-05-31 11:55:09] AppID 220 update changed : Running Update,
+[2024-05-31 11:55:09] AppID 220 update changed : None
+[2024-05-31 11:55:09] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:55:09] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:55:09] AppID 220 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:55:14] AppID 220 adding PID 34073 as a tracked process "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed"
+[2024-05-31 11:55:14] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:14] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:55:14] AppID 220 adding PID 34074 as a tracked process
+[2024-05-31 11:55:14] AppID 220 adding PID 34075 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34158 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34159 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34160 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34161 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34164 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34166 as a tracked process
+[2024-05-31 11:55:17] AppID 220 adding PID 34169 as a tracked process
+[2024-05-31 11:55:18] AppID 220 adding PID 34176 as a tracked process
+[2024-05-31 11:55:18] AppID 220 no longer tracking PID 34161, exit code -1
+[2024-05-31 11:55:18] AppID 220 no longer tracking PID 34159, exit code -1
+[2024-05-31 11:55:18] AppID 220 no longer tracking PID 34075, exit code -1
+[2024-05-31 11:55:18] AppID 220 adding PID 34189 as a tracked process
+[2024-05-31 11:55:18] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:18] AppID 220 adding PID 34206 as a tracked process
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34206, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34189, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34176, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34169, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34166, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34164, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34160, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34158, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34074, exit code -1
+[2024-05-31 11:55:20] AppID 220 no longer tracking PID 34073, exit code 0
+[2024-05-31 11:55:20] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:55:20] Remove 220 from running list
+[2024-05-31 11:55:34] AppID 1113280 state changed : Update Required,
+[2024-05-31 11:55:34] AppID 1113280 user config changed : added depots 1113281
+[2024-05-31 11:55:34] AppID 1113280 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:55:34] AppID 1113280 state changed : Update Required,Update Queued,
+[2024-05-31 11:55:34] AppID 1113280 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 11:55:34] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:34] AppID 1113280 update changed : Running Update,Reconfiguring,
+[2024-05-31 11:55:35] HTTP/2 (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): cache7-lhr1.steamcontent.com/depot/1113281/manifest/971139188077204849/5/2123969745489131685 - received 200 (OK) HTTP response
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,Validating,
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,Preallocating,
+[2024-05-31 11:55:35] AppID 1113280 preallocated 0 files (0 MB) 
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:35] AppID 1113280 update started : download 0/263541408, store 0/0, reuse 0/0, delta 0/0, stage 0/910331459 
+[2024-05-31 11:55:35] AppID 1113280 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 11:55:35] AppID 1113280 update changed : Running Update,Downloading,Staging,
+[2024-05-31 11:55:35] Downloading 856 chunks from depot 1113281
+[2024-05-31 11:55:36] AppID 220 scheduler update : Priority First, not played for 16 seconds, update disabled for 0 seconds
+[2024-05-31 11:55:36] AppID 220 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:55:36] AppID 1113280 config changed : added depots 1113281
+[2024-05-31 11:55:36] AppID 1113280 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:55:36] AppID 1113280 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 11:55:41] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:41] AppID 1113280 update changed : Running Update,Committing,
+[2024-05-31 11:55:41] AppID 1113280 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/1113280" to "/home/fng/.local/share/Steam/steamapps/common/Proton 4.11" : 9 updated, 0 moved, 0 deleted files
+[2024-05-31 11:55:41] AppID 1113280 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 11:55:41] AppID 1113280 finished update, 1 mounted depots (BuildID 4703068) : 1113281 (971139188077204849),
+[2024-05-31 11:55:41] AppID 1113280 update changed : Running Update,
+[2024-05-31 11:55:41] AppID 1113280 update changed : None
+[2024-05-31 11:55:41] AppID 1113280 state changed : Fully Installed,Update Queued,
+[2024-05-31 11:55:41] AppID 1113280 state changed : Fully Installed,
+[2024-05-31 11:55:41] AppID 1113280 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 11:55:41] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:55:41] AppID 220 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 11:55:45] AppID 220 adding PID 34497 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam"
+[2024-05-31 11:55:45] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:45] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:55:45] AppID 220 adding PID 34498 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34528 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34529 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34532 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34535 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34537 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34540 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34547 as a tracked process
+[2024-05-31 11:55:46] AppID 220 adding PID 34559 as a tracked process
+[2024-05-31 11:55:48] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:49] AppID 220 adding PID 34589 as a tracked process
+[2024-05-31 11:55:49] AppID 220 no longer tracking PID 34535, exit code -1
+[2024-05-31 11:55:49] AppID 220 no longer tracking PID 34532, exit code -1
+[2024-05-31 11:55:49] AppID 220 no longer tracking PID 34528, exit code -1
+[2024-05-31 11:55:49] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:49] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:49] Current download rate: 0.000 Mbps
+[2024-05-31 11:55:53] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:55:54] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:56:01] SSGL: change [220] LCT 19->0
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34589, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34559, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34547, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34540, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34537, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34529, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34498, exit code -1
+[2024-05-31 11:56:24] AppID 220 no longer tracking PID 34497, exit code 0
+[2024-05-31 11:56:24] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:56:24] Remove 220 from running list
+[2024-05-31 11:56:41] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:56:41] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:56:41] HTTP/2 (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:56:42] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 11:57:37] stats: (SteamCache, 367) cache16-lhr1.steamcontent.com: 316361599 Bytes, 29 sec (88.49 Mbps). 14101 Hits / 482 Misses (97 %, 90 % bytes)
+[2024-05-31 11:57:37] stats: (Invalid, 0) : 724550634 Bytes, 18 sec (314.25 Mbps). 31248 Hits / 918 Misses (97 %, 92 % bytes)
+[2024-05-31 11:57:37] stats: (SteamCache, 366) cache15-lhr1.steamcontent.com: 207762528 Bytes, 12 sec (135.07 Mbps). 10695 Hits / 153 Misses (99 %, 94 % bytes)
+[2024-05-31 11:57:37] stats: (SteamCache, 144) cache2-lhr1.steamcontent.com: 128046160 Bytes, 29 sec (35.76 Mbps). 5415 Hits / 155 Misses (97 %, 93 % bytes)
+[2024-05-31 11:57:37] stats: (SteamCache, 228) cache7-lhr1.steamcontent.com: 72380347 Bytes, 8 sec (75.96 Mbps). 144 Hits / 84 Misses (63 %, 62 % bytes)
+[2024-05-31 11:57:52] AppID 220 adding PID 35528 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam PROTON_NO_ESYNC=1"
+[2024-05-31 11:57:52] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:57:52] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:57:52] AppID 220 adding PID 35529 as a tracked process
+[2024-05-31 11:57:52] AppID 220 adding PID 35530 as a tracked process
+[2024-05-31 11:57:53] SSGL: change [220] LCT 1383232627->0
+[2024-05-31 11:57:54] AppID 220 adding PID 35612 as a tracked process
+[2024-05-31 11:57:54] AppID 220 adding PID 35614 as a tracked process
+[2024-05-31 11:57:54] AppID 220 adding PID 35615 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35616 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35619 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35621 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35624 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35631 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35636 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35646 as a tracked process
+[2024-05-31 11:57:55] AppID 220 no longer tracking PID 35616, exit code -1
+[2024-05-31 11:57:55] AppID 220 no longer tracking PID 35614, exit code -1
+[2024-05-31 11:57:55] AppID 220 no longer tracking PID 35530, exit code -1
+[2024-05-31 11:57:55] AppID 220 adding PID 35653 as a tracked process
+[2024-05-31 11:57:55] AppID 220 adding PID 35666 as a tracked process
+[2024-05-31 11:57:55] AppID 220 no longer tracking PID 35646, exit code -1
+[2024-05-31 11:57:56] AppID 220 adding PID 35668 as a tracked process
+[2024-05-31 11:57:56] AppID 220 adding PID 35670 as a tracked process
+[2024-05-31 11:57:56] AppID 220 no longer tracking PID 35668, exit code -1
+[2024-05-31 11:57:56] AppID 220 adding PID 35672 as a tracked process
+[2024-05-31 11:57:56] AppID 220 adding PID 35674 as a tracked process
+[2024-05-31 11:57:56] AppID 220 no longer tracking PID 35674, exit code -1
+[2024-05-31 11:57:56] AppID 220 no longer tracking PID 35672, exit code -1
+[2024-05-31 11:57:56] AppID 220 no longer tracking PID 35670, exit code -1
+[2024-05-31 11:57:56] AppID 220 adding PID 35676 as a tracked process
+[2024-05-31 11:57:57] AppID 220 adding PID 35679 as a tracked process
+[2024-05-31 11:57:57] AppID 220 adding PID 35684 as a tracked process
+[2024-05-31 11:57:57] AppID 220 no longer tracking PID 35676, exit code -1
+[2024-05-31 11:57:57] AppID 220 adding PID 35692 as a tracked process
+[2024-05-31 11:57:57] AppID 220 no longer tracking PID 35666, exit code -1
+[2024-05-31 11:57:58] AppID 220 adding PID 35694 as a tracked process
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35694, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35692, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35619, exit code -1
+[2024-05-31 11:57:58] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:57:58] AppID 220 adding PID 35721 as a tracked process
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35721, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35684, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35679, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35653, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35636, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35631, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35624, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35621, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35612, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35529, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35615, exit code -1
+[2024-05-31 11:57:58] AppID 220 no longer tracking PID 35528, exit code 0
+[2024-05-31 11:57:58] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:57:58] Remove 220 from running list
+[2024-05-31 11:58:29] AppID 220 adding PID 36220 as a tracked process "PROTON_NO_ESYNC=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam"
+[2024-05-31 11:58:29] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:58:29] AppID 220 state changed : Fully Installed,App Running,
+[2024-05-31 11:58:29] AppID 220 adding PID 36221 as a tracked process
+[2024-05-31 11:58:29] AppID 220 adding PID 36222 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36307 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36308 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36309 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36310 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36313 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36315 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36318 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36327 as a tracked process
+[2024-05-31 11:58:31] AppID 220 adding PID 36339 as a tracked process
+[2024-05-31 11:58:32] AppID 220 adding PID 36345 as a tracked process
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36310, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36308, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36222, exit code -1
+[2024-05-31 11:58:32] AppID 220 adding PID 36358 as a tracked process
+[2024-05-31 11:58:32] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 11:58:32] AppID 220 adding PID 36375 as a tracked process
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36313, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36375, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36358, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36345, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36339, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36327, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36318, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36315, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36307, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36221, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36309, exit code -1
+[2024-05-31 11:58:32] AppID 220 no longer tracking PID 36220, exit code 0
+[2024-05-31 11:58:32] AppID 220 state changed : Fully Installed,
+[2024-05-31 11:58:32] Remove 220 from running list
+[2024-05-31 11:58:57] AppID 220 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 11:58:57] AppID 220 state changed : Uninstalled,
+[2024-05-31 11:58:57] AppID 220 finished uninstall (No Error)
+[2024-05-31 12:00:12] AppID 730 state changed : Update Required,
+[2024-05-31 12:00:12] AppID 730 user config changed : added depots 731,734,735,2347770,2347773,2347774
+[2024-05-31 12:00:12] AppID 730 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2024-05-31 12:00:12] AppID 730 state changed : Update Required,Update Queued,
+[2024-05-31 12:00:12] AppID 730 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 12:00:12] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:12] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:00:12] Moving to source priority class '3'
+[2024-05-31 12:00:12] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 12:00:12] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 12:00:12] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 12:00:12] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 12:00:12] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:00:12] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/731/manifest/4211065936316600158/5/10447768978853240218 - received 200 (OK) HTTP response
+[2024-05-31 12:00:13] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:00:13] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/734/manifest/8044219069226791286/5/11253853449584761990 - received 200 (OK) HTTP response
+[2024-05-31 12:00:13] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/735/manifest/6197914401859634289/5/6272569296903204115 - received 200 (OK) HTTP response
+[2024-05-31 12:00:13] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/2347773/manifest/5115306430215488303/5/11241381580838727745 - received 200 (OK) HTTP response
+[2024-05-31 12:00:13] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:00:13] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/2347774/manifest/4342340049044317864/5/3472095697168602874 - received 200 (OK) HTTP response
+[2024-05-31 12:00:13] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/2347770/manifest/6799539926881932369/5/13945073112805449488 - received 200 (OK) HTTP response
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,Validating,
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,Preallocating,
+[2024-05-31 12:00:14] AppID 730 preallocated 0 files (0 MB) 
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:14] AppID 730 update started : download 0/30287796160, store 0/0, reuse 0/0, delta 0/0, stage 0/36942740331 
+[2024-05-31 12:00:14] AppID 730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 12:00:14] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:00:14] Downloading 1 chunks from depot 735
+[2024-05-31 12:00:14] Downloading 36631 chunks from depot 2347770
+[2024-05-31 12:00:18] AppID 730 update canceled : Shader Priority (Suspended)
+[2024-05-31 12:00:18] AppID 730 update changed : Running Update,Downloading,Staging,Stopping,
+[2024-05-31 12:00:18] AppID 730 update changed : Running Update,Stopping,
+[2024-05-31 12:00:18] AppID 730 update changed : None
+[2024-05-31 12:00:18] AppID 730 state changed : Update Required,Update Queued,Update Started, (Suspended)
+[2024-05-31 12:00:18] AppID 730 state changed : Update Required,Update Started,
+[2024-05-31 12:00:18] AppID 730 scheduler finished : removed from schedule (result Suspended, state 0x40a) 
+[2024-05-31 12:00:18] AppID 730 scheduler update : Priority User Initiated, not played for 7 seconds, update disabled for 0 seconds
+[2024-05-31 12:00:18] AppID 730 state changed : Update Required,Update Queued,Update Started,
+[2024-05-31 12:00:18] AppID 730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 12:00:18] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:18] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:00:19] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/730/manifest/1498405955968670911/5/4852772838589999387 - received 200 (OK) HTTP response
+[2024-05-31 12:00:19] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:19] AppID 730 update changed : Running Update,Preallocating,
+[2024-05-31 12:00:19] AppID 730 preallocated 0 files (0 MB) 
+[2024-05-31 12:00:19] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:19] AppID 730 update started : download 0/1504, store 0/0, reuse 0/0, delta 0/0, stage 0/2053 
+[2024-05-31 12:00:19] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:00:19] Downloading 2 chunks from depot 730
+[2024-05-31 12:00:20] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:20] AppID 730 update changed : Running Update,Committing,
+[2024-05-31 12:00:20] AppID 730 starting commit from "/home/fng/.local/share/Steam/steamapps/shadercache/730/downloads/" to "/home/fng/.local/share/Steam/steamapps/shadercache/730/" : 6 updated, 0 moved, 0 deleted files
+[2024-05-31 12:00:20] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:20] AppID 730 update changed : None
+[2024-05-31 12:00:20] AppID 730 state changed : Update Required,Update Queued,Update Started,
+[2024-05-31 12:00:20] AppID 730 scheduler finished : staying in schedule (result No Error, state 0x40a) 
+[2024-05-31 12:00:20] AppID 730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 12:00:20] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:20] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:00:21] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/730/manifest/7729491022500840997/5/16463762691002145038 - received 200 (OK) HTTP response
+[2024-05-31 12:00:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:21] AppID 730 update changed : Running Update,Preallocating,
+[2024-05-31 12:00:21] AppID 730 preallocated 0 files (0 MB) 
+[2024-05-31 12:00:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:00:21] AppID 730 update started : download 0/2296259168, store 0/0, reuse 0/0, delta 0/0, stage 0/2571781714 
+[2024-05-31 12:00:21] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:00:21] Downloading 3026 chunks from depot 730
+[2024-05-31 12:00:25] Increasing target number of download connections to 4 (rate was 0.000, now 293.068)
+[2024-05-31 12:00:25] Current download rate: 293.068 Mbps
+[2024-05-31 12:00:25] Created download interface of type 'SteamCache' (7) to host cache7-lhr1.steamcontent.com (cache7-lhr1.steamcontent.com)
+[2024-05-31 12:00:25] HTTPS (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:00:25] Detected write gap 146 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:00:26] Detected write gap 72 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:00:27] Detected write gap 88 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:00:36] Detected write gap 73 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:00:37] Increasing target number of download connections to 5 (rate was 293.068, now 519.019)
+[2024-05-31 12:00:37] Created download interface of type 'SteamCache' (7) to host cache13-lhr1.steamcontent.com (cache13-lhr1.steamcontent.com)
+[2024-05-31 12:00:37] HTTPS (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:00:57] Detected write gap 77 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:00:58] Detected write gap 71 MB in file "fozpipelinesv6\steam_pipeline_cache.foz"
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,Committing,
+[2024-05-31 12:01:21] AppID 730 starting commit from "/home/fng/.local/share/Steam/steamapps/shadercache/730/downloads/" to "/home/fng/.local/share/Steam/steamapps/shadercache/730/" : 2 updated, 0 moved, 0 deleted files
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:01:21] AppID 730 update changed : None
+[2024-05-31 12:01:21] AppID 730 state changed : Update Required,Update Queued,Update Started,
+[2024-05-31 12:01:21] AppID 730 scheduler finished : staying in schedule (result No Error, state 0x40a) 
+[2024-05-31 12:01:21] AppID 730 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,
+[2024-05-31 12:01:21] AppID 730 update started : download 178159312/30287796160, store 0/0, reuse 0/0, delta 0/0, stage 469512107/36942740331 
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,Staging,
+[2024-05-31 12:01:21] Downloading 34632 chunks from depot 2347770
+[2024-05-31 12:01:21] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:01:21] Detected write gap 217 MB in file "game\csgo\maps\ar_shoots.vpk"
+[2024-05-31 12:01:25] Current download rate: 407.258 Mbps
+[2024-05-31 12:01:39] Detected write gap 324 MB in file "game\csgo\maps\de_ancient.vpk"
+[2024-05-31 12:01:48] Detected write gap 466 MB in file "game\csgo\maps\de_overpass.vpk"
+[2024-05-31 12:01:49] Detected write gap 96 MB in file "game\csgo\maps\de_vertigo.vpk"
+[2024-05-31 12:01:58] Detected write gap 72 MB in file "game\csgo\pak01_024.vpk"
+[2024-05-31 12:02:00] Detected write gap 65 MB in file "game\csgo\pak01_028.vpk"
+[2024-05-31 12:02:00] Detected write gap 84 MB in file "game\csgo\pak01_030.vpk"
+[2024-05-31 12:02:01] Increasing target number of download connections to 6 (rate was 519.019, now 632.945)
+[2024-05-31 12:02:01] Created download interface of type 'SteamCache' (7) to host cache4-lhr1.steamcontent.com (cache4-lhr1.steamcontent.com)
+[2024-05-31 12:02:02] HTTPS (SteamCache,146) - cache4-lhr1.steamcontent.com (162.254.196.36:443 / 162.254.196.36:443, host: cache4-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:02:02] Detected write gap 102 MB in file "game\csgo\pak01_034.vpk"
+[2024-05-31 12:02:02] Detected write gap 75 MB in file "game\csgo\pak01_035.vpk"
+[2024-05-31 12:02:27] Current download rate: 538.941 Mbps
+[2024-05-31 12:02:46] Detected write gap 95 MB in file "game\csgo\pak01_060.vpk"
+[2024-05-31 12:02:46] Detected write gap 81 MB in file "game\csgo\pak01_048.vpk"
+[2024-05-31 12:02:47] Detected write gap 78 MB in file "game\csgo\pak01_049.vpk"
+[2024-05-31 12:02:49] Detected write gap 68 MB in file "game\csgo\pak01_071.vpk"
+[2024-05-31 12:02:52] Detected write gap 80 MB in file "game\csgo\pak01_078.vpk"
+[2024-05-31 12:02:52] Detected write gap 90 MB in file "game\csgo\pak01_080.vpk"
+[2024-05-31 12:03:07] stats: (SteamCache, 367) cache16-lhr1.steamcontent.com: 2128035453 Bytes, 112 sec (151.97 Mbps). 17536 Hits / 531 Misses (97 %, 95 % bytes)
+[2024-05-31 12:03:07] stats: (Invalid, 0) : 8153978349 Bytes, 173 sec (376.82 Mbps). 43813 Hits / 1133 Misses (97 %, 96 % bytes)
+[2024-05-31 12:03:07] stats: (SteamCache, 366) cache15-lhr1.steamcontent.com: 850597290 Bytes, 82 sec (83.32 Mbps). 12544 Hits / 183 Misses (99 %, 95 % bytes)
+[2024-05-31 12:03:07] stats: (SteamCache, 144) cache2-lhr1.steamcontent.com: 1753600038 Bytes, 145 sec (96.56 Mbps). 8416 Hits / 177 Misses (98 %, 97 % bytes)
+[2024-05-31 12:03:07] stats: (SteamCache, 364) cache13-lhr1.steamcontent.com: 883263536 Bytes, 84 sec (83.98 Mbps). 2031 Hits / 66 Misses (97 %, 97 % bytes)
+[2024-05-31 12:03:07] stats: (SteamCache, 228) cache7-lhr1.steamcontent.com: 1327099200 Bytes, 124 sec (85.75 Mbps). 1849 Hits / 176 Misses (91 %, 93 % bytes)
+[2024-05-31 12:03:07] stats: (SteamCache, 146) cache4-lhr1.steamcontent.com: 1211382832 Bytes, 65 sec (148.14 Mbps). 1437 Hits / 0 Misses (100 %, 100 % bytes)
+[2024-05-31 12:03:15] Detected write gap 91 MB in file "game\csgo\pak01_105.vpk"
+[2024-05-31 12:03:16] Detected write gap 69 MB in file "game\csgo\pak01_106.vpk"
+[2024-05-31 12:03:16] Detected write gap 69 MB in file "game\csgo\pak01_100.vpk"
+[2024-05-31 12:03:17] Detected write gap 84 MB in file "game\csgo\pak01_110.vpk"
+[2024-05-31 12:03:23] Detected write gap 93 MB in file "game\csgo\pak01_114.vpk"
+[2024-05-31 12:03:23] Detected write gap 79 MB in file "game\csgo\pak01_115.vpk"
+[2024-05-31 12:03:27] Detected write gap 100 MB in file "game\csgo\pak01_123.vpk"
+[2024-05-31 12:03:27] Detected write gap 93 MB in file "game\csgo\pak01_131.vpk"
+[2024-05-31 12:03:27] Current download rate: 495.342 Mbps
+[2024-05-31 12:03:29] Detected write gap 72 MB in file "game\csgo\pak01_135.vpk"
+[2024-05-31 12:03:30] Detected write gap 79 MB in file "game\csgo\pak01_139.vpk"
+[2024-05-31 12:03:30] Detected write gap 64 MB in file "game\csgo\pak01_128.vpk"
+[2024-05-31 12:03:32] Detected write gap 72 MB in file "game\csgo\pak01_143.vpk"
+[2024-05-31 12:03:32] Detected write gap 75 MB in file "game\csgo\pak01_144.vpk"
+[2024-05-31 12:03:35] Detected write gap 95 MB in file "game\csgo\pak01_153.vpk"
+[2024-05-31 12:03:36] Detected write gap 79 MB in file "game\csgo\pak01_154.vpk"
+[2024-05-31 12:03:36] Detected write gap 65 MB in file "game\csgo\pak01_156.vpk"
+[2024-05-31 12:03:38] Detected write gap 73 MB in file "game\csgo\pak01_163.vpk"
+[2024-05-31 12:03:40] Detected write gap 74 MB in file "game\csgo\pak01_168.vpk"
+[2024-05-31 12:03:41] Detected write gap 71 MB in file "game\csgo\pak01_169.vpk"
+[2024-05-31 12:03:42] Detected write gap 73 MB in file "game\csgo\pak01_173.vpk"
+[2024-05-31 12:03:42] Detected write gap 64 MB in file "game\csgo\pak01_174.vpk"
+[2024-05-31 12:03:44] Detected write gap 81 MB in file "game\csgo\pak01_178.vpk"
+[2024-05-31 12:03:44] Detected write gap 65 MB in file "game\csgo\pak01_181.vpk"
+[2024-05-31 12:03:45] Detected write gap 64 MB in file "game\csgo\pak01_186.vpk"
+[2024-05-31 12:03:50] Detected write gap 65 MB in file "game\csgo\pak01_200.vpk"
+[2024-05-31 12:03:51] Detected write gap 100 MB in file "game\csgo\pak01_203.vpk"
+[2024-05-31 12:03:51] Detected write gap 69 MB in file "game\csgo\pak01_201.vpk"
+[2024-05-31 12:03:53] Detected write gap 83 MB in file "game\csgo\pak01_209.vpk"
+[2024-05-31 12:03:55] Detected write gap 70 MB in file "game\csgo\pak01_215.vpk"
+[2024-05-31 12:03:56] Detected write gap 87 MB in file "game\csgo\pak01_217.vpk"
+[2024-05-31 12:04:06] Detected write gap 91 MB in file "game\csgo\pak01_242.vpk"
+[2024-05-31 12:04:13] Detected write gap 84 MB in file "game\csgo\pak01_267.vpk"
+[2024-05-31 12:04:18] Detected write gap 103 MB in file "game\csgo\shaders_vulkan_000.vpk"
+[2024-05-31 12:04:18] Detected write gap 70 MB in file "game\csgo_core\shaders_vulkan_001.vpk"
+[2024-05-31 12:04:28] Current download rate: 598.836 Mbps
+[2024-05-31 12:05:29] Current download rate: 609.514 Mbps
+[2024-05-31 12:05:39] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 12:06:29] Current download rate: 620.511 Mbps
+[2024-05-31 12:07:31] Current download rate: 603.197 Mbps
+[2024-05-31 12:08:19] stats: (Invalid, 0) : 20326549328 Bytes, 312 sec (520.81 Mbps). 67364 Hits / 1301 Misses (98 %, 98 % bytes)
+[2024-05-31 12:08:19] stats: (SteamCache, 366) cache15-lhr1.steamcontent.com: 27053328 Bytes, 3 sec (83.95 Mbps). 12572 Hits / 183 Misses (99 %, 95 % bytes)
+[2024-05-31 12:08:19] stats: (SteamCache, 144) cache2-lhr1.steamcontent.com: 3650241216 Bytes, 287 sec (101.79 Mbps). 12660 Hits / 184 Misses (99 %, 99 % bytes)
+[2024-05-31 12:08:19] stats: (SteamCache, 228) cache7-lhr1.steamcontent.com: 3456401728 Bytes, 286 sec (96.76 Mbps). 5881 Hits / 182 Misses (97 %, 98 % bytes)
+[2024-05-31 12:08:19] stats: (SteamCache, 146) cache4-lhr1.steamcontent.com: 13187935872 Bytes, 312 sec (337.91 Mbps). 16678 Hits / 155 Misses (99 %, 99 % bytes)
+[2024-05-31 12:08:32] Current download rate: 630.379 Mbps
+[2024-05-31 12:09:03] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:09:03] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:09:03] HTTP/2 (SteamCache,364) - cache13-lhr1.steamcontent.com (162.254.196.23:443 / 162.254.196.23:443, host: cache13-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:09:03] Downloading 288 chunks from depot 2347773
+[2024-05-31 12:09:05] Downloading 998 chunks from depot 2347774
+[2024-05-31 12:09:17] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:17] AppID 730 update changed : Running Update,Committing,
+[2024-05-31 12:09:17] AppID 730 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/730" to "/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive" : 2648 updated, 0 moved, 0 deleted files
+[2024-05-31 12:09:17] AppID 730 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:09:17] AppID 730 finished update, 6 mounted depots (BuildID 14553911) : 731 (4211065936316600158),734 (8044219069226791286),735 (6197914401859634289),2347770 (6799539926881932369),2347773 (5115306430215488303),2347774 (4342340049044317864),
+[2024-05-31 12:09:17] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:17] AppID 730 update changed : None
+[2024-05-31 12:09:17] AppID 730 state changed : Fully Installed,Update Queued,
+[2024-05-31 12:09:17] AppID 730 scheduler finished : staying in schedule (result No Error, state 0xc) 
+[2024-05-31 12:09:18] AppID 730 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:09:18] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:18] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:09:18] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:19] AppID 730 has no changes, 0 active:  0 target: 
+[2024-05-31 12:09:19] AppID 730 update changed : Running Update,Staging,
+[2024-05-31 12:09:19] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:19] AppID 730 update changed : Running Update,Committing,
+[2024-05-31 12:09:19] AppID 730 starting commit from "/home/fng/.local/share/Steam/steamapps/workshop/downloads/730" to "/home/fng/.local/share/Steam/steamapps/workshop/content/730" : 0 updated, 0 moved, 0 deleted files
+[2024-05-31 12:09:19] AppID 730 update changed : Running Update,
+[2024-05-31 12:09:19] AppID 730 update changed : None
+[2024-05-31 12:09:19] AppID 730 state changed : Fully Installed,Update Queued,
+[2024-05-31 12:09:19] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:09:19] AppID 730 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 12:09:28] AppID 730 adding PID 38266 as a tracked process "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam"
+[2024-05-31 12:09:28] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:09:28] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:09:28] AppID 730 adding PID 38267 as a tracked process
+[2024-05-31 12:09:28] AppID 730 adding PID 38268 as a tracked process
+[2024-05-31 12:09:29] SSGL: change [730] LCT 33->0
+[2024-05-31 12:09:30] AppID 730 adding PID 38350 as a tracked process
+[2024-05-31 12:09:30] AppID 730 adding PID 38354 as a tracked process
+[2024-05-31 12:09:30] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:09:31] AppID 730 adding PID 38353 as a tracked process
+[2024-05-31 12:09:31] AppID 730 adding PID 38355 as a tracked process
+[2024-05-31 12:09:31] AppID 730 adding PID 38356 as a tracked process
+[2024-05-31 12:09:33] Current download rate: 0.000 Mbps
+[2024-05-31 12:09:35] SSGL: persona state flags
+[2024-05-31 12:10:00] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:10:18] HTTP/2 (SteamCache,228) - cache7-lhr1.steamcontent.com (162.254.196.6:443 / 162.254.196.6:443, host: cache7-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:10:18] HTTP/2 (SteamCache,146) - cache4-lhr1.steamcontent.com (162.254.196.36:443 / 162.254.196.36:443, host: cache4-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:10:35] SSGL: persona state flags
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38356, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38355, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38353, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38354, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38350, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38268, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38267, exit code -1
+[2024-05-31 12:10:35] AppID 730 no longer tracking PID 38266, exit code 0
+[2024-05-31 12:10:35] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:10:35] Remove 730 from running list
+[2024-05-31 12:11:01] AppID 730 adding PID 38914 as a tracked process "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam"
+[2024-05-31 12:11:01] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:11:01] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:11:01] AppID 730 adding PID 38916 as a tracked process
+[2024-05-31 12:11:01] AppID 730 adding PID 38917 as a tracked process
+[2024-05-31 12:11:01] AppID 730 adding PID 38918 as a tracked process
+[2024-05-31 12:11:03] AppID 730 adding PID 39003 as a tracked process
+[2024-05-31 12:11:03] AppID 730 adding PID 39006 as a tracked process
+[2024-05-31 12:11:03] AppID 730 adding PID 39007 as a tracked process
+[2024-05-31 12:11:03] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:11:03] AppID 730 adding PID 39009 as a tracked process
+[2024-05-31 12:11:03] AppID 730 adding PID 39010 as a tracked process
+[2024-05-31 12:11:03] AppID 730 adding PID 39049 as a tracked process
+[2024-05-31 12:11:07] SSGL: persona state flags
+[2024-05-31 12:11:20] SSGL: persona state flags
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39049, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39010, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39009, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39007, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39006, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 39003, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 38918, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 38917, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 38916, exit code -1
+[2024-05-31 12:11:20] AppID 730 no longer tracking PID 38914, exit code 0
+[2024-05-31 12:11:20] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:11:20] Remove 730 from running list
+[2024-05-31 12:11:25] AppID 228980 state changed : Update Required,Shared Only,
+[2024-05-31 12:11:25] AppID 228980 state changed : Update Required,
+[2024-05-31 12:11:25] Dependency added: parent 228980, child 730, depot 228988
+[2024-05-31 12:11:25] Dependency added: parent 228980, child 730, depot 228990
+[2024-05-31 12:11:25] AppID 730 state changed : Update Required,Fully Installed,
+[2024-05-31 12:11:25] AppID 730 config changed : added depots 732,2347771
+[2024-05-31 12:11:25] AppID 730 config changed : removed depots 734,2347773
+[2024-05-31 12:11:26] AppID 730 scheduler update : Priority User Initiated, not played for 6 seconds, update disabled for 0 seconds
+[2024-05-31 12:11:26] AppID 730 state changed : Update Required,Fully Installed,Update Queued,
+[2024-05-31 12:11:26] AppID 228980 scheduler update : Priority Auto Update, not played for 1717157486 seconds, update disabled for 0 seconds
+[2024-05-31 12:11:26] AppID 228980 state changed : Update Required,Update Queued,
+[2024-05-31 12:11:26] AppID 730 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:11:26] AppID 228980 state changed : Update Required,Update Queued,Update Running,
+[2024-05-31 12:11:26] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:26] AppID 730 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:11:26] Moving to source priority class '3'
+[2024-05-31 12:11:26] Created download interface of type 'SteamCache' (7) to host cache16-lhr1.steamcontent.com (cache16-lhr1.steamcontent.com)
+[2024-05-31 12:11:26] Created download interface of type 'SteamCache' (7) to host cache15-lhr1.steamcontent.com (cache15-lhr1.steamcontent.com)
+[2024-05-31 12:11:26] Created download interface of type 'SteamCache' (7) to host cache2-lhr1.steamcontent.com (cache2-lhr1.steamcontent.com)
+[2024-05-31 12:11:26] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 12:11:27] HTTPS (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:11:27] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/228988/manifest/6645201662696499616/5/13429704339779740313 - received 200 (OK) HTTP response
+[2024-05-31 12:11:27] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): cache16-lhr1.steamcontent.com/depot/228990/manifest/1829726630299308803/5/4183844392515976070 - received 200 (OK) HTTP response
+[2024-05-31 12:11:28] HTTPS (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:11:28] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): cache15-lhr1.steamcontent.com/depot/732/manifest/2410803360381585375/5/5693932083372974086 - received 200 (OK) HTTP response
+[2024-05-31 12:11:29] HTTPS (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Negotiated HTTP/2
+[2024-05-31 12:11:29] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): cache2-lhr1.steamcontent.com/depot/2347771/manifest/7930017846942056574/5/5322237331613564037 - received 200 (OK) HTTP response
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,Validating,
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,Preallocating,
+[2024-05-31 12:11:29] AppID 228980 preallocated 0 files (0 MB) 
+[2024-05-31 12:11:29] AppID 730 preallocated 0 files (0 MB) 
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:29] AppID 228980 update started : download 0/123069936, store 0/0, reuse 0/0, delta 0/0, stage 0/132143724 
+[2024-05-31 12:11:29] AppID 228980 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2024-05-31 12:11:29] AppID 730 update started : download 0/407398160, store 0/0, reuse 0/0, delta 0/0, stage 0/708523593 
+[2024-05-31 12:11:29] AppID 730 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-05-31 12:11:29] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:11:29] Downloading 26 chunks from depot 228988
+[2024-05-31 12:11:30] Downloading 203 chunks from depot 228990
+[2024-05-31 12:11:32] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:32] AppID 730 update changed : Running Update,Downloading,Staging,
+[2024-05-31 12:11:32] Downloading 745 chunks from depot 2347771
+[2024-05-31 12:11:39] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:39] AppID 730 update changed : Running Update,Committing,
+[2024-05-31 12:11:39] AppID 228980 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/228980" to "/home/fng/.local/share/Steam/steamapps/common/Steamworks Shared" : 163 updated, 0 moved, 0 deleted files
+[2024-05-31 12:11:39] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:11:39] AppID 228980 finished update, 2 mounted depots (BuildID 13816744) : 228988 (6645201662696499616),228990 (1829726630299308803),
+[2024-05-31 12:11:39] AppID 730 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/730" to "/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive" : 110 updated, 0 moved, 62 deleted files
+[2024-05-31 12:11:39] Increasing target number of download connections to 4 (rate was 0.000, now 271.818)
+[2024-05-31 12:11:39] Current download rate: 271.818 Mbps
+[2024-05-31 12:11:39] AppID 730 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:11:39] AppID 730 finished update, 6 mounted depots (BuildID 14553911) : 732 (2410803360381585375),731 (4211065936316600158),735 (6197914401859634289),2347770 (6799539926881932369),2347771 (7930017846942056574),2347774 (4342340049044317864),
+[2024-05-31 12:11:39] Created download interface of type 'SteamCache' (7) to host cache13-lhr1.steamcontent.com (cache13-lhr1.steamcontent.com)
+[2024-05-31 12:11:39] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:39] AppID 730 update changed : Running Update,Running Script,
+[2024-05-31 12:11:42] AppID 730 update changed : Running Update,
+[2024-05-31 12:11:42] AppID 730 update changed : None
+[2024-05-31 12:11:42] AppID 228980 state changed : Fully Installed,Update Queued,
+[2024-05-31 12:11:42] AppID 730 state changed : Fully Installed,Update Queued,
+[2024-05-31 12:11:42] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:11:42] AppID 730 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 12:11:43] AppID 228980 state changed : Fully Installed,
+[2024-05-31 12:11:43] AppID 228980 scheduler finished : removed from schedule (result Suspended, state 0xc) 
+[2024-05-31 12:12:39] HTTP/2 (SteamCache,144) - cache2-lhr1.steamcontent.com (162.254.196.35:443 / 162.254.196.35:443, host: cache2-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:12:39] HTTP/2 (SteamCache,366) - cache15-lhr1.steamcontent.com (162.254.196.25:443 / 162.254.196.25:443, host: cache15-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:12:40] HTTP/2 (SteamCache,367) - cache16-lhr1.steamcontent.com (162.254.196.26:443 / 162.254.196.26:443, host: cache16-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:12:40] Current download rate: 0.000 Mbps
+[2024-05-31 12:12:40] HTTP (SteamCache,364) - cache13-lhr1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-lhr1.steamcontent.com): Closing connection
+[2024-05-31 12:12:41] AppID 730 adding PID 40404 as a tracked process "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam"
+[2024-05-31 12:12:41] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:12:41] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:12:41] AppID 730 adding PID 40406 as a tracked process
+[2024-05-31 12:12:41] AppID 730 adding PID 40407 as a tracked process
+[2024-05-31 12:12:41] AppID 730 adding PID 40408 as a tracked process
+[2024-05-31 12:12:42] SSGL: change [730] LCT 32->0
+[2024-05-31 12:12:42] AppID 730 adding PID 40498 as a tracked process
+[2024-05-31 12:12:42] AppID 730 adding PID 40499 as a tracked process
+[2024-05-31 12:12:42] AppID 730 adding PID 40500 as a tracked process
+[2024-05-31 12:12:42] AppID 730 adding PID 40501 as a tracked process
+[2024-05-31 12:12:43] AppID 730 adding PID 40504 as a tracked process
+[2024-05-31 12:12:43] AppID 730 adding PID 40507 as a tracked process
+[2024-05-31 12:12:43] AppID 730 adding PID 40510 as a tracked process
+[2024-05-31 12:12:43] AppID 730 adding PID 40519 as a tracked process
+[2024-05-31 12:12:43] AppID 730 no longer tracking PID 40501, exit code -1
+[2024-05-31 12:12:43] AppID 730 no longer tracking PID 40499, exit code -1
+[2024-05-31 12:12:43] AppID 730 no longer tracking PID 40408, exit code -1
+[2024-05-31 12:12:43] AppID 730 no longer tracking PID 40406, exit code -1
+[2024-05-31 12:12:43] AppID 730 adding PID 40531 as a tracked process
+[2024-05-31 12:12:43] AppID 730 adding PID 40537 as a tracked process
+[2024-05-31 12:12:44] AppID 730 adding PID 40550 as a tracked process
+[2024-05-31 12:12:44] AppID 730 no longer tracking PID 40504, exit code -1
+[2024-05-31 12:12:44] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:12:44] AppID 730 adding PID 40567 as a tracked process
+[2024-05-31 12:12:45] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:12:46] AppID 730 adding PID 40648 as a tracked process
+[2024-05-31 12:12:58] SSGL: persona state flags
+[2024-05-31 12:13:23] stats: (SteamCache, 367) cache16-lhr1.steamcontent.com: 192572926 Bytes, 9 sec (162.75 Mbps). 17887 Hits / 531 Misses (97 %, 95 % bytes)
+[2024-05-31 12:13:23] stats: (Invalid, 0) : 4794055943 Bytes, 67 sec (571.03 Mbps). 73408 Hits / 1420 Misses (98 %, 98 % bytes)
+[2024-05-31 12:13:23] stats: (SteamCache, 366) cache15-lhr1.steamcontent.com: 167096061 Bytes, 8 sec (164.51 Mbps). 12878 Hits / 183 Misses (99 %, 96 % bytes)
+[2024-05-31 12:13:23] stats: (SteamCache, 144) cache2-lhr1.steamcontent.com: 693311036 Bytes, 45 sec (123.78 Mbps). 13580 Hits / 188 Misses (99 %, 99 % bytes)
+[2024-05-31 12:13:23] stats: (SteamCache, 228) cache7-lhr1.steamcontent.com: 783838448 Bytes, 45 sec (137.95 Mbps). 6804 Hits / 185 Misses (97 %, 98 % bytes)
+[2024-05-31 12:13:23] stats: (SteamCache, 146) cache4-lhr1.steamcontent.com: 2957237472 Bytes, 57 sec (416.45 Mbps). 20225 Hits / 267 Misses (99 %, 99 % bytes)
+[2024-05-31 12:17:48] UpdateHmdState: timed out waiting for detected headset, app 730
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40648, exit code -1
+[2024-05-31 12:18:16] SSGL: persona state flags
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40550, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40537, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40531, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40519, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40510, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40507, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40500, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40498, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40407, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40567, exit code -1
+[2024-05-31 12:18:16] AppID 730 no longer tracking PID 40404, exit code 0
+[2024-05-31 12:18:16] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:18:16] Remove 730 from running list
+[2024-05-31 12:18:37] AppID 730 adding PID 41236 as a tracked process "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -windowed"
+[2024-05-31 12:18:37] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:18:37] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:18:37] AppID 730 adding PID 41238 as a tracked process
+[2024-05-31 12:18:37] AppID 730 adding PID 41239 as a tracked process
+[2024-05-31 12:18:37] AppID 730 adding PID 41240 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41332 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41333 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41334 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41335 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41339 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41341 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41344 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41354 as a tracked process
+[2024-05-31 12:18:39] AppID 730 no longer tracking PID 41335, exit code -1
+[2024-05-31 12:18:39] AppID 730 no longer tracking PID 41333, exit code -1
+[2024-05-31 12:18:39] AppID 730 no longer tracking PID 41240, exit code -1
+[2024-05-31 12:18:39] AppID 730 no longer tracking PID 41238, exit code -1
+[2024-05-31 12:18:39] AppID 730 adding PID 41367 as a tracked process
+[2024-05-31 12:18:39] AppID 730 adding PID 41373 as a tracked process
+[2024-05-31 12:18:40] AppID 730 adding PID 41386 as a tracked process
+[2024-05-31 12:18:40] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:18:40] AppID 730 adding PID 41403 as a tracked process
+[2024-05-31 12:18:40] AppID 730 no longer tracking PID 41339, exit code -1
+[2024-05-31 12:18:41] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:18:42] AppID 730 adding PID 41488 as a tracked process
+[2024-05-31 12:19:02] SSGL: persona state flags
+[2024-05-31 12:19:03] SSGL: persona state flags
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41488, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41386, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41373, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41367, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41354, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41344, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41341, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41334, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41332, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41239, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41403, exit code -1
+[2024-05-31 12:19:04] AppID 730 no longer tracking PID 41236, exit code 0
+[2024-05-31 12:19:04] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:19:04] Remove 730 from running list
+[2024-05-31 12:19:54] AppID 730 adding PID 41793 as a tracked process "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -startwindowed"
+[2024-05-31 12:19:54] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:19:54] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:19:54] AppID 730 adding PID 41795 as a tracked process
+[2024-05-31 12:19:54] AppID 730 adding PID 41796 as a tracked process
+[2024-05-31 12:19:54] AppID 730 adding PID 41797 as a tracked process
+[2024-05-31 12:19:55] AppID 730 adding PID 41891 as a tracked process
+[2024-05-31 12:19:55] AppID 730 adding PID 41892 as a tracked process
+[2024-05-31 12:19:55] AppID 730 adding PID 41893 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41894 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41897 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41899 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41902 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41912 as a tracked process
+[2024-05-31 12:19:56] AppID 730 no longer tracking PID 41894, exit code -1
+[2024-05-31 12:19:56] AppID 730 no longer tracking PID 41892, exit code -1
+[2024-05-31 12:19:56] AppID 730 no longer tracking PID 41797, exit code -1
+[2024-05-31 12:19:56] AppID 730 no longer tracking PID 41795, exit code -1
+[2024-05-31 12:19:56] AppID 730 adding PID 41925 as a tracked process
+[2024-05-31 12:19:56] AppID 730 adding PID 41931 as a tracked process
+[2024-05-31 12:19:57] AppID 730 adding PID 41944 as a tracked process
+[2024-05-31 12:19:57] AppID 730 no longer tracking PID 41897, exit code -1
+[2024-05-31 12:19:57] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:19:57] AppID 730 adding PID 41961 as a tracked process
+[2024-05-31 12:19:58] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:19:59] AppID 730 adding PID 42047 as a tracked process
+[2024-05-31 12:20:19] SSGL: persona state flags
+[2024-05-31 12:20:20] SSGL: persona state flags
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 42047, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41944, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41931, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41925, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41912, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41902, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41899, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41893, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41891, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41796, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41961, exit code -1
+[2024-05-31 12:20:20] AppID 730 no longer tracking PID 41793, exit code 0
+[2024-05-31 12:20:20] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:20:20] Remove 730 from running list
+[2024-05-31 12:20:59] AppID 730 adding PID 42601 as a tracked process "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -window -noborder"
+[2024-05-31 12:20:59] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:20:59] AppID 730 state changed : Fully Installed,App Running,
+[2024-05-31 12:20:59] AppID 730 adding PID 42603 as a tracked process
+[2024-05-31 12:20:59] AppID 730 adding PID 42604 as a tracked process
+[2024-05-31 12:20:59] AppID 730 adding PID 42605 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42695 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42696 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42697 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42698 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42702 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42704 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42707 as a tracked process
+[2024-05-31 12:21:01] AppID 730 adding PID 42716 as a tracked process
+[2024-05-31 12:21:01] AppID 730 no longer tracking PID 42698, exit code -1
+[2024-05-31 12:21:01] AppID 730 no longer tracking PID 42696, exit code -1
+[2024-05-31 12:21:01] AppID 730 no longer tracking PID 42605, exit code -1
+[2024-05-31 12:21:01] AppID 730 no longer tracking PID 42603, exit code -1
+[2024-05-31 12:21:01] AppID 730 adding PID 42728 as a tracked process
+[2024-05-31 12:21:02] AppID 730 adding PID 42734 as a tracked process
+[2024-05-31 12:21:02] AppID 730 adding PID 42747 as a tracked process
+[2024-05-31 12:21:02] AppID 730 no longer tracking PID 42702, exit code -1
+[2024-05-31 12:21:02] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:21:02] AppID 730 adding PID 42764 as a tracked process
+[2024-05-31 12:21:03] SSGL: InternalUpdateClientGame indicates change to games list
+[2024-05-31 12:21:04] AppID 730 adding PID 42849 as a tracked process
+[2024-05-31 12:21:29] SSGL: persona state flags
+[2024-05-31 12:21:59] SSGL: persona state flags
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42849, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42747, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42734, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42728, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42716, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42707, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42704, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42697, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42695, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42604, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42764, exit code -1
+[2024-05-31 12:21:59] AppID 730 no longer tracking PID 42601, exit code 0
+[2024-05-31 12:21:59] AppID 730 state changed : Fully Installed,
+[2024-05-31 12:21:59] Remove 730 from running list
+[2024-05-31 12:22:05] AppID 730 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 12:22:09] Dependency removed: parent 228980, child 730, depot 228988
+[2024-05-31 12:22:09] AppID 228980 state changed : Update Required,Fully Installed,
+[2024-05-31 12:22:09] Dependency removed: parent 228980, child 730, depot 228990
+[2024-05-31 12:22:09] AppID 730 state changed : Uninstalled,
+[2024-05-31 12:22:09] AppID 730 finished uninstall (No Error)
+[2024-05-31 12:22:14] AppID 228980 scheduler update : Priority Auto Update, not played for 1717158134 seconds, update disabled for 0 seconds
+[2024-05-31 12:22:14] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,
+[2024-05-31 12:22:14] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,Reconfiguring,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,Validating,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,
+[2024-05-31 12:22:14] AppID 228980 has no changes, 2 active: 228988 (6645201662696499616),228990 (1829726630299308803), 0 target: 
+[2024-05-31 12:22:14] AppID 228980 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,Staging,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,Committing,
+[2024-05-31 12:22:14] AppID 228980 starting commit from "/home/fng/.local/share/Steam/steamapps/downloading/228980" to "/home/fng/.local/share/Steam/steamapps/common/Steamworks Shared" : 0 updated, 0 moved, 163 deleted files
+[2024-05-31 12:22:14] AppID 228980 state changed : Fully Installed,Update Queued,Update Running,
+[2024-05-31 12:22:14] AppID 228980 finished update, 0 mounted depots (BuildID 13816744) : 
+[2024-05-31 12:22:14] AppID 228980 update changed : Running Update,
+[2024-05-31 12:22:14] AppID 228980 update changed : None
+[2024-05-31 12:22:14] AppID 228980 state changed : Fully Installed,Update Queued,
+[2024-05-31 12:22:14] AppID 228980 state changed : Fully Installed,
+[2024-05-31 12:22:14] AppID 228980 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2024-05-31 12:22:14] Got 20 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 4 / Launcher 0)
+[2024-05-31 12:26:56] AppID 2805730 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 12:26:56] AppID 2805730 state changed : Uninstalled,
+[2024-05-31 12:26:56] AppID 2805730 finished uninstall (No Error)
+[2024-05-31 12:26:56] AppID 1113280 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 12:26:56] AppID 1113280 state changed : Uninstalled,
+[2024-05-31 12:26:56] AppID 1113280 finished uninstall (No Error)
+[2024-05-31 12:26:56] AppID 1420170 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 12:26:57] AppID 1420170 state changed : Uninstalled,
+[2024-05-31 12:26:57] AppID 1420170 finished uninstall (No Error)
+[2024-05-31 12:26:57] AppID 1391110 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2024-05-31 12:26:58] AppID 1391110 state changed : Uninstalled,
+[2024-05-31 12:26:58] AppID 1391110 finished uninstall (No Error)
+
+
+[2024-05-31 12:27:14] Client version: 1716584667
+[2024-05-31 12:27:14] Loaded Steam library folders configuration: /home/fng/.local/share/Steam/steamapps/libraryfolders.vdf
+
+
+[2024-05-31 12:28:24] Client version: 1716584667
+[2024-05-31 12:28:24] Loaded Steam library folders configuration: /home/fng/.local/share/Steam/steamapps/libraryfolders.vdf

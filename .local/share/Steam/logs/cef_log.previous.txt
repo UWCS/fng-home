@@ -1,0 +1,224 @@
+[0531/114105.800149:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/114105.800812:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114105.801143:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114105.910367:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114105.934767:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114105.934845:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114105.934866:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114105.934888:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114105.935369:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114105.953070:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114106.066229:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114106.066291:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114106.066312:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114106.066334:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114106.066910:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114106.069049:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/114106.070957:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114106.085817:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0531/114106.100514:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/114106.157965:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114205.776261:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114205.831934:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114206.234075:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/114352.471498:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114354.815641:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114356.669918:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114356.834844:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/114406.284993:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 6404, .bad_value = 56623200, .minor_opcode = 3, .major_opcode = 130}
+[0531/114406.289282:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 6405, .bad_value = 56623148, .minor_opcode = 3, .major_opcode = 130}
+[0531/114406.289743:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7593, .bad_value = 56623138, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.291553:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7595, .bad_value = 56623134, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.291630:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7597, .bad_value = 56623142, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.292747:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7599, .bad_value = 56623146, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.292966:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7601, .bad_value = 56623150, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.293151:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7603, .bad_value = 56623154, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.293335:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7605, .bad_value = 56623158, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.293434:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7607, .bad_value = 56623162, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.293515:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 6406, .bad_value = 56623192, .minor_opcode = 3, .major_opcode = 130}
+[0531/114406.293837:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7609, .bad_value = 56623166, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.293955:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7611, .bad_value = 56623170, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.294084:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7613, .bad_value = 56623174, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.295248:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.295899:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.295939:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.295963:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.295988:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.296012:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.296036:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/114406.296183:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7615, .bad_value = 56623178, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.296396:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7617, .bad_value = 56623190, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.296544:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 7619, .bad_value = 56623198, .minor_opcode = 0, .major_opcode = 25}
+[0531/114406.303813:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 6407, .bad_value = 56623136, .minor_opcode = 3, .major_opcode = 130}
+[0531/114406.318795:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 6408, .bad_value = 56623200, .minor_opcode = 3, .major_opcode = 130}
+[0531/114411.407873:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/114411.408683:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114411.409039:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114411.513387:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114411.538405:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.538465:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.538491:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114411.538515:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114411.539017:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114411.554439:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114411.586868:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.586922:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.586943:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114411.586965:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114411.587480:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114411.589254:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114411.601327:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/114411.607032:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.607114:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114411.607136:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114411.607159:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114411.607670:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114411.609456:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114411.616480:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0531/114421.761056:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/114421.761719:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114421.762075:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/114421.869522:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114421.889019:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114421.889077:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114421.889100:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114421.889120:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114421.889624:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114421.916733:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114422.350063:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/114422.364999:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/114422.369777:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114422.369839:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/114422.369859:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/114422.369880:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/114422.370391:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/114422.372359:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/114422.375825:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114422.379700:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0531/114433.918142:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 715, .bad_value = 56623111, .minor_opcode = 3, .major_opcode = 130}
+[0531/114434.667397:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114434.730312:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114624.791704:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114626.488723:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114630.021300:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114630.273333:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114630.407094:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114631.776404:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114730.845671:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/114827.799579:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/114911.100559:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115213.882299:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115310.202529:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115311.657966:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115447.717426:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115523.426687:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115543.806176:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115551.712714:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115727.249653:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115749.542484:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115750.955118:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=2, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/115801.739980:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115802.779958:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115935.175204:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115942.061110:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/115952.292352:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120006.828965:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120007.334155:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120007.494426:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120007.757135:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120007.972136:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120008.083006:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120009.756551:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120924.305471:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 41895, .bad_value = 56623269, .minor_opcode = 3, .major_opcode = 130}
+[0531/120931.908170:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/120933.651569:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121100.391868:WARNING:sync_reader.cc(170)] ASR: No room in socket buffer.: Broken pipe (32)
+[0531/121104.229607:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121138.976246:WARNING:push_pull_fifo.cc(237)] PushPullFIFO::PullAndUpdateEarmarkunderflow while pulling (underflowCount=1, availableFrames=0, requestedFrames=512, fifoLength=12288)
+[0531/121246.563268:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121820.580016:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121821.883781:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121850.363064:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121910.212420:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/121916.660262:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122007.593338:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122112.917204:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122705.213533:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122711.175771:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 45601, .bad_value = 56623305, .minor_opcode = 3, .major_opcode = 130}
+[0531/122711.187144:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 45602, .bad_value = 56623305, .minor_opcode = 3, .major_opcode = 130}
+[0531/122711.187242:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 45603, .bad_value = 56623138, .minor_opcode = 3, .major_opcode = 130}
+[0531/122711.187729:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51211, .bad_value = 56623128, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.187951:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51213, .bad_value = 56623119, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.190137:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190425:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190446:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190463:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190481:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190499:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190516:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190533:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190550:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190568:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190585:WARNING:frame_impl.cc(656)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0531/122711.190822:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51215, .bad_value = 56623132, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192487:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51217, .bad_value = 56623136, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192581:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51219, .bad_value = 56623140, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192670:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51221, .bad_value = 56623144, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192747:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51223, .bad_value = 56623148, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192834:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51225, .bad_value = 56623152, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.192926:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51227, .bad_value = 56623156, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.193023:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51229, .bad_value = 56623160, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.193102:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51231, .bad_value = 56623164, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.193181:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51233, .bad_value = 56623168, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.193255:WARNING:connection.cc(41)] X error received.  Request: SendEventRequest, Error: WindowError{.sequence = 51235, .bad_value = 56623303, .minor_opcode = 0, .major_opcode = 25}
+[0531/122711.203808:WARNING:connection.cc(41)] X error received.  Request: Shm::PutImageRequest, Error: DrawableError{.sequence = 45604, .bad_value = 56623121, .minor_opcode = 3, .major_opcode = 130}
+[0531/122715.872732:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/122715.873992:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122715.874382:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122716.003019:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122716.027063:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.027162:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.027186:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122716.027295:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122716.027880:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122716.225288:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122716.247380:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/122716.262953:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.263904:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.263948:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122716.263991:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122716.264614:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122716.266346:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122716.267847:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122716.281026:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/122716.283654:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.283935:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122716.284149:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122716.284176:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122716.284752:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122716.286795:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122716.294809:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0531/122716.295837:ERROR:x11_software_bitmap_presenter.cc(142)] XGetWindowAttributes failed for window 0
+[0531/122716.296026:WARNING:connection.cc(41)] X error received.  Request: CreateGCRequest, Error: DrawableError{.sequence = 36, .bad_value = 0, .minor_opcode = 0, .major_opcode = 55}
+[0531/122716.296057:WARNING:connection.cc(41)] X error received.  Request: FreeGCRequest, Error: GContextError{.sequence = 38, .bad_value = 56623104, .minor_opcode = 0, .major_opcode = 60}
+[0531/122717.279197:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0531/122726.055716:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: browser
+[0531/122726.056393:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122726.056739:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0531/122726.166584:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122726.190564:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122726.190631:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122726.190658:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122726.190684:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122726.191361:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122726.209338:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122726.606105:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: utility
+[0531/122726.612854:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: renderer
+[0531/122726.621259:INFO:crash_reporting.cc(239)] Crash reporting enabled for process: utility
+[0531/122726.624590:ERROR:angle_platform_impl.cc(43)] Display.cpp:1021 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122726.624660:ERROR:gl_display.cc(508)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/RendererVk.cpp, initialize:1404.
+[0531/122726.624685:ERROR:gl_display.cc(932)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[0531/122726.624712:ERROR:gl_ozone_egl.cc(23)] GLDisplayEGL::Initialize failed.
+[0531/122726.625403:ERROR:viz_main_impl.cc(186)] Exiting GPU process due to errors during initialization
+[0531/122726.627335:INFO:crash_reporting.cc(262)] Crash reporting enabled for process: gpu-process
+[0531/122726.634408:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 

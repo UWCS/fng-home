@@ -1,0 +1,96 @@
+
+
+[2024-05-31 11:40:58] Client version: 1716584667
+[2024-05-31 11:40:58] SettingValidation: set  test bool: 0
+[2024-05-31 11:40:58] SettingValidation: read test bool: 0
+[2024-05-31 11:40:58] SettingValidation: read bool: 0
+[2024-05-31 11:40:58] SettingValidation: set  test enum: 3
+[2024-05-31 11:40:58] SettingValidation: read test enum: 3
+[2024-05-31 11:40:58] SettingValidation: read enum: 3
+[2024-05-31 11:40:58] SettingValidation: set  test int32: 7
+[2024-05-31 11:40:58] SettingValidation: read test int32: 7
+[2024-05-31 11:40:58] SettingValidation: read int32: 7
+[2024-05-31 11:40:58] SettingValidation: read uint32: 42
+[2024-05-31 11:40:58] SettingValidation: set  test uint64: 0
+[2024-05-31 11:40:58] SettingValidation: read test uint64: 0
+[2024-05-31 11:40:58] SettingValidation: read uint64: 0
+[2024-05-31 11:40:58] SettingValidation: set  test float: 0.000000
+[2024-05-31 11:40:58] SettingValidation: read test float: 0.000000
+[2024-05-31 11:40:58] SettingValidation: read float: 0.000000
+[2024-05-31 11:40:58] SettingValidation: set  test string: 
+[2024-05-31 11:40:58] SettingValidation: read test string: 
+[2024-05-31 11:40:58] SettingValidation: set  test string: Test Default Value
+[2024-05-31 11:40:58] SettingValidation: read test string: Test Default Value
+[2024-05-31 11:40:58] SettingValidation: read string: Test Default Value
+
+
+[2024-05-31 11:44:09] Client version: 1716584667
+[2024-05-31 11:44:09] SettingValidation: set  test bool: 0
+[2024-05-31 11:44:09] SettingValidation: read test bool: 0
+[2024-05-31 11:44:09] SettingValidation: read bool: 0
+[2024-05-31 11:44:09] SettingValidation: set  test enum: 3
+[2024-05-31 11:44:09] SettingValidation: read test enum: 3
+[2024-05-31 11:44:09] SettingValidation: read enum: 3
+[2024-05-31 11:44:09] SettingValidation: set  test int32: 7
+[2024-05-31 11:44:09] SettingValidation: read test int32: 7
+[2024-05-31 11:44:09] SettingValidation: read int32: 7
+[2024-05-31 11:44:09] SettingValidation: read uint32: 42
+[2024-05-31 11:44:09] SettingValidation: set  test uint64: 0
+[2024-05-31 11:44:09] SettingValidation: read test uint64: 0
+[2024-05-31 11:44:09] SettingValidation: read uint64: 0
+[2024-05-31 11:44:09] SettingValidation: set  test float: 0.000000
+[2024-05-31 11:44:09] SettingValidation: read test float: 0.000000
+[2024-05-31 11:44:09] SettingValidation: read float: 0.000000
+[2024-05-31 11:44:09] SettingValidation: set  test string: 
+[2024-05-31 11:44:09] SettingValidation: read test string: 
+[2024-05-31 11:44:09] SettingValidation: set  test string: Test Default Value
+[2024-05-31 11:44:09] SettingValidation: read test string: Test Default Value
+[2024-05-31 11:44:09] SettingValidation: read string: Test Default Value
+
+
+[2024-05-31 12:27:14] Client version: 1716584667
+[2024-05-31 12:27:14] SettingValidation: set  test bool: 0
+[2024-05-31 12:27:14] SettingValidation: read test bool: 0
+[2024-05-31 12:27:14] SettingValidation: read bool: 0
+[2024-05-31 12:27:14] SettingValidation: set  test enum: 3
+[2024-05-31 12:27:14] SettingValidation: read test enum: 3
+[2024-05-31 12:27:14] SettingValidation: read enum: 3
+[2024-05-31 12:27:14] SettingValidation: set  test int32: 7
+[2024-05-31 12:27:14] SettingValidation: read test int32: 7
+[2024-05-31 12:27:14] SettingValidation: read int32: 7
+[2024-05-31 12:27:14] SettingValidation: read uint32: 42
+[2024-05-31 12:27:14] SettingValidation: set  test uint64: 0
+[2024-05-31 12:27:14] SettingValidation: read test uint64: 0
+[2024-05-31 12:27:14] SettingValidation: read uint64: 0
+[2024-05-31 12:27:14] SettingValidation: set  test float: 0.000000
+[2024-05-31 12:27:14] SettingValidation: read test float: 0.000000
+[2024-05-31 12:27:14] SettingValidation: read float: 0.000000
+[2024-05-31 12:27:14] SettingValidation: set  test string: 
+[2024-05-31 12:27:14] SettingValidation: read test string: 
+[2024-05-31 12:27:14] SettingValidation: set  test string: Test Default Value
+[2024-05-31 12:27:14] SettingValidation: read test string: Test Default Value
+[2024-05-31 12:27:14] SettingValidation: read string: Test Default Value
+
+
+[2024-05-31 12:28:23] Client version: 1716584667
+[2024-05-31 12:28:23] SettingValidation: set  test bool: 0
+[2024-05-31 12:28:23] SettingValidation: read test bool: 0
+[2024-05-31 12:28:23] SettingValidation: read bool: 0
+[2024-05-31 12:28:23] SettingValidation: set  test enum: 3
+[2024-05-31 12:28:23] SettingValidation: read test enum: 3
+[2024-05-31 12:28:23] SettingValidation: read enum: 3
+[2024-05-31 12:28:23] SettingValidation: set  test int32: 7
+[2024-05-31 12:28:23] SettingValidation: read test int32: 7
+[2024-05-31 12:28:23] SettingValidation: read int32: 7
+[2024-05-31 12:28:23] SettingValidation: read uint32: 42
+[2024-05-31 12:28:23] SettingValidation: set  test uint64: 0
+[2024-05-31 12:28:23] SettingValidation: read test uint64: 0
+[2024-05-31 12:28:23] SettingValidation: read uint64: 0
+[2024-05-31 12:28:23] SettingValidation: set  test float: 0.000000
+[2024-05-31 12:28:23] SettingValidation: read test float: 0.000000
+[2024-05-31 12:28:23] SettingValidation: read float: 0.000000
+[2024-05-31 12:28:23] SettingValidation: set  test string: 
+[2024-05-31 12:28:23] SettingValidation: read test string: 
+[2024-05-31 12:28:23] SettingValidation: set  test string: Test Default Value
+[2024-05-31 12:28:23] SettingValidation: read test string: Test Default Value
+[2024-05-31 12:28:23] SettingValidation: read string: Test Default Value

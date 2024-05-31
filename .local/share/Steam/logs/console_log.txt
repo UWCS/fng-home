@@ -1,0 +1,696 @@
+
+
+[2024-05-31 11:42:04] Client version: 1716584667
+[2024-05-31 11:42:04] wayland: skipping init because GAMESCOPE_WAYLAND_DISPLAY is not set
+[2024-05-31 11:42:04] Warning: wayland init failed, some functionality may be unavailable
+[2024-05-31 11:42:04] Loaded SDL version 3.0.0-3930-gd79f86525
+[2024-05-31 11:42:04] GetWin32Stats: display was not open yet, good
+[2024-05-31 11:42:04] GetWin32Stats: display was not open yet, good
+[2024-05-31 11:42:04] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:42:04] Warning: failed to set thread priority: set failed for priority 8
+[2024-05-31 11:42:04] Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+[2024-05-31 11:42:04] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:42:04] wayland: skipping init because GAMESCOPE_WAYLAND_DISPLAY is not set
+[2024-05-31 11:42:04] Steam Runtime Launch Service: starting steam-runtime-launcher-service
+[2024-05-31 11:42:04] Steam Runtime Launch Service: steam-runtime-launcher-service is running pid 17245
+[2024-05-31 11:42:04] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:42:04] Failed to init SteamVR because it isn't installed
+[2024-05-31 11:42:04] roaming config store loaded successfully - 0 bytes.
+[2024-05-31 11:42:04] LoadShortcuts: loading shortcuts from: /home/fng/.local/share/Steam/userdata/116038744/config/shortcuts.vdf
+[2024-05-31 11:42:04] GLibLog: domain:Gtk  msg:gtk_disable_setlocale() must be called before gtk_init()
+[2024-05-31 11:42:04] saving roaming config store to 'sharedconfig.vdf'
+[2024-05-31 11:42:04] roaming config store 2 saved successfully
+[2024-05-31 11:42:04] System startup time: 66.06 seconds
+[2024-05-31 11:42:05] ExecCommandLine: "'/home/fng/.local/share/Steam/ubuntu12_32/steam'"
+
+
+[2024-05-31 11:44:33] Client version: 1716584667
+[2024-05-31 11:44:33] wayland: skipping init because GAMESCOPE_WAYLAND_DISPLAY is not set
+[2024-05-31 11:44:33] Warning: wayland init failed, some functionality may be unavailable
+[2024-05-31 11:44:33] Loaded SDL version 3.0.0-3930-gd79f86525
+[2024-05-31 11:44:33] GetWin32Stats: display was not open yet, good
+[2024-05-31 11:44:33] GetWin32Stats: display was not open yet, good
+[2024-05-31 11:44:33] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:44:33] Warning: failed to set thread priority: set failed for priority 8
+[2024-05-31 11:44:33] Warning: support for elevated priorities is most likely unavailable, suppressing future warnings
+[2024-05-31 11:44:33] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:44:33] wayland: skipping init because GAMESCOPE_WAYLAND_DISPLAY is not set
+[2024-05-31 11:44:33] Warning: failed to set thread priority: set failed for 8: -1: setpriority() failed
+[2024-05-31 11:44:33] Steam Runtime Launch Service: starting steam-runtime-launcher-service
+[2024-05-31 11:44:33] Steam Runtime Launch Service: steam-runtime-launcher-service is running pid 18612
+[2024-05-31 11:44:33] Failed to init SteamVR because it isn't installed
+[2024-05-31 11:44:33] GLibLog: domain:Gtk  msg:gtk_disable_setlocale() must be called before gtk_init()
+[2024-05-31 11:44:33] LoadShortcuts: loading shortcuts from: /home/fng/.local/share/Steam/userdata/116038744/config/shortcuts.vdf
+[2024-05-31 11:44:33] roaming config store loaded successfully - 164 bytes.
+[2024-05-31 11:44:33] migrating temporary roaming config store
+[2024-05-31 11:44:33] System startup time: 24.07 seconds
+[2024-05-31 11:44:34] ExecCommandLine: "'/home/fng/.local/share/Steam/ubuntu12_32/steam'"
+[2024-05-31 11:46:26] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:46:30] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:46:34] saving roaming config store to 'sharedconfig.vdf'
+[2024-05-31 11:46:34] roaming config store 2 saved successfully
+[2024-05-31 11:48:18] Steam: An X Error occurred
+[2024-05-31 11:48:18] X Error of failed request:  BadWindow (invalid Window parameter)
+[2024-05-31 11:48:18] Major opcode of failed request:  20 (X_GetProperty)
+[2024-05-31 11:48:18] Resource id in failed request:  0x1
+[2024-05-31 11:48:18] Serial number of failed request:  9
+[2024-05-31 11:48:18] xerror_handler: X failed, continuing
+[2024-05-31 11:48:19] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:48:20] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:48:20] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:48:20] GameAction [AppID 220, ActionID 1] : LaunchApp waiting for user response to SynchronizingCloud "pendingcloudsessions"
+[2024-05-31 11:48:22] GameAction [AppID 220, ActionID 1] : LaunchApp continues with user response "IgnorePendingCloudSessions"
+[2024-05-31 11:48:23] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:48:23] GameAction [AppID 220, ActionID 1] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:48:23] GameAction [AppID 220, ActionID 1] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:48:23] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:48:23] GameAction [AppID 220, ActionID 1] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp continues with user response "skip"
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:48:25] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.sh' -game hl2 -steam -windowed", ProcID 29471, IP 0.0.0.0:0
+[2024-05-31 11:48:25] Controller slots reset
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:48:25] GameAction [AppID 220, ActionID 1] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:48:25] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.sh' -game hl2 -steam -windowed", ProcID 29475, IP 0.0.0.0:0
+[2024-05-31 11:49:04] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.sh' -game hl2 -steam -windowed", ProcID 29475 
+[2024-05-31 11:49:04] ThreadGetProcessExitCode: no such process 29475
+[2024-05-31 11:49:04] ThreadGetProcessExitCode: no such process 29474
+[2024-05-31 11:49:04] ThreadGetProcessExitCode: no such process 29472
+[2024-05-31 11:49:53] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:49:54] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:50:09] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:50:10] GameAction [AppID 220, ActionID 2] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp continues with user response "skip"
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:50:15] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 30511, IP 0.0.0.0:0
+[2024-05-31 11:50:15] Controller slots reset
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:50:15] GameAction [AppID 220, ActionID 2] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:50:18] ThreadGetProcessExitCode: no such process 30599
+[2024-05-31 11:50:18] ThreadGetProcessExitCode: no such process 30597
+[2024-05-31 11:50:18] ThreadGetProcessExitCode: no such process 30514
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30602
+[2024-05-31 11:50:19] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 30598, IP 0.0.0.0:0
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30665
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30648
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30635
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30629
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30616
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30607
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30604
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30596
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30513
+[2024-05-31 11:50:19] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 30598 
+[2024-05-31 11:50:19] ThreadGetProcessExitCode: no such process 30598
+[2024-05-31 11:51:00] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:51:01] GameAction [AppID 220, ActionID 3] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:51:03] GameAction [AppID 220, ActionID 3] : LaunchApp continues with user response "skip"
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:51:04] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 31038, IP 0.0.0.0:0
+[2024-05-31 11:51:04] Controller slots reset
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:51:04] GameAction [AppID 220, ActionID 3] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:51:06] ThreadGetProcessExitCode: no such process 31125
+[2024-05-31 11:51:06] ThreadGetProcessExitCode: no such process 31123
+[2024-05-31 11:51:06] ThreadGetProcessExitCode: no such process 31040
+[2024-05-31 11:51:07] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 31124, IP 0.0.0.0:0
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31128
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31193
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31176
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31163
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31157
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31144
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31134
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31131
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31122
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31039
+[2024-05-31 11:51:07] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 31124 
+[2024-05-31 11:51:07] ThreadGetProcessExitCode: no such process 31124
+[2024-05-31 11:51:36] GameAction [AppID 220, ActionID 4] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:51:36] GameAction [AppID 220, ActionID 4] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:51:36] GameAction [AppID 220, ActionID 4] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:51:37] GameAction [AppID 220, ActionID 4] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:51:37] GameAction [AppID 220, ActionID 4] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:51:37] GameAction [AppID 220, ActionID 4] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:51:37] GameAction [AppID 220, ActionID 4] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:51:37] GameAction [AppID 220, ActionID 4] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:51:48] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:51:48] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:51:48] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:52:12] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:52:12] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:52:12] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:52:13] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:52:13] GameAction [AppID 220, ActionID 5] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:52:13] GameAction [AppID 220, ActionID 5] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:52:13] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:52:13] GameAction [AppID 220, ActionID 5] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:52:29] GameAction [AppID 220, ActionID 5] : LaunchApp continues with user response "skip"
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:52:30] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 32064, IP 0.0.0.0:0
+[2024-05-31 11:52:30] Controller slots reset
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:52:30] GameAction [AppID 220, ActionID 5] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:52:33] ThreadGetProcessExitCode: no such process 32220
+[2024-05-31 11:52:33] ThreadGetProcessExitCode: no such process 32217
+[2024-05-31 11:52:33] ThreadGetProcessExitCode: no such process 32066
+[2024-05-31 11:52:33] ThreadGetProcessExitCode: no such process 32311
+[2024-05-31 11:52:34] ThreadGetProcessExitCode: no such process 32401
+[2024-05-31 11:52:34] ThreadGetProcessExitCode: no such process 32359
+[2024-05-31 11:52:35] ThreadGetProcessExitCode: no such process 32407
+[2024-05-31 11:52:35] ThreadGetProcessExitCode: no such process 32404
+[2024-05-31 11:52:35] ThreadGetProcessExitCode: no such process 32223
+[2024-05-31 11:52:35] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 32219, IP 0.0.0.0:0
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32421
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32342
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32300
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32278
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32238
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32228
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32225
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32185
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32065
+[2024-05-31 11:52:36] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 32219 
+[2024-05-31 11:52:36] ThreadGetProcessExitCode: no such process 32219
+[2024-05-31 11:53:24] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:53:24] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:53:24] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:53:25] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:53:25] GameAction [AppID 220, ActionID 6] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:53:25] GameAction [AppID 220, ActionID 6] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:53:25] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:53:25] GameAction [AppID 220, ActionID 6] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:53:26] GameAction [AppID 220, ActionID 6] : LaunchApp continues with user response "skip"
+[2024-05-31 11:53:27] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:53:27] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:53:27] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:53:27] GameAction [AppID 220, ActionID 6] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:53:27] GameAction [AppID 220, ActionID 6] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:53:27] Game process added : AppID 220 "PROTON_LOG=1 -windowed /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 32862, IP 0.0.0.0:0
+[2024-05-31 11:53:27] Controller slots reset
+[2024-05-31 11:53:28] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:53:28] GameAction [AppID 220, ActionID 6] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:53:28] Game process removed: AppID 220 "PROTON_LOG=1 -windowed /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 32862 
+[2024-05-31 11:53:48] Steam: An X Error occurred
+[2024-05-31 11:53:48] X Error of failed request:  BadWindow (invalid Window parameter)
+[2024-05-31 11:53:48] Major opcode of failed request:  20 (X_GetProperty)
+[2024-05-31 11:53:48] Resource id in failed request:  0x1
+[2024-05-31 11:53:48] Serial number of failed request:  9
+[2024-05-31 11:53:48] xerror_handler: X failed, continuing
+[2024-05-31 11:53:49] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:53:50] GameAction [AppID 220, ActionID 7] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:53:51] GameAction [AppID 220, ActionID 7] : LaunchApp continues with user response "skip"
+[2024-05-31 11:53:52] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:53:52] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:53:52] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:53:52] GameAction [AppID 220, ActionID 7] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:53:53] GameAction [AppID 220, ActionID 7] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:53:53] Game process added : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33084, IP 0.0.0.0:0
+[2024-05-31 11:53:53] Controller slots reset
+[2024-05-31 11:53:53] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:53:53] GameAction [AppID 220, ActionID 7] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:53:55] ThreadGetProcessExitCode: no such process 33176
+[2024-05-31 11:53:55] ThreadGetProcessExitCode: no such process 33174
+[2024-05-31 11:53:55] ThreadGetProcessExitCode: no such process 33086
+[2024-05-31 11:53:56] Game process updated : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33175, IP 0.0.0.0:0
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33179
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33250
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33233
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33212
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33206
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33193
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33184
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33181
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33171
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33085
+[2024-05-31 11:53:56] Game process removed: AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 9.0 (Beta)'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33175 
+[2024-05-31 11:53:56] ThreadGetProcessExitCode: no such process 33175
+[2024-05-31 11:54:38] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:54:39] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:54:39] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:54:45] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:54:50] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:54:50] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:54:50] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:54:51] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:54:51] GameAction [AppID 220, ActionID 8] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:54:51] GameAction [AppID 220, ActionID 8] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:54:51] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:54:51] GameAction [AppID 220, ActionID 8] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:54:51] Steam: An X Error occurred
+[2024-05-31 11:54:51] X Error of failed request:  BadWindow (invalid Window parameter)
+[2024-05-31 11:54:51] Major opcode of failed request:  15 (X_QueryTree)
+[2024-05-31 11:54:51] Resource id in failed request:  0x1
+[2024-05-31 11:54:51] Serial number of failed request:  8
+[2024-05-31 11:54:51] xerror_handler: X failed, continuing
+[2024-05-31 11:54:58] GameAction [AppID 220, ActionID 8] : LaunchApp continues with user response "skip"
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:55:00] Game process added : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33779, IP 0.0.0.0:0
+[2024-05-31 11:55:00] Controller slots reset
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:55:00] GameAction [AppID 220, ActionID 8] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:55:03] ThreadGetProcessExitCode: no such process 33956
+[2024-05-31 11:55:03] ThreadGetProcessExitCode: no such process 33954
+[2024-05-31 11:55:03] ThreadGetProcessExitCode: no such process 33781
+[2024-05-31 11:55:03] Game process updated : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33955, IP 0.0.0.0:0
+[2024-05-31 11:55:05] Game process removed: AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 33955 
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 34043
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 34019
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33981
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33971
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33966
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33959
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33955
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33896
+[2024-05-31 11:55:05] ThreadGetProcessExitCode: no such process 33780
+[2024-05-31 11:55:11] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:55:11] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:55:11] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:55:12] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:55:12] GameAction [AppID 220, ActionID 9] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:55:12] GameAction [AppID 220, ActionID 9] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:55:12] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:55:12] GameAction [AppID 220, ActionID 9] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:55:14] Game process added : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 34073, IP 0.0.0.0:0
+[2024-05-31 11:55:14] Controller slots reset
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:55:14] GameAction [AppID 220, ActionID 9] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:55:18] ThreadGetProcessExitCode: no such process 34161
+[2024-05-31 11:55:18] ThreadGetProcessExitCode: no such process 34159
+[2024-05-31 11:55:18] ThreadGetProcessExitCode: no such process 34075
+[2024-05-31 11:55:18] Game process updated : AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 34160, IP 0.0.0.0:0
+[2024-05-31 11:55:20] Game process removed: AppID 220 "PROTON_LOG=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_soldier'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton 5.13'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam -windowed", ProcID 34160 
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34206
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34189
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34176
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34169
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34166
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34164
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34160
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34158
+[2024-05-31 11:55:20] ThreadGetProcessExitCode: no such process 34074
+[2024-05-31 11:55:22] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:55:36] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:55:36] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:55:36] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to DownloadingDepots with ""
+[2024-05-31 11:55:41] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:55:41] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:55:42] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 11:55:42] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:55:42] GameAction [AppID 220, ActionID 10] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:55:42] GameAction [AppID 220, ActionID 10] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:55:42] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:55:42] GameAction [AppID 220, ActionID 10] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:55:44] GameAction [AppID 220, ActionID 10] : LaunchApp continues with user response "skip"
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:55:45] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34497, IP 0.0.0.0:0
+[2024-05-31 11:55:45] Controller slots reset
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:55:45] GameAction [AppID 220, ActionID 10] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:55:48] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34529, IP 0.0.0.0:0
+[2024-05-31 11:55:49] ThreadGetProcessExitCode: no such process 34535
+[2024-05-31 11:55:49] ThreadGetProcessExitCode: no such process 34532
+[2024-05-31 11:55:49] ThreadGetProcessExitCode: no such process 34528
+[2024-05-31 11:55:49] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34589, IP 0.0.0.0:0
+[2024-05-31 11:55:49] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34589, IP 0.0.0.0:0
+[2024-05-31 11:55:54] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34589, IP 0.0.0.0:0
+[2024-05-31 11:55:54] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34589, IP 0.0.0.0:0
+[2024-05-31 11:56:24] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/Proton 4.11'/proton waitforexitandrun '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 34589 
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34589
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34559
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34547
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34540
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34537
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34529
+[2024-05-31 11:56:24] ThreadGetProcessExitCode: no such process 34498
+[2024-05-31 11:57:24] GameAction [AppID 220, ActionID 11] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:57:25] GameAction [AppID 220, ActionID 11] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:57:48] GameAction [AppID 220, ActionID 12] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:57:51] GameAction [AppID 220, ActionID 12] : LaunchApp continues with user response "skip"
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:57:52] Game process added : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam PROTON_NO_ESYNC=1", ProcID 35528, IP 0.0.0.0:0
+[2024-05-31 11:57:52] Controller slots reset
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:57:52] GameAction [AppID 220, ActionID 12] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:57:55] ThreadGetProcessExitCode: no such process 35616
+[2024-05-31 11:57:55] ThreadGetProcessExitCode: no such process 35614
+[2024-05-31 11:57:55] ThreadGetProcessExitCode: no such process 35530
+[2024-05-31 11:57:55] ThreadGetProcessExitCode: no such process 35646
+[2024-05-31 11:57:56] ThreadGetProcessExitCode: no such process 35668
+[2024-05-31 11:57:56] ThreadGetProcessExitCode: no such process 35674
+[2024-05-31 11:57:56] ThreadGetProcessExitCode: no such process 35672
+[2024-05-31 11:57:56] ThreadGetProcessExitCode: no such process 35670
+[2024-05-31 11:57:57] ThreadGetProcessExitCode: no such process 35676
+[2024-05-31 11:57:57] ThreadGetProcessExitCode: no such process 35666
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35694
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35692
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35619
+[2024-05-31 11:57:58] Game process updated : AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam PROTON_NO_ESYNC=1", ProcID 35615, IP 0.0.0.0:0
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35721
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35684
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35679
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35653
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35636
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35631
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35624
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35621
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35612
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35529
+[2024-05-31 11:57:58] Game process removed: AppID 220 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam PROTON_NO_ESYNC=1", ProcID 35615 
+[2024-05-31 11:57:58] ThreadGetProcessExitCode: no such process 35615
+[2024-05-31 11:58:15] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 11:58:15] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 11:58:15] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 11:58:16] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 11:58:16] GameAction [AppID 220, ActionID 13] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 11:58:16] GameAction [AppID 220, ActionID 13] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 11:58:16] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 11:58:16] GameAction [AppID 220, ActionID 13] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 11:58:27] GameAction [AppID 220, ActionID 13] : LaunchApp continues with user response "skip"
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 11:58:29] Game process added : AppID 220 "PROTON_NO_ESYNC=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 36220, IP 0.0.0.0:0
+[2024-05-31 11:58:29] Controller slots reset
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 11:58:29] GameAction [AppID 220, ActionID 13] : LaunchApp changed task to Completed with ""
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36310
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36308
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36222
+[2024-05-31 11:58:32] Game process updated : AppID 220 "PROTON_NO_ESYNC=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 36309, IP 0.0.0.0:0
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36313
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36375
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36358
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36345
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36339
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36327
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36318
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36315
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36307
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36221
+[2024-05-31 11:58:32] Game process removed: AppID 220 "PROTON_NO_ESYNC=1 /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=220 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Half-Life 2/hl2.exe' -game hl2 -steam", ProcID 36309 
+[2024-05-31 11:58:32] ThreadGetProcessExitCode: no such process 36309
+[2024-05-31 12:00:07] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 12:00:08] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 12:00:10] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 12:00:12] saving roaming config store to 'sharedconfig.vdf'
+[2024-05-31 12:00:12] roaming config store 2 saved successfully
+[2024-05-31 12:09:23] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:09:24] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:09:24] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:09:24] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:09:25] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:09:25] GameAction [AppID 730, ActionID 14] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:09:25] GameAction [AppID 730, ActionID 14] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:09:25] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:09:25] GameAction [AppID 730, ActionID 14] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp continues with user response "skip"
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:09:28] Game process added : AppID 730 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 38266, IP 0.0.0.0:0
+[2024-05-31 12:09:28] Controller slots reset
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:09:28] GameAction [AppID 730, ActionID 14] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:09:31] Game process updated : AppID 730 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 38354, IP 0.0.0.0:0
+[2024-05-31 12:10:35] Game process removed: AppID 730 "/home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 38354 
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38356
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38355
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38353
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38354
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38350
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38268
+[2024-05-31 12:10:35] ThreadGetProcessExitCode: no such process 38267
+[2024-05-31 12:10:57] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:10:57] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:10:57] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:10:57] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:10:58] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:10:58] GameAction [AppID 730, ActionID 15] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:10:58] GameAction [AppID 730, ActionID 15] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:10:58] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:10:58] GameAction [AppID 730, ActionID 15] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:11:00] GameAction [AppID 730, ActionID 15] : LaunchApp continues with user response "skip"
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:11:01] Game process added : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 38914, IP 0.0.0.0:0
+[2024-05-31 12:11:01] Controller slots reset
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:11:01] GameAction [AppID 730, ActionID 15] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:11:03] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 39007, IP 0.0.0.0:0
+[2024-05-31 12:11:20] Game process removed: AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun --  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/cs2.sh' -steam", ProcID 39007 
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39049
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39010
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39009
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39007
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39006
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 39003
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 38918
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 38917
+[2024-05-31 12:11:20] ThreadGetProcessExitCode: no such process 38916
+[2024-05-31 12:11:39] CAPIJobRequestUserStats - Server response failed 2
+[2024-05-31 12:11:45] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:11:46] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:11:46] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:11:48] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to RunningInstallScript with ""
+[2024-05-31 12:12:03] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:12:04] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:12:04] GameAction [AppID 730, ActionID 16] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:12:04] GameAction [AppID 730, ActionID 16] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:12:04] GameAction [AppID 730, ActionID 16] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:12:04] GameAction [AppID 730, ActionID 16] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:12:30] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:12:31] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:12:31] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:12:34] GameAction [AppID 730, ActionID 17] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:12:39] GameAction [AppID 730, ActionID 17] : LaunchApp continues with user response "skip"
+[2024-05-31 12:12:40] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:12:40] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:12:40] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:12:40] GameAction [AppID 730, ActionID 17] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:12:41] GameAction [AppID 730, ActionID 17] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:12:41] Game process added : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam", ProcID 40404, IP 0.0.0.0:0
+[2024-05-31 12:12:41] Controller slots reset
+[2024-05-31 12:12:41] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:12:41] GameAction [AppID 730, ActionID 17] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:12:43] ThreadGetProcessExitCode: no such process 40501
+[2024-05-31 12:12:43] ThreadGetProcessExitCode: no such process 40499
+[2024-05-31 12:12:43] ThreadGetProcessExitCode: no such process 40408
+[2024-05-31 12:12:43] ThreadGetProcessExitCode: no such process 40406
+[2024-05-31 12:12:44] ThreadGetProcessExitCode: no such process 40504
+[2024-05-31 12:12:44] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam", ProcID 40500, IP 0.0.0.0:0
+[2024-05-31 12:12:45] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam", ProcID 40567, IP 0.0.0.0:0
+[2024-05-31 12:14:05] Steam: An X Error occurred
+[2024-05-31 12:14:05] X Error of failed request:  BadWindow (invalid Window parameter)
+[2024-05-31 12:14:05] Major opcode of failed request:  20 (X_GetProperty)
+[2024-05-31 12:14:05] Resource id in failed request:  0x1
+[2024-05-31 12:14:05] Serial number of failed request:  9
+[2024-05-31 12:14:05] xerror_handler: X failed, continuing
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40648
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40550
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40537
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40531
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40519
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40510
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40507
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40500
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40498
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40407
+[2024-05-31 12:18:16] Game process removed: AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam", ProcID 40567 
+[2024-05-31 12:18:16] ThreadGetProcessExitCode: no such process 40567
+[2024-05-31 12:18:29] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:18:29] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:18:29] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:18:32] GameAction [AppID 730, ActionID 18] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:18:35] GameAction [AppID 730, ActionID 18] : LaunchApp continues with user response "skip"
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:18:37] Game process added : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -windowed", ProcID 41236, IP 0.0.0.0:0
+[2024-05-31 12:18:37] Controller slots reset
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:18:37] GameAction [AppID 730, ActionID 18] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:18:39] ThreadGetProcessExitCode: no such process 41335
+[2024-05-31 12:18:39] ThreadGetProcessExitCode: no such process 41333
+[2024-05-31 12:18:39] ThreadGetProcessExitCode: no such process 41240
+[2024-05-31 12:18:39] ThreadGetProcessExitCode: no such process 41238
+[2024-05-31 12:18:40] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -windowed", ProcID 41334, IP 0.0.0.0:0
+[2024-05-31 12:18:40] ThreadGetProcessExitCode: no such process 41339
+[2024-05-31 12:18:41] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -windowed", ProcID 41403, IP 0.0.0.0:0
+[2024-05-31 12:18:50] Steam: An X Error occurred
+[2024-05-31 12:18:50] X Error of failed request:  BadWindow (invalid Window parameter)
+[2024-05-31 12:18:50] Major opcode of failed request:  20 (X_GetProperty)
+[2024-05-31 12:18:50] Resource id in failed request:  0x1
+[2024-05-31 12:18:50] Serial number of failed request:  9
+[2024-05-31 12:18:50] xerror_handler: X failed, continuing
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41488
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41386
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41373
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41367
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41354
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41344
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41341
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41334
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41332
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41239
+[2024-05-31 12:19:04] Game process removed: AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -windowed", ProcID 41403 
+[2024-05-31 12:19:04] ThreadGetProcessExitCode: no such process 41403
+[2024-05-31 12:19:48] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:19:48] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:19:49] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:19:51] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:19:52] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:19:52] GameAction [AppID 730, ActionID 19] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:19:52] GameAction [AppID 730, ActionID 19] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:19:52] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:19:52] GameAction [AppID 730, ActionID 19] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:19:53] GameAction [AppID 730, ActionID 19] : LaunchApp continues with user response "skip"
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:19:54] Game process added : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -startwindowed", ProcID 41793, IP 0.0.0.0:0
+[2024-05-31 12:19:54] Controller slots reset
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:19:54] GameAction [AppID 730, ActionID 19] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:19:56] ThreadGetProcessExitCode: no such process 41894
+[2024-05-31 12:19:56] ThreadGetProcessExitCode: no such process 41892
+[2024-05-31 12:19:56] ThreadGetProcessExitCode: no such process 41797
+[2024-05-31 12:19:56] ThreadGetProcessExitCode: no such process 41795
+[2024-05-31 12:19:57] ThreadGetProcessExitCode: no such process 41897
+[2024-05-31 12:19:57] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -startwindowed", ProcID 41893, IP 0.0.0.0:0
+[2024-05-31 12:19:58] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -startwindowed", ProcID 41961, IP 0.0.0.0:0
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 42047
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41944
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41931
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41925
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41912
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41902
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41899
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41893
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41891
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41796
+[2024-05-31 12:20:20] Game process removed: AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -startwindowed", ProcID 41961 
+[2024-05-31 12:20:20] ThreadGetProcessExitCode: no such process 41961
+[2024-05-31 12:20:49] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to UpdatingAppInfo with ""
+[2024-05-31 12:20:50] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to CheckShaderDepotManifest with ""
+[2024-05-31 12:20:50] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to ProcessingInstallScript with ""
+[2024-05-31 12:20:52] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to SynchronizingCloud with ""
+[2024-05-31 12:20:53] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to ShowInterstitials with ""
+[2024-05-31 12:20:53] GameAction [AppID 730, ActionID 20] : LaunchApp waiting for user response to ShowInterstitials ""
+[2024-05-31 12:20:53] GameAction [AppID 730, ActionID 20] : LaunchApp continues with user response "ShowInterstitials"
+[2024-05-31 12:20:53] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to ProcessingShaderCache with ""
+[2024-05-31 12:20:53] GameAction [AppID 730, ActionID 20] : LaunchApp waiting for user response to ProcessingShaderCache ""
+[2024-05-31 12:20:57] GameAction [AppID 730, ActionID 20] : LaunchApp continues with user response "skip"
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to SiteLicenseSeatCheckout with ""
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to WaitForStreamingEncoderConfig with ""
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to CreatingProcess with ""
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp waiting for user response to CreatingProcess ""
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp continues with user response "CreatingProcess"
+[2024-05-31 12:20:59] Game process added : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -window -noborder", ProcID 42601, IP 0.0.0.0:0
+[2024-05-31 12:20:59] Controller slots reset
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to WaitingGameWindow with ""
+[2024-05-31 12:20:59] GameAction [AppID 730, ActionID 20] : LaunchApp changed task to Completed with ""
+[2024-05-31 12:21:01] ThreadGetProcessExitCode: no such process 42698
+[2024-05-31 12:21:01] ThreadGetProcessExitCode: no such process 42696
+[2024-05-31 12:21:01] ThreadGetProcessExitCode: no such process 42605
+[2024-05-31 12:21:01] ThreadGetProcessExitCode: no such process 42603
+[2024-05-31 12:21:02] ThreadGetProcessExitCode: no such process 42702
+[2024-05-31 12:21:02] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -window -noborder", ProcID 42697, IP 0.0.0.0:0
+[2024-05-31 12:21:03] Game process updated : AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -window -noborder", ProcID 42764, IP 0.0.0.0:0
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42849
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42747
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42734
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42728
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42716
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42707
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42704
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42697
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42695
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42604
+[2024-05-31 12:21:59] Game process removed: AppID 730 "mangohud /home/fng/.local/share/Steam/ubuntu12_32/reaper SteamLaunch AppId=730 -- /home/fng/.local/share/Steam/ubuntu12_32/steam-launch-wrapper -- '/home/fng/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper'/_v2-entry-point --verb=waitforexitandrun -- '/home/fng/.local/share/Steam/steamapps/common/Proton - Experimental'/proton waitforexitandrun  '/home/fng/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/game/bin/win64/cs2.exe' -steam -window -noborder", ProcID 42764 
+[2024-05-31 12:21:59] ThreadGetProcessExitCode: no such process 42764

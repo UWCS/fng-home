@@ -1,0 +1,9 @@
+
+
+[2024-05-31 12:09:32] Client version: 1716584667
+[2024-05-31 12:09:32] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
+[2024-05-31 12:11:04] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
+[2024-05-31 12:12:52] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
+[2024-05-31 12:18:58] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
+[2024-05-31 12:20:15] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
+[2024-05-31 12:21:13] ISteamUser::BSetDurationControlOnlineState: New state 3 for app 730, starting timers
