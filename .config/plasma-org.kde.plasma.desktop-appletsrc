@@ -19,6 +19,10 @@ wallpaperplugin=org.kde.image
 positions={"2560x1440":["1"\\,"23"\\,"desktop:/FixDesktop.sh"\\,"0"\\,"0"]}
 sortMode=-1
 
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/home/fng/Pictures/wallpaper.png
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -115,7 +119,7 @@ immutability=1
 plugin=org.kde.plasma.keyboardlayout
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][8][Applets][15]
 immutability=1
