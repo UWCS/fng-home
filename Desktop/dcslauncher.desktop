@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=python /home/fng/dcslauncher/main.py
+Icon=/home/fng/dcslauncher/logo_wide.svg
+Name=DCS Launcher
+Path=/home/fng/dcslauncher/
+Terminal=false
+Type=Application
