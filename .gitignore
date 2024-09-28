@@ -2,6 +2,9 @@
 /.bash_history
 /.mozilla
 /.steam
-/.local/share/Steam
-/.local/share/PrismLauncher
-/.local/share/klipper
+/.local/share
+/.dcspkg
+/.config/pulse
+
+# Repos
+/dcslauncher
